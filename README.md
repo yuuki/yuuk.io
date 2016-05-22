@@ -8,6 +8,16 @@ Web Operation Engineer, working at Hatena.
 - Blog (Japanese): [ゆううきブログ](https://yuuki.hatenablog.com/archive)
 - Twitter (Japanese): [@y_uuk1](https://twitter.com/y_uuk1)
 
+## Technology Topics
+
+He's interested in Web Operation, particularly the below topics.
+
+- System Performance Engineering
+  - High Performance Linux Kernel Network Stack
+  - High Performance Time-Series Database
+- Container-based Application Deployment
+- Monitoring Large-Scale Systems
+
 ## Products
 
 - [Droot](https://github.com/yuuki/droot)
