@@ -7,6 +7,7 @@ Web Operation Engineer, working at Hatena.
 - GitHub: [yuuki](https://github.com/yuuki)
 - Blog (Japanese): [ゆううきブログ](https://yuuki.hatenablog.com/archive)
 - Twitter (Japanese): [@y_uuk1](https://twitter.com/y_uuk1)
+- CPAN: [YUUKI](https://metacpan.org/author/YUUKI)
 
 ## Technology Topics
 
@@ -35,7 +36,7 @@ He's interested in Web Operation, particularly the below topics.
 - [ansible-mackerel-agent](https://github.com/mackerelio/ansible-mackerel-agent)
   - An Ansible role for mackerel-agent
 - [Coteng](https://metacpan.org/pod/Coteng)
-  -  Lightweight Teng O/R Mapper
+  - Lightweight Teng O/R Mapper
 
 ## Publications
 
