@@ -1,5 +1,3 @@
-## YUUKI
-
 ![y_uuki's profile image](https://raw.githubusercontent.com/yuuki/yuuk.io/master/images/y_uuki.small.png)
 
 Web Operation Engineer, working at Hatena.
