@@ -5,7 +5,7 @@
 Web Operation Engineer, working at Hatena.
 
 - GitHub: [yuuki](https://github.com/yuuki)
-- Blog (Japanese): [ゆううきブログ](https://blog.yuuk.io/archive)
+- Blog (Japanese): [ゆううきブログ](http://blog.yuuk.io/archive)
 - Twitter (Japanese): [@y_uuk1](https://twitter.com/y_uuk1)
 - CPAN: [YUUKI](https://metacpan.org/author/YUUKI)
 
