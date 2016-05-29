@@ -5,7 +5,7 @@
 Web Operation Engineer, working at Hatena.
 
 - GitHub: [yuuki](https://github.com/yuuki)
-- Blog (Japanese): [ゆううきブログ](https://yuuki.hatenablog.com/archive)
+- Blog (Japanese): [ゆううきブログ](https://blog.yuuk.io/archive)
 - Twitter (Japanese): [@y_uuk1](https://twitter.com/y_uuk1)
 - CPAN: [YUUKI](https://metacpan.org/author/YUUKI)
 
@@ -48,22 +48,22 @@ He's interested in Web Operation, particularly the below topics.
 
 ## Blog Entries
 
-- [自作Linuxコンテナの時代](http://yuuki.hatenablog.com/entry/diy-container), 2016-04-27
+- [自作Linuxコンテナの時代](http://blog.yuuk.io/entry/diy-container), 2016-04-27
 - [インフラエンジニアがGo言語でオペレーションツールを書くことについて](http://developer.hatenastaff.com/entry/golang-for-ops), 2016-03-24
-- [ウェブアプリケーション開発に新言語を採用したときにインフラで考えたこと](http://yuuki.hatenablog.com/entry/infra-for-newlang), 2016-03-02
-- [Linuxサーバにログインしたらいつもやっているオペレーション](http://yuuki.hatenablog.com/entry/linux-server-operations), 2016-02-18
-- [Serverspec + Mackerel APIによるインフラテストの実運用化](http://yuuki.hatenablog.com/entry/mackerel-serverspec), 2015-12-24
-- [Dockerとchrootを組み合わせたシンプルなコンテナデプロイツール](http://yuuki.hatenablog.com/entry/droot), 2015-12-01
-- [はてなで大規模サービスのインフラを学んだ](http://yuuki.hatenablog.com/entry/large-scale-infrastructure), 2015-07-30 
-- [Webシステムにおけるデータベース接続アーキテクチャ概論](http://yuuki.hatenablog.com/entry/architecture-of-database-connection), 2015-06-30
-- [2015年Webサーバアーキテクチャ序論](http://yuuki.hatenablog.com/entry/2015-webserver-architecture), 2015-05-28
-- [Mackerelを支える時系列データベース技術](http://yuuki.hatenablog.com/entry/high-performance-graphite), 2015-04-30
-- [Linuxでロードバランサやキャッシュサーバをマルチコアスケールさせるためのカーネルチューニング](http://yuuki.hatenablog.com/entry/linux-networkstack-tuning-rfs), 2015-03-31
-- [Ansible + Mackerel APIによる1000台規模のサーバオペレーション](http://yuuki.hatenablog.com/entry/ansible-mackerel-1000), 2015-02-26 
-- [パフォーマンスの観点からみるDockerの仕組みと性能検証](http://yuuki.hatenablog.com/entry/docker-performance-on-web-application), 2015-01-19 
-- [インフラエンジニア向けシステム系論文](http://yuuki.hatenablog.com/entry/system-papers), 2014-12-23
-- [Go言語によるCLIツール開発とUNIX哲学について](http://yuuki.hatenablog.com/entry/go-cli-unix), 2014-12-08
-- [GoとMySQLを用いたジョブキューシステムを作るときに考えたこと](http://yuuki.hatenablog.com/entry/go-and-mysql-jobqueue), 2014-12-04
+- [ウェブアプリケーション開発に新言語を採用したときにインフラで考えたこと](http://blog.yuuk.io/entry/infra-for-newlang), 2016-03-02
+- [Linuxサーバにログインしたらいつもやっているオペレーション](http://blog.yuuk.io/entry/linux-server-operations), 2016-02-18
+- [Serverspec + Mackerel APIによるインフラテストの実運用化](http://blog.yuuk.io/entry/mackerel-serverspec), 2015-12-24
+- [Dockerとchrootを組み合わせたシンプルなコンテナデプロイツール](http://blog.yuuk.io/entry/droot), 2015-12-01
+- [はてなで大規模サービスのインフラを学んだ](http://blog.yuuk.io/entry/large-scale-infrastructure), 2015-07-30 
+- [Webシステムにおけるデータベース接続アーキテクチャ概論](http://blog.yuuk.io/entry/architecture-of-database-connection), 2015-06-30
+- [2015年Webサーバアーキテクチャ序論](http://blog.yuuk.io/entry/2015-webserver-architecture), 2015-05-28
+- [Mackerelを支える時系列データベース技術](http://blog.yuuk.io/entry/high-performance-graphite), 2015-04-30
+- [Linuxでロードバランサやキャッシュサーバをマルチコアスケールさせるためのカーネルチューニング](http://blog.yuuk.io/entry/linux-networkstack-tuning-rfs), 2015-03-31
+- [Ansible + Mackerel APIによる1000台規模のサーバオペレーション](http://blog.yuuk.io/entry/ansible-mackerel-1000), 2015-02-26 
+- [パフォーマンスの観点からみるDockerの仕組みと性能検証](http://blog.yuuk.io/entry/docker-performance-on-web-application), 2015-01-19 
+- [インフラエンジニア向けシステム系論文](http://blog.yuuk.io/entry/system-papers), 2014-12-23
+- [Go言語によるCLIツール開発とUNIX哲学について](http://blog.yuuk.io/entry/go-cli-unix), 2014-12-08
+- [GoとMySQLを用いたジョブキューシステムを作るときに考えたこと](http://blog.yuuk.io/entry/go-and-mysql-jobqueue), 2014-12-04
 
 ## Presentations
 
