@@ -68,6 +68,20 @@ He's interested in Web Operation, particularly the below topics.
 - [インフラエンジニア向けシステム系論文](http://blog.yuuk.io/entry/system-papers), 2014-12-23
 - [Go言語によるCLIツール開発とUNIX哲学について](http://blog.yuuk.io/entry/go-cli-unix), 2014-12-08
 - [GoとMySQLを用いたジョブキューシステムを作るときに考えたこと](http://blog.yuuk.io/entry/go-and-mysql-jobqueue), 2014-12-04
+- [ISUCONでNginxとMySQLをDocker化したときのパフォーマンス](http://blog.yuuk.io/entry/dockerized-isucon), 2014-11-25
+- [Dockerは速いのか？Dockerのパフォーマンスについて重要なことは何か？](http://blog.yuuk.io/entry/docker-performance), 2014-11-10
+- [tmux + ssh + Mackerel API を組み合わせたとにかくモダンなサーバオペレーション](http://blog.yuuk.io/entry/tmux-ssh-mackerel), 2014-09-26
+- [Facebookの数千台規模のmemcached運用について](http://blog.yuuk.io/entry/facebook-memcached-paper), 2014-07-09
+- [Linuxのブロックデバイスレベルで実現するrsyncより高速な差分バックアップについて](http://blog.yuuk.io/entry/dsync-paper), 2014-05-26
+- [Docker を用いた rpm / deb パッケージ作成の継続的インテグレーション](http://blog.yuuk.io/entry/docker-package-ci), 2014-05-12
+- [EC2でSR-IOVを使うときのNICドライバパラメータ検証](http://blog.yuuk.io/entry/2014/03/20/085600), 2014-03-20
+- [Docker + Mesos + Marathon + Graphite + Fluentd + Sensuを組み合わせたデプロイ管理ツールの話](http://blog.yuuk.io/entry/2013/12/22/174813), 2013-12-22
+- [超高速なパケットI/Oフレームワーク netmap について](http://blog.yuuk.io/entry/2013/08/03/162715), 2013-08-03
+- [100Gbpsソフトウェアルータの実現可能性に関する論文](http://blog.yuuk.io/entry/2013/05/15/153824), 2013-05-15
+- [GPUを用いたSSLリバースプロキシの実装について](http://blog.yuuk.io/entry/2013/04/17/171230), 2013-04-17
+- [SPDYで複数のTCPコネクションをひとつにまとめるとはどういうことか](http://blog.yuuk.io/entry/2013/03/08/185414), 2013-03-08
+- [Linuxカーネルにおけるネットワークスタック周りのChangeLog勉強メモ (2.6.0 ~ 2.6.20)](http://blog.yuuk.io/entry/linuxkernel-network-changelog-2.6.0-2.6.20), 2012-12-30
+- ["CUBIC: A new TCP-friendly high-speed TCP variant"を読んだ](http://blog.yuuk.io/entry/cubictcp), 2012-12-29
 
 ## Presentations
 
