@@ -46,6 +46,7 @@ He's interested in Web Operation, particularly the below topics.
 
 ## Blog Entries
 
+- [Googleが数千台もある10年前のLinuxディストリをライブアップグレードした話](http://blog.yuuk.io/entry/google-linux-distribution-live-upgrade), 2016-05-31
 - [自作Linuxコンテナの時代](http://blog.yuuk.io/entry/diy-container), 2016-04-27
 - [インフラエンジニアがGo言語でオペレーションツールを書くことについて](http://developer.hatenastaff.com/entry/golang-for-ops), 2016-03-24
 - [ウェブアプリケーション開発に新言語を採用したときにインフラで考えたこと](http://blog.yuuk.io/entry/infra-for-newlang), 2016-03-02
