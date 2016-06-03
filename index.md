@@ -14,7 +14,7 @@ Web Operation Engineer, working at Hatena.
 
 ## Technology Topics
 
-I'm interested in Web Operation, particularly the below topics.
+I'm interested in Web Operation, particularly the following topics.
 
 - System Performance Engineering
   - High Performance Linux Kernel Network Stack
