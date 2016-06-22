@@ -38,6 +38,7 @@ I'm interested in Web Operation, particularly the following topics.
 
 ## Publications
 
+- 坪内佑樹, Mackerelではじめるサーバ管理 第17回 ロール編成の考え方, [Software Design 2016年7月号](http://gihyo.jp/magazine/SD/archive/2016/201607), 技術評論社, 2016年6月18日
 - 坪内佑樹, Mackerelではじめるサーバ管理 第13回 MackerelとServerspecを組み合わせたインフラテスト, [Software Design 2016年3月号](http://gihyo.jp/magazine/SD/archive/2016/201603), 技術評論社, 2016年2月18日
 - 坪内佑樹, Mackerelではじめるサーバ管理 第9回 Mackerelのアーキテクチャを知る, [Software Design 2015年11月号](http://gihyo.jp/magazine/SD/archive/2015/201511), 技術評論社, 2015年10月17日
 - 坪内佑樹, Perl Hackers Hub 第34回 DockerによるPerlのWebアプリケーション開発, [WEB+DB PRESS Vol.88](http://gihyo.jp/magazine/wdpress/archive/2015/vol88), 技術評論社, 2015年8月24日
