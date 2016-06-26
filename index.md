@@ -86,6 +86,7 @@ I'm interested in Web Operation, particularly the following topics.
 
 ## Presentations
 
+- ウェブサービスのCentOS5撤退, [Hosting Casual Talks #3](http://connpass.com/event/29857/), 2016-06-25
 - [Droot Internals](https://speakerdeck.com/yuukit/droot-internals), [第9回コンテナ型仮想化の情報交換会＠福岡](http://ct-study.connpass.com/event/23455/), 2016-04-23
 - ウェブアプリケーション開発に新言語を採用したときにインフラで考えたこと, [第3回関西ITインフラ系勉強会](http://kansai-itinfra.connpass.com/event/26165/), 2016-02-27
 - [Writing Tools in Go For Ops Engineers](https://speakerdeck.com/yuukit/writing-tools-in-go-for-ops-engineers), [Go 1.6 Release Party](http://gocon.connpass.com/event/26572/), 2016-02-17
