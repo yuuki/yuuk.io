@@ -81,8 +81,8 @@ I'm interested in Web Operation, particularly the following topics.
 
 ## Presentations
 
-- [Mackerelにおける時系列データベースの性能改善](https://speakerdeck.com/yuukit/performance-improvement-of-tsdb-in-mackerel), [はてな・ペパボ技術大会〜インフラ技術基盤〜@福岡](http://pepabo.connpass.com/event/33522/), 2016-07-09
-- [はてなにおけるLinuxネットワークスタックパフォーマンス改善](https://speakerdeck.com/yuukit/linux-network-performance-improvement-at-hatena), [はてな・ペパボ技術大会〜インフラ技術基盤〜@京都](http://hatena.connpass.com/event/33521/), 2016-07-02
+- [Mackerelにおける時系列データベースの性能改善](https://speakerdeck.com/yuukit/performance-improvement-of-tsdb-in-mackerel), [ペパボ・はてな技術大会〜インフラ技術基盤〜 at 福岡](http://pepabo.connpass.com/event/33522/), 2016-07-09
+- [はてなにおけるLinuxネットワークスタックパフォーマンス改善](https://speakerdeck.com/yuukit/linux-network-performance-improvement-at-hatena), [はてな・ペパボ技術大会〜インフラ技術基盤〜 at 京都](http://hatena.connpass.com/event/33521/), 2016-07-02
 - [ウェブサービスのCentOS5撤退](https://speakerdeck.com/yuukit/centos5-retiring-for-web-servicies), [Hosting Casual Talks #3](http://connpass.com/event/29857/), 2016-06-25
 - [Droot Internals](https://speakerdeck.com/yuukit/droot-internals), [第9回コンテナ型仮想化の情報交換会＠福岡](http://ct-study.connpass.com/event/23455/), 2016-04-23
 - ウェブアプリケーション開発に新言語を採用したときにインフラで考えたこと, [第3回関西ITインフラ系勉強会](http://kansai-itinfra.connpass.com/event/26165/), 2016-02-27
