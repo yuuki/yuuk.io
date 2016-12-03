@@ -47,6 +47,7 @@ I'm interested in Web Operation, particularly the following topics.
 
 ## Blog Entries
 
+- [ISUCON予選突破を支えたオペレーション技術](http://blog.yuuk.io/entry/web-operations-isucon), 2016-08-23
 - [2016年ウェブオペレーションエンジニアの新卒研修](http://developer.hatenastaff.com/entry/2016-newbie-training-of-web-operation), 2016-07-25
 - [Googleが数千台もある10年前のLinuxディストリをライブアップグレードした話](http://blog.yuuk.io/entry/google-linux-distribution-live-upgrade), 2016-05-31
 - [自作Linuxコンテナの時代](http://blog.yuuk.io/entry/diy-container), 2016-04-27
@@ -82,6 +83,7 @@ I'm interested in Web Operation, particularly the following topics.
 
 ## Presentations
 
+- [サーバモニタリング向け時系列データベースの探究](https://speakerdeck.com/yuukit/the-study-of-time-series-database-for-server-monitoring), [第９回インターネットと運用技術シンポジウム(IOTS2016)](http://www.iot.ipsj.or.jp/iots/2016), 2016-12-01
 - [Mackerelにおける時系列データベースの性能改善](https://speakerdeck.com/yuukit/performance-improvement-of-tsdb-in-mackerel), [ペパボ・はてな技術大会〜インフラ技術基盤〜 at 福岡](http://pepabo.connpass.com/event/33522/), 2016-07-09
 - [はてなにおけるLinuxネットワークスタックパフォーマンス改善](https://speakerdeck.com/yuukit/linux-network-performance-improvement-at-hatena), [はてな・ペパボ技術大会〜インフラ技術基盤〜 at 京都](http://hatena.connpass.com/event/33521/), 2016-07-02
 - [ウェブサービスのCentOS5撤退](https://speakerdeck.com/yuukit/centos5-retiring-for-web-servicies), [Hosting Casual Talks #3](http://connpass.com/event/29857/), 2016-06-25
