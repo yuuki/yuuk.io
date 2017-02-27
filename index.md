@@ -5,18 +5,18 @@ layout: index
 
 ![y_uuki's profile image](https://raw.githubusercontent.com/yuuki/yuuk.io/master/images/y_uuki.small.png)
 
-Web Operation Engineer, working at Hatena.
+Web Operations Engineer, working at Hatena.
 
 - GitHub: [yuuki](https://github.com/yuuki)
-- Blog (Japanese): [ゆううきブログ](http://blog.yuuk.io/archive)
+- Blog (Japanese): http://blog.yuuk.io/
 - Twitter (Japanese): [@y_uuk1](https://twitter.com/y_uuk1)
 - CPAN: [YUUKI](https://metacpan.org/author/YUUKI)
 
 ## Technology Topics
 
-I'm interested in Web Operation, particularly the following topics.
+I'm interested in Site Reliability Engineering, particularly the following topics.
 
-- System Performance Engineering
+- Systems Performance Engineering
   - High Performance Linux Kernel Network Stack
   - High Performance Time-Series Database
 - Container-based Application Deployment
@@ -25,11 +25,11 @@ I'm interested in Web Operation, particularly the following topics.
 ## Products
 
 - [Droot](https://github.com/yuuki/droot)
-  - A super-easy container with chroot without docker. 
+  - A super-easy container with chroot without docker.
 - [gokc](https://github.com/yuuki/gokc)
   - Yet Another Keepalived Syntax Checker in Golang.
 - [grabeni](https://github.com/yuuki/grabeni)
-  - An ops-friendly AWS Elastic Network Interface (ENI) attachment grabbing tool. 
+  - An ops-friendly AWS Elastic Network Interface (ENI) attachment grabbing tool.
 - [mkr](https://github.com/mackerelio/mkr)
   - Command Line Tool for Mackerel
 - [mackerel-client-go](https://github.com/mackerelio/mackerel-client-go)
@@ -41,7 +41,7 @@ I'm interested in Web Operation, particularly the following topics.
 - [Coteng](https://metacpan.org/pod/Coteng)
   - Lightweight Teng O/R Mapper
 
-## Publications
+## Publications (in Japanese)
 
 - 坪内佑樹, Mackerelではじめるサーバ管理 第17回 ロール編成の考え方, [Software Design 2016年7月号](http://gihyo.jp/magazine/SD/archive/2016/201607), 技術評論社, 2016年6月18日
 - 坪内佑樹, Mackerelではじめるサーバ管理 第13回 MackerelとServerspecを組み合わせたインフラテスト, [Software Design 2016年3月号](http://gihyo.jp/magazine/SD/archive/2016/201603), 技術評論社, 2016年2月18日
@@ -50,43 +50,7 @@ I'm interested in Web Operation, particularly the following topics.
 - 坪内佑樹, Mackerelではじめるサーバ管理 第6回 Mackerel周辺の運用ツールとAWS連携ノウハウ, [Software Design 2015年8月号](http://gihyo.jp/magazine/SD/archive/2015/201508), 技術評論社, 2015年7月18日
 - 坪内佑樹, Mackerelではじめるサーバ管理 第3回 運用しながら育てるサーバ監視のルール, [Software Design 2015年5月号](http://gihyo.jp/magazine/SD/archive/2015/201505), 技術評論社, 2015年4月18日
 
-## Blog Entries
-
-- [ISUCON予選突破を支えたオペレーション技術](http://blog.yuuk.io/entry/web-operations-isucon), 2016-08-23
-- [2016年ウェブオペレーションエンジニアの新卒研修](http://developer.hatenastaff.com/entry/2016-newbie-training-of-web-operation), 2016-07-25
-- [Googleが数千台もある10年前のLinuxディストリをライブアップグレードした話](http://blog.yuuk.io/entry/google-linux-distribution-live-upgrade), 2016-05-31
-- [自作Linuxコンテナの時代](http://blog.yuuk.io/entry/diy-container), 2016-04-27
-- [インフラエンジニアがGo言語でオペレーションツールを書くことについて](http://developer.hatenastaff.com/entry/golang-for-ops), 2016-03-24
-- [ウェブアプリケーション開発に新言語を採用したときにインフラで考えたこと](http://blog.yuuk.io/entry/infra-for-newlang), 2016-03-02
-- [Linuxサーバにログインしたらいつもやっているオペレーション](http://blog.yuuk.io/entry/linux-server-operations), 2016-02-18
-- [Serverspec + Mackerel APIによるインフラテストの実運用化](http://blog.yuuk.io/entry/mackerel-serverspec), 2015-12-24
-- [Dockerとchrootを組み合わせたシンプルなコンテナデプロイツール](http://blog.yuuk.io/entry/droot), 2015-12-01
-- [はてなで大規模サービスのインフラを学んだ](http://blog.yuuk.io/entry/large-scale-infrastructure), 2015-07-30 
-- [Webシステムにおけるデータベース接続アーキテクチャ概論](http://blog.yuuk.io/entry/architecture-of-database-connection), 2015-06-30
-- [2015年Webサーバアーキテクチャ序論](http://blog.yuuk.io/entry/2015-webserver-architecture), 2015-05-28
-- [Mackerelを支える時系列データベース技術](http://blog.yuuk.io/entry/high-performance-graphite), 2015-04-30
-- [Linuxでロードバランサやキャッシュサーバをマルチコアスケールさせるためのカーネルチューニング](http://blog.yuuk.io/entry/linux-networkstack-tuning-rfs), 2015-03-31
-- [Ansible + Mackerel APIによる1000台規模のサーバオペレーション](http://blog.yuuk.io/entry/ansible-mackerel-1000), 2015-02-26 
-- [パフォーマンスの観点からみるDockerの仕組みと性能検証](http://blog.yuuk.io/entry/docker-performance-on-web-application), 2015-01-19 
-- [インフラエンジニア向けシステム系論文](http://blog.yuuk.io/entry/system-papers), 2014-12-23
-- [Go言語によるCLIツール開発とUNIX哲学について](http://blog.yuuk.io/entry/go-cli-unix), 2014-12-08
-- [GoとMySQLを用いたジョブキューシステムを作るときに考えたこと](http://blog.yuuk.io/entry/go-and-mysql-jobqueue), 2014-12-04
-- [ISUCONでNginxとMySQLをDocker化したときのパフォーマンス](http://blog.yuuk.io/entry/dockerized-isucon), 2014-11-25
-- [Dockerは速いのか？Dockerのパフォーマンスについて重要なことは何か？](http://blog.yuuk.io/entry/docker-performance), 2014-11-10
-- [tmux + ssh + Mackerel API を組み合わせたとにかくモダンなサーバオペレーション](http://blog.yuuk.io/entry/tmux-ssh-mackerel), 2014-09-26
-- [Facebookの数千台規模のmemcached運用について](http://blog.yuuk.io/entry/facebook-memcached-paper), 2014-07-09
-- [Linuxのブロックデバイスレベルで実現するrsyncより高速な差分バックアップについて](http://blog.yuuk.io/entry/dsync-paper), 2014-05-26
-- [Docker を用いた rpm / deb パッケージ作成の継続的インテグレーション](http://blog.yuuk.io/entry/docker-package-ci), 2014-05-12
-- [EC2でSR-IOVを使うときのNICドライバパラメータ検証](http://blog.yuuk.io/entry/2014/03/20/085600), 2014-03-20
-- [Docker + Mesos + Marathon + Graphite + Fluentd + Sensuを組み合わせたデプロイ管理ツールの話](http://blog.yuuk.io/entry/2013/12/22/174813), 2013-12-22
-- [超高速なパケットI/Oフレームワーク netmap について](http://blog.yuuk.io/entry/2013/08/03/162715), 2013-08-03
-- [100Gbpsソフトウェアルータの実現可能性に関する論文](http://blog.yuuk.io/entry/2013/05/15/153824), 2013-05-15
-- [GPUを用いたSSLリバースプロキシの実装について](http://blog.yuuk.io/entry/2013/04/17/171230), 2013-04-17
-- [SPDYで複数のTCPコネクションをひとつにまとめるとはどういうことか](http://blog.yuuk.io/entry/2013/03/08/185414), 2013-03-08
-- [Linuxカーネルにおけるネットワークスタック周りのChangeLog勉強メモ (2.6.0 ~ 2.6.20)](http://blog.yuuk.io/entry/linuxkernel-network-changelog-2.6.0-2.6.20), 2012-12-30
-- ["CUBIC: A new TCP-friendly high-speed TCP variant"を読んだ](http://blog.yuuk.io/entry/cubictcp), 2012-12-29
-
-## Presentations
+## Presentations (in Japanese)
 
 - [サーバモニタリング向け時系列データベースの探究](https://speakerdeck.com/yuukit/the-study-of-time-series-database-for-server-monitoring), [第９回インターネットと運用技術シンポジウム(IOTS2016)](http://www.iot.ipsj.or.jp/iots/2016), 2016-12-01
 - [Mackerelにおける時系列データベースの性能改善](https://speakerdeck.com/yuukit/performance-improvement-of-tsdb-in-mackerel), [ペパボ・はてな技術大会〜インフラ技術基盤〜 at 福岡](http://pepabo.connpass.com/event/33522/), 2016-07-09
@@ -107,3 +71,25 @@ I'm interested in Web Operation, particularly the following topics.
 - [なにもわからないところから始めるJVMモニタリング](https://speakerdeck.com/yuukit/nanimowakaranaitokorokarashi-merujvmmonitaringu), [JVM Operation Casual Talks](https://atnd.org/events/48999), 2014-04-07
 - [Docker使ってたらサーバがゴミ捨て場みたいになった話](https://speakerdeck.com/yuukit/dockershi-tutetarasahakakomishe-techang-mitaininatutetahua), [Immutable Infrastructure Conference #1](https://atnd.org/events/47786), 2014-03-25
 - [Sensu & Graphite Modern Monitoring Tool](https://speakerdeck.com/yuukit/sensu-plus-graphite), [Monitoring Casual Talk in Kyoto](http://www.zusaar.com/event/1377006), 2013-11-30
+
+## Representative Blog Entries (in Japanese)
+
+- [ISUCON予選突破を支えたオペレーション技術](http://blog.yuuk.io/entry/web-operations-isucon), 2016-08-23
+- [2016年ウェブオペレーションエンジニアの新卒研修](http://developer.hatenastaff.com/entry/2016-newbie-training-of-web-operation), 2016-07-25
+- [自作Linuxコンテナの時代](http://blog.yuuk.io/entry/diy-container), 2016-04-27
+- [インフラエンジニアがGo言語でオペレーションツールを書くことについて](http://developer.hatenastaff.com/entry/golang-for-ops), 2016-03-24
+- [ウェブアプリケーション開発に新言語を採用したときにインフラで考えたこと](http://blog.yuuk.io/entry/infra-for-newlang), 2016-03-02
+- [Linuxサーバにログインしたらいつもやっているオペレーション](http://blog.yuuk.io/entry/linux-server-operations), 2016-02-18
+- [Serverspec + Mackerel APIによるインフラテストの実運用化](http://blog.yuuk.io/entry/mackerel-serverspec), 2015-12-24
+- [Dockerとchrootを組み合わせたシンプルなコンテナデプロイツール](http://blog.yuuk.io/entry/droot), 2015-12-01
+- [はてなで大規模サービスのインフラを学んだ](http://blog.yuuk.io/entry/large-scale-infrastructure), 2015-07-30
+- [Webシステムにおけるデータベース接続アーキテクチャ概論](http://blog.yuuk.io/entry/architecture-of-database-connection), 2015-06-30
+- [2015年Webサーバアーキテクチャ序論](http://blog.yuuk.io/entry/2015-webserver-architecture), 2015-05-28
+- [Mackerelを支える時系列データベース技術](http://blog.yuuk.io/entry/high-performance-graphite), 2015-04-30
+- [Linuxでロードバランサやキャッシュサーバをマルチコアスケールさせるためのカーネルチューニング](http://blog.yuuk.io/entry/linux-networkstack-tuning-rfs), 2015-03-31
+- [Ansible + Mackerel APIによる1000台規模のサーバオペレーション](http://blog.yuuk.io/entry/ansible-mackerel-1000), 2015-02-26
+- [パフォーマンスの観点からみるDockerの仕組みと性能検証](http://blog.yuuk.io/entry/docker-performance-on-web-application), 2015-01-19
+- [インフラエンジニア向けシステム系論文](http://blog.yuuk.io/entry/system-papers), 2014-12-23
+- [Go言語によるCLIツール開発とUNIX哲学について](http://blog.yuuk.io/entry/go-cli-unix), 2014-12-08
+- [GoとMySQLを用いたジョブキューシステムを作るときに考えたこと](http://blog.yuuk.io/entry/go-and-mysql-jobqueue), 2014-12-04
+- [Docker + Mesos + Marathon + Graphite + Fluentd + Sensuを組み合わせたデプロイ管理ツールの話](http://blog.yuuk.io/entry/2013/12/22/174813), 2013-12-22
