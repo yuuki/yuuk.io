@@ -5,7 +5,7 @@ layout: index
 
 ![y_uuki's profile image](https://raw.githubusercontent.com/yuuki/yuuk.io/master/images/y_uuki.small.png)
 
-Web Operations Engineer, working at Hatena.
+Web Operations Engineer, working at Hatena Co., Ltd.
 
 - GitHub: [yuuki](https://github.com/yuuki)
 - Blog (Japanese): http://blog.yuuk.io/
