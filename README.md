@@ -19,6 +19,8 @@ I'm interested in Site Reliability Engineering, particularly the following topic
 
 ## Products
 
+- [DiamonDB](https://github.com/yuuki/diamondb)
+  - Rebuild of Time Series Database on AWS.
 - [Droot](https://github.com/yuuki/droot)
   - A super-easy container with chroot without docker.
 - [gokc](https://github.com/yuuki/gokc)
