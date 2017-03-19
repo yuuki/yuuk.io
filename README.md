@@ -49,6 +49,7 @@ I'm interested in Site Reliability Engineering, particularly the following topic
 
 ## Presentations (in Japanese)
 
+- [IPSJ-ONE 2017](https://speakerdeck.com/yuukit/ipsj-one-2017-y-uuki), [IPSJ-ONE 2017](http://ipsj-one.org/), 2017-03-18
 - [ウェブオペレーションエンジニアになるまでの思い出](https://speakerdeck.com/yuukit/memories-until-i-become-a-web-operations-engineer), [Hatena Engineer Seminar #7 @Tokyo](https://hatena.connpass.com/event/45217/), 2016-12-06
 - [サーバモニタリング向け時系列データベースの探究](https://speakerdeck.com/yuukit/the-study-of-time-series-database-for-server-monitoring), [第９回インターネットと運用技術シンポジウム(IOTS2016)](http://www.iot.ipsj.or.jp/iots/2016), 2016-12-01
 - [Mackerelにおける時系列データベースの性能改善](https://speakerdeck.com/yuukit/performance-improvement-of-tsdb-in-mackerel), [ペパボ・はてな技術大会〜インフラ技術基盤〜 at 福岡](http://pepabo.connpass.com/event/33522/), 2016-07-09
