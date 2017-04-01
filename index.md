@@ -16,11 +16,8 @@ Web Operations Engineer, working at Hatena Co., Ltd.
 
 I'm interested in Site Reliability Engineering, particularly the following topics.
 
-- Systems Performance Engineering
-  - High Performance Linux Kernel Network Stack
-  - High Performance Time-Series Database
-- Container-based Application Deployment
 - Monitoring Large-Scale Systems
+- Web Applications Architecture
 
 ## Products
 
