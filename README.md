@@ -46,6 +46,9 @@ I'm interested in Site Reliability Engineering, particularly the following topic
 
 ## Presentations (in Japanese)
 
+- [Go言語をほぼ毎日書いている話 (序) ](https://speakerdeck.com/yuukit/daily-coding-in-go), [そうだ Go、京都。](https://go-kyoto.connpass.com/event/55599/), 2017-04-28
+- AWSでつくる時系列データベース, リクルートテクノロジーズ社内勉強会, 2017-04-28
+- [mkr + peco + tmux + ssh](https://speakerdeck.com/yuukit/mkr-plus-peco-plus-tmux-plus-ssh), [Mackerel Meetup #10 Tokyo](https://mackerelio.connpass.com/event/54302/), 2017-04-27
 - [高度に発達したシステムの異常は神の怒りと見分けがつかない](https://speakerdeck.com/yuukit/ipsj-one-2017-y-uuki), [IPSJ-ONE 2017](http://ipsj-one.org/), 2017-03-18
 - [ウェブオペレーションエンジニアになるまでの思い出](https://speakerdeck.com/yuukit/memories-until-i-become-a-web-operations-engineer), [Hatena Engineer Seminar #7 @Tokyo](https://hatena.connpass.com/event/45217/), 2016-12-06
 - [サーバモニタリング向け時系列データベースの探究](https://speakerdeck.com/yuukit/the-study-of-time-series-database-for-server-monitoring), [第９回インターネットと運用技術シンポジウム(IOTS2016)](http://www.iot.ipsj.or.jp/iots/2016), 2016-12-01
