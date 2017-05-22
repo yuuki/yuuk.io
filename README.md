@@ -44,6 +44,12 @@ I'm interested in Site Reliability Engineering, particularly the following topic
 - 坪内佑樹, Mackerelではじめるサーバ管理 第6回 Mackerel周辺の運用ツールとAWS連携ノウハウ, [Software Design 2015年8月号](http://gihyo.jp/magazine/SD/archive/2015/201508), 技術評論社, 2015年7月18日
 - 坪内佑樹, Mackerelではじめるサーバ管理 第3回 運用しながら育てるサーバ監視のルール, [Software Design 2015年5月号](http://gihyo.jp/magazine/SD/archive/2015/201505), 技術評論社, 2015年4月18日
 
+## Competitions
+
+- [ISUCON6](http://isucon.net/archives/48465737.html) A Steering Committee.
+- [ISUCON5](http://isucon.net/archives/45166636.html) Finals.
+- [ISUCON4](http://isucon.net/archives/41252218.html) Finals.
+
 ## Presentations (in Japanese)
 
 - [Go言語をほぼ毎日書いている話 (序) ](https://speakerdeck.com/yuukit/daily-coding-in-go), [そうだ Go、京都。](https://go-kyoto.connpass.com/event/55599/), 2017-04-28
