@@ -52,6 +52,7 @@ I'm interested in Site Reliability Engineering, particularly the following topic
 
 ## Presentations (in Japanese)
 
+- [時系列データベースという概念をクラウドの技で再構築する](https://speakerdeck.com/yuukit/the-rebuild-of-time-series-database-on-aws), [AWS Summit Tokyo 2017](http://www.awssummit.tokyo/)), 2017-06-01
 - [Go言語をほぼ毎日書いている話 (序) ](https://speakerdeck.com/yuukit/daily-coding-in-go), [そうだ Go、京都。](https://go-kyoto.connpass.com/event/55599/), 2017-04-28
 - AWSでつくる時系列データベース, リクルートテクノロジーズ社内勉強会, 2017-04-28
 - [mkr + peco + tmux + ssh](https://speakerdeck.com/yuukit/mkr-plus-peco-plus-tmux-plus-ssh), [Mackerel Meetup #10 Tokyo](https://mackerelio.connpass.com/event/54302/), 2017-04-27
