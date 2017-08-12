@@ -79,6 +79,12 @@ I'm interested in Site Reliability Engineering, particularly the following topic
 - [Docker使ってたらサーバがゴミ捨て場みたいになった話](https://speakerdeck.com/yuukit/dockershi-tutetarasahakakomishe-techang-mitaininatutetahua), [Immutable Infrastructure Conference #1](https://atnd.org/events/47786), 2014-03-25
 - [Sensu & Graphite Modern Monitoring Tool](https://speakerdeck.com/yuukit/sensu-plus-graphite), [Monitoring Casual Talk in Kyoto](http://www.zusaar.com/event/1377006), 2013-11-30
 
+## Interviews
+
+- 2017年1月 はてなニュース [レンサバの常識を覆す「なめらかなシステム」に挑む──運用技術を学術研究して実際のサービスへ適用](http://hatenanews.com/articles/201701/24117)
+- 2016年12月 はてなニュース [Yahoo! JAPANの新しいメッセージングシステムと、それをOSSで開発するエンジニアの素顔](http://hatenanews.com/articles/201612/24092)
+- 2016年4月 はてなニュース [秒間100万リクエストを支えるオープンソースのコードを書くヤフーのインフラチームに、はてなエンジニアが迫る](http://hatenanews.com/articles/201604/23819)
+
 ## Representative Blog Entries (in Japanese)
 
 - [ISUCON予選突破を支えたオペレーション技術](http://blog.yuuk.io/entry/web-operations-isucon), 2016-08-23
