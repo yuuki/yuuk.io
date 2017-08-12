@@ -42,6 +42,7 @@ I'm interested in Site Reliability Engineering, particularly the following topic
 
 ## Publications (in Japanese)
 
+- 井上大輔 粕谷大輔 杉山広通 田中慎司 坪内佑樹 松木雅幸 著, [Mackerel サーバ監視［実践］入門](http://gihyo.jp/book/2017/978-4-7741-9213-0), 技術評論社, 2017年8月26日
 - 坪内佑樹, Mackerelではじめるサーバ管理 第17回 ロール編成の考え方, [Software Design 2016年7月号](http://gihyo.jp/magazine/SD/archive/2016/201607), 技術評論社, 2016年6月18日
 - 坪内佑樹, Mackerelではじめるサーバ管理 第13回 MackerelとServerspecを組み合わせたインフラテスト, [Software Design 2016年3月号](http://gihyo.jp/magazine/SD/archive/2016/201603), 技術評論社, 2016年2月18日
 - 坪内佑樹, Mackerelではじめるサーバ管理 第9回 Mackerelのアーキテクチャを知る, [Software Design 2015年11月号](http://gihyo.jp/magazine/SD/archive/2015/201511), 技術評論社, 2015年10月17日
