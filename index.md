@@ -88,6 +88,7 @@ I'm interested in Site Reliability Engineering, particularly the following topic
 ## Interviews
 
 - 2017年1月 はてなニュース [レンサバの常識を覆す「なめらかなシステム」に挑む──運用技術を学術研究して実際のサービスへ適用](http://hatenanews.com/articles/201701/24117)
+- 2016年12月 はてなWebオペレーションエンジニア座談会 [10年続くサービスを、インフラ技術で支える](http://hatenacorp.jp/recruit/operation_engineer)
 - 2016年12月 はてなニュース [Yahoo! JAPANの新しいメッセージングシステムと、それをOSSで開発するエンジニアの素顔](http://hatenanews.com/articles/201612/24092)
 - 2016年4月 はてなニュース [秒間100万リクエストを支えるオープンソースのコードを書くヤフーのインフラチームに、はてなエンジニアが迫る](http://hatenanews.com/articles/201604/23819)
 
