@@ -92,6 +92,10 @@ I'm interested in Site Reliability Engineering, particularly the following topic
 - 2016年12月 はてなニュース [Yahoo! JAPANの新しいメッセージングシステムと、それをOSSで開発するエンジニアの素顔](http://hatenanews.com/articles/201612/24092)
 - 2016年4月 はてなニュース [秒間100万リクエストを支えるオープンソースのコードを書くヤフーのインフラチームに、はてなエンジニアが迫る](http://hatenanews.com/articles/201604/23819)
 
+## Panel Discusstion
+
+- [人はなぜミドルウェアを作ってしまうのか?](http://2017.cross-party.com/program/x4), [CROSS 2017](http://2017.cross-party.com), 2017-09-07
+
 ## Representative Blog Entries (in Japanese)
 
 - [ISUCON予選突破を支えたオペレーション技術](http://blog.yuuk.io/entry/web-operations-isucon), 2016-08-23
