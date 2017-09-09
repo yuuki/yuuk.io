@@ -16,8 +16,8 @@ Web Operations Engineer, working at Hatena Co., Ltd.
 
 I'm interested in Site Reliability Engineering, particularly the following topics.
 
-- Monitoring Large-Scale Systems
-- Web Applications Architecture
+- Monitoring large-scale systems
+- Data-Intensive Applications
 
 ## Products
 
