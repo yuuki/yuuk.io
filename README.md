@@ -53,6 +53,7 @@ I'm interested in Site Reliability Engineering, particularly the following topic
 
 ## Presentations (in Japanese)
 
+- [はてなシステム構想](https://speakerdeck.com/yuukit/the-concept-of-hatena-system), [ペパボ・はてな技術大会@福岡](https://pepabo.connpass.com/event/65932/), 2017-10-07
 - [RedisのCPU負荷対策パターン](https://speakerdeck.com/yuukit/redisfalsecpufu-he-dui-ce-patan), [Kyoto.なんか #3](https://kyoto-nanka.connpass.com/event/62617/), 2017-08-19
 - [時系列データベースという概念をクラウドの技で再構築する](https://speakerdeck.com/yuukit/the-rebuild-of-time-series-database-on-aws), [AWS Summit Tokyo 2017](http://www.awssummit.tokyo/)), 2017-06-01
 - [Go言語をほぼ毎日書いている話 (序) ](https://speakerdeck.com/yuukit/daily-coding-in-go), [そうだ Go、京都。](https://go-kyoto.connpass.com/event/55599/), 2017-04-28
