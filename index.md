@@ -50,6 +50,12 @@ I'm interested in Site Reliability Engineering, particularly the following topic
 - 坪内佑樹, Mackerelではじめるサーバ管理 第6回 Mackerel周辺の運用ツールとAWS連携ノウハウ, [Software Design 2015年8月号](http://gihyo.jp/magazine/SD/archive/2015/201508), 技術評論社, 2015年7月18日
 - 坪内佑樹, Mackerelではじめるサーバ管理 第3回 運用しながら育てるサーバ監視のルール, [Software Design 2015年5月号](http://gihyo.jp/magazine/SD/archive/2015/201505), 技術評論社, 2015年4月18日
 
+## Keynotes and Invited Talks
+
+- 自然のごとく複雑化したウェブシステムの自律的運用に向けて, [人工知能学会 合同研究会 第3回ウェブサイエンス研究会](http://www.ai-gakkai.or.jp/sigconf/)(招待講演), 2017-11-24
+- [高度に発達したシステムの異常は神の怒りと見分けがつかない](https://speakerdeck.com/yuukit/ipsj-one-2017-y-uuki), [IPSJ-ONE 2017](http://ipsj-one.org/), 2017-03-18
+- [サーバモニタリング向け時系列データベースの探究](https://speakerdeck.com/yuukit/the-study-of-time-series-database-for-server-monitoring), [第９回インターネットと運用技術シンポジウム(IOTS2016)](http://www.iot.ipsj.or.jp/iots/2016)(招待講演), 2016-12-01
+
 ## Competitions
 
 - [ISUCON6](http://isucon.net/archives/48465737.html) A Steering Committee.
@@ -65,9 +71,7 @@ I'm interested in Site Reliability Engineering, particularly the following topic
 - [Go言語をほぼ毎日書いている話 (序) ](https://speakerdeck.com/yuukit/daily-coding-in-go), [そうだ Go、京都。](https://go-kyoto.connpass.com/event/55599/), 2017-04-28
 - AWSでつくる時系列データベース, リクルートテクノロジーズ社内勉強会, 2017-04-28
 - [mkr + peco + tmux + ssh](https://speakerdeck.com/yuukit/mkr-plus-peco-plus-tmux-plus-ssh), [Mackerel Meetup #10 Tokyo](https://mackerelio.connpass.com/event/54302/), 2017-04-27
-- [高度に発達したシステムの異常は神の怒りと見分けがつかない](https://speakerdeck.com/yuukit/ipsj-one-2017-y-uuki), [IPSJ-ONE 2017](http://ipsj-one.org/), 2017-03-18
 - [ウェブオペレーションエンジニアになるまでの思い出](https://speakerdeck.com/yuukit/memories-until-i-become-a-web-operations-engineer), [Hatena Engineer Seminar #7 @Tokyo](https://hatena.connpass.com/event/45217/), 2016-12-06
-- [サーバモニタリング向け時系列データベースの探究](https://speakerdeck.com/yuukit/the-study-of-time-series-database-for-server-monitoring), [第９回インターネットと運用技術シンポジウム(IOTS2016)](http://www.iot.ipsj.or.jp/iots/2016), 2016-12-01
 - [Mackerelにおける時系列データベースの性能改善](https://speakerdeck.com/yuukit/performance-improvement-of-tsdb-in-mackerel), [ペパボ・はてな技術大会〜インフラ技術基盤〜 at 福岡](http://pepabo.connpass.com/event/33522/), 2016-07-09
 - [はてなにおけるLinuxネットワークスタックパフォーマンス改善](https://speakerdeck.com/yuukit/linux-network-performance-improvement-at-hatena), [はてな・ペパボ技術大会〜インフラ技術基盤〜 at 京都](http://hatena.connpass.com/event/33521/), 2016-07-02
 - [ウェブサービスのCentOS5撤退](https://speakerdeck.com/yuukit/centos5-retiring-for-web-servicies), [Hosting Casual Talks #3](http://connpass.com/event/29857/), 2016-06-25
