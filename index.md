@@ -64,6 +64,7 @@ I'm interested in Site Reliability Engineering, particularly the following topic
 
 ## Presentations (in Japanese)
 
+- [TimeFuzeアーキテクチャ構想 - 処理とデータとタイマーを一体化したデータパイプライン](https://speakerdeck.com/yuukit/the-concept-of-timefuze-architecture), [ウェブシステムアーキテクチャ(WSA)研究会 第1回](http://websystemarchitecture.hatenablog.jp/entry/2017/12/17/133301), 2017-12-23
 - [はてなシステム構想](https://speakerdeck.com/yuukit/the-concept-of-hatena-system), [ペパボ・はてな技術大会@福岡](https://pepabo.connpass.com/event/65932/), 2017-10-07
 - Webシステムをデータセンター移行するときに考えること, [Hosting Casual Talks #4](https://connpass.com/event/62208/), 2017-09-30
 - [RedisのCPU負荷対策パターン](https://speakerdeck.com/yuukit/redisfalsecpufu-he-dui-ce-patan), [Kyoto.なんか #3](https://kyoto-nanka.connpass.com/event/62617/), 2017-08-19
