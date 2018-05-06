@@ -5,12 +5,10 @@ Web Operations Engineer, working at Hatena Co., Ltd.
 - GitHub: [yuuki](https://github.com/yuuki)
 - Blog (Japanese): [http://blog.yuuk.io/](http://blog.yuuk.io/)
 - Twitter (Japanese): [@y_uuk1](https://twitter.com/y_uuk1)
-- CPAN: [YUUKI](https://metacpan.org/author/YUUKI)
 
-## Technology Topics
+## Development Topics
 
-I'm interested in Site Reliability Engineering, particularly the following topics.
-
+- Site Reliability Engineering
 - Monitoring large-scale systems
 - Data-Intensive Applications
 
@@ -22,6 +20,8 @@ I'm interested in Site Reliability Engineering, particularly the following topic
   - A super-easy container with chroot without docker.
 - [gokc](https://github.com/yuuki/gokc)
   - Yet Another Keepalived Syntax Checker in Golang.
+- [lstf](https://github.com/yuuki/lstf)
+  - The Linux /proc/net/tcp based host-to-host connection flow printer
 - [grabeni](https://github.com/yuuki/grabeni)
   - An ops-friendly AWS Elastic Network Interface (ENI) attachment grabbing tool.
 - [mkr](https://github.com/mackerelio/mkr)
@@ -98,24 +98,20 @@ I'm interested in Site Reliability Engineering, particularly the following topic
 
 - [人はなぜミドルウェアを作ってしまうのか?](http://2017.cross-party.com/program/x4), [CROSS 2017](http://2017.cross-party.com), 2017-09-07
 
-## Representative Blog Entries (in Japanese)
+## Representative blog entries (in Japanese)
 
-- [ISUCON予選突破を支えたオペレーション技術](http://blog.yuuk.io/entry/web-operations-isucon), 2016-08-23
-- [2016年ウェブオペレーションエンジニアの新卒研修](http://developer.hatenastaff.com/entry/2016-newbie-training-of-web-operation), 2016-07-25
+- [ウェブシステムの運用自律化に向けた構想](http://blog.yuuk.io/entry/2017/the-concept-of-autonomous-web-system), 2017-12-02
+- [時系列データベースという概念をクラウドの技で再構築する](http://blog.yuuk.io/entry/the-rebuild-of-tsdb-on-cloud), 2017-06-05
 - [自作Linuxコンテナの時代](http://blog.yuuk.io/entry/diy-container), 2016-04-27
-- [インフラエンジニアがGo言語でオペレーションツールを書くことについて](http://developer.hatenastaff.com/entry/golang-for-ops), 2016-03-24
-- [ウェブアプリケーション開発に新言語を採用したときにインフラで考えたこと](http://blog.yuuk.io/entry/infra-for-newlang), 2016-03-02
-- [Linuxサーバにログインしたらいつもやっているオペレーション](http://blog.yuuk.io/entry/linux-server-operations), 2016-02-18
-- [Serverspec + Mackerel APIによるインフラテストの実運用化](http://blog.yuuk.io/entry/mackerel-serverspec), 2015-12-24
-- [Dockerとchrootを組み合わせたシンプルなコンテナデプロイツール](http://blog.yuuk.io/entry/droot), 2015-12-01
-- [はてなで大規模サービスのインフラを学んだ](http://blog.yuuk.io/entry/large-scale-infrastructure), 2015-07-30
-- [Webシステムにおけるデータベース接続アーキテクチャ概論](http://blog.yuuk.io/entry/architecture-of-database-connection), 2015-06-30
 - [2015年Webサーバアーキテクチャ序論](http://blog.yuuk.io/entry/2015-webserver-architecture), 2015-05-28
 - [Mackerelを支える時系列データベース技術](http://blog.yuuk.io/entry/high-performance-graphite), 2015-04-30
-- [Linuxでロードバランサやキャッシュサーバをマルチコアスケールさせるためのカーネルチューニング](http://blog.yuuk.io/entry/linux-networkstack-tuning-rfs), 2015-03-31
-- [Ansible + Mackerel APIによる1000台規模のサーバオペレーション](http://blog.yuuk.io/entry/ansible-mackerel-1000), 2015-02-26
-- [パフォーマンスの観点からみるDockerの仕組みと性能検証](http://blog.yuuk.io/entry/docker-performance-on-web-application), 2015-01-19
-- [インフラエンジニア向けシステム系論文](http://blog.yuuk.io/entry/system-papers), 2014-12-23
-- [Go言語によるCLIツール開発とUNIX哲学について](http://blog.yuuk.io/entry/go-cli-unix), 2014-12-08
-- [GoとMySQLを用いたジョブキューシステムを作るときに考えたこと](http://blog.yuuk.io/entry/go-and-mysql-jobqueue), 2014-12-04
-- [Docker + Mesos + Marathon + Graphite + Fluentd + Sensuを組み合わせたデプロイ管理ツールの話](http://blog.yuuk.io/entry/2013/12/22/174813), 2013-12-22
+
+See other entries [here](http://blog.yuuk.io/archive).
+
+## Contribution entries
+
+- [はてなWebオペレーションチームのテックリード](http://developer.hatenastaff.com/entry/2017/10/12/184721), 2017-10-12
+- [はてなのサーバ・ネットワーク基盤技術を探究するインターンの紹介](http://developer.hatenastaff.com/entry/2017/06/23/141135), 2017-06-23
+- [2016年はてなWebオペレーションエンジニアのアウトプット](http://developer.hatenastaff.com/entry/2016/12/28/151403), 2016-12-28
+- [2016年ウェブオペレーションエンジニアの新卒研修](http://developer.hatenastaff.com/entry/2016-newbie-training-of-web-operation), 2016-07-25
+- [インフラエンジニアがGo言語でオペレーションツールを書くことについて](http://developer.hatenastaff.com/entry/golang-for-ops), 2016-03-24
