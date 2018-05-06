@@ -8,7 +8,8 @@ layout: index
 Web Operations Engineer, working at Hatena Co., Ltd.
 
 - GitHub: [yuuki](https://github.com/yuuki)
-- Blog (Japanese): [http://blog.yuuk.io/](http://blog.yuuk.io/)
+- TechBlog1 (Japanese): [http://blog.yuuk.io/](http://blog.yuuk.io/)
+- TechBlog2 (Japanese): [http://memo.yuuk.io/](http://memo.yuuk.io/)
 - Twitter (Japanese): [@y_uuk1](https://twitter.com/y_uuk1)
 
 ## Development Topics
