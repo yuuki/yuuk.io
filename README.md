@@ -60,6 +60,7 @@ Web Operations Engineer, working at Hatena Co., Ltd.
 
 ## Presentations (in Japanese)
 
+- [サーバレス時代におけるヘテロジニアス時系列データベースアーキテクチャ](https://speakerdeck.com/yuukit/heterotsdb), [ウェブシステムアーキテクチャ(WSA)研究会 第2回](https://websystemarchitecture.hatenablog.jp/entry/2018/03/22/104006), 2018-05-12
 - [TimeFuzeアーキテクチャ構想 - 処理とデータとタイマーを一体化したデータパイプライン](https://speakerdeck.com/yuukit/the-concept-of-timefuze-architecture), [ウェブシステムアーキテクチャ(WSA)研究会 第1回](http://websystemarchitecture.hatenablog.jp/entry/2017/12/17/133301), 2017-12-23
 - [はてなシステム構想](https://speakerdeck.com/yuukit/the-concept-of-hatena-system), [ペパボ・はてな技術大会@福岡](https://pepabo.connpass.com/event/65932/), 2017-10-07
 - Webシステムをデータセンター移行するときに考えること, [Hosting Casual Talks #4](https://connpass.com/event/62208/), 2017-09-30
