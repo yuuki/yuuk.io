@@ -5,7 +5,7 @@
 - GitHub: [yuuki](https://github.com/yuuki)
 - ブログ1: [http://blog.yuuk.io/](http://blog.yuuk.io/)
 - ブログ2: [http://memo.yuuk.io/](http://memo.yuuk.io/)
-- Twitter (Japanese): [@y_uuk1](https://twitter.com/y_uuk1)
+- Twitter: [@y_uuk1](https://twitter.com/y_uuk1)
 
 # 研究開発テーマ
 
