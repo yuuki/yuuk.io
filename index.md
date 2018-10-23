@@ -47,7 +47,7 @@ layout: index
 
 ## 国内発表（査読付論文）
 
-1. 坪内佑樹, 脇坂朝人, 濱田健, 松木雅幸, 阿部博, 松本亮介, HeteroTSDB: 異種混合キーバリューストアを用いた 自動階層化のための時系列データベースアーキテクチャ, インターネットと運用技術シンポジウム2018論文集，2018，(to be appeared)
+1. 坪内佑樹, 脇坂朝人, 濱田健, 松木雅幸, 阿部博, 松本亮介, HeteroTSDB: 異種混合キーバリューストアを用いた自動階層化のための時系列データベースアーキテクチャ, インターネットと運用技術シンポジウム2018論文集，2018，(to be appeared)
 
 ## 雑誌・書籍
 
@@ -59,19 +59,13 @@ layout: index
 1. 坪内佑樹, Mackerelではじめるサーバ管理 第6回 Mackerel周辺の運用ツールとAWS連携ノウハウ, [Software Design 2015年8月号](http://gihyo.jp/magazine/SD/archive/2015/201508), 技術評論社, 2015年7月18日
 1. 坪内佑樹, Mackerelではじめるサーバ管理 第3回 運用しながら育てるサーバ監視のルール, [Software Design 2015年5月号](http://gihyo.jp/magazine/SD/archive/2015/201505), 技術評論社, 2015年4月18日
 
-# 講演
+## 講演
 
 1. 自然のごとく複雑化したウェブシステムの自律的運用に向けて, [人工知能学会 合同研究会 第3回ウェブサイエンス研究会](http://www.ai-gakkai.or.jp/sigconf/)(招待講演), 2017-11-24
 1. [高度に発達したシステムの異常は神の怒りと見分けがつかない](https://speakerdeck.com/yuukit/ipsj-one-2017-y-uuki), [IPSJ-ONE 2017](http://ipsj-one.org/), 2017-03-18
 1. [サーバモニタリング向け時系列データベースの探究](https://speakerdeck.com/yuukit/the-study-of-time-series-database-for-server-monitoring), [第９回インターネットと運用技術シンポジウム(IOTS2016)](http://www.iot.ipsj.or.jp/iots/2016)(招待講演), 2016-12-01
 
-# 競技
-
-1. [ISUCON6](http://isucon.net/archives/48465737.html) 予選出題者
-1. [ISUCON5](http://isucon.net/archives/45166636.html) 本戦出場
-1. [ISUCON4](http://isucon.net/archives/41252218.html) 本戦出場
-
-# 口頭発表（国内）
+## 口頭発表（国内）
 
 1. 坪内佑樹, [サーバレス時代におけるヘテロジニアス時系列データベースアーキテクチャ](https://speakerdeck.com/yuukit/heterotsdb), [ウェブシステムアーキテクチャ(WSA)研究会 第2回](https://websystemarchitecture.hatenablog.jp/entry/2018/03/22/104006), 05/12/2018
 1. 坪内佑樹, [TimeFuzeアーキテクチャ構想 - 処理とデータとタイマーを一体化したデータパイプライン](https://speakerdeck.com/yuukit/the-concept-of-timefuze-architecture), [ウェブシステムアーキテクチャ(WSA)研究会 第1回](http://websystemarchitecture.hatenablog.jp/entry/2017/12/17/133301), 12/23/2017
@@ -101,19 +95,25 @@ layout: index
 1. 坪内佑樹, [Docker使ってたらサーバがゴミ捨て場みたいになった話](https://speakerdeck.com/yuukit/dockershi-tutetarasahakakomishe-techang-mitaininatutetahua), [Immutable Infrastructure Conference #1](https://atnd.org/events/47786), 03/25/2014
 1. 坪内佑樹, [Sensu & Graphite Modern Monitoring Tool](https://speakerdeck.com/yuukit/sensu-plus-graphite), [Monitoring Casual Talk in Kyoto](http://www.zusaar.com/event/1377006), 11/30/2014
 
-# パネルディスカッション
+## パネルディスカッション
 
 1. [人はなぜミドルウェアを作ってしまうのか?](http://2017.cross-party.com/program/x4), [CROSS 2017](http://2017.cross-party.com), 09/07/2017
 1. [最前線で戦う若手インフラエンジニアたちが語る「技術トレンド」と「数年後の未来」](https://2015.techfesta.jp/p/program.html#tech_trend_and_future), [July Tech Festa 2015](https://2015.techfesta.jp), 07/26/2015
 
-# インタビュー
+## 競技
+
+1. [ISUCON6](http://isucon.net/archives/48465737.html) 予選出題者
+1. [ISUCON5](http://isucon.net/archives/45166636.html) 本戦出場
+1. [ISUCON4](http://isucon.net/archives/41252218.html) 本戦出場
+
+## インタビュー
 
 1. はてなニュース [レンサバの常識を覆す「なめらかなシステム」に挑む──運用技術を学術研究して実際のサービスへ適用](http://hatenanews.com/articles/201701/24117), 01/2017
 1. はてなWebオペレーションエンジニア座談会 [10年続くサービスを、インフラ技術で支える](http://hatenacorp.jp/recruit/operation_engineer), 12/2016
 1. はてなニュース [Yahoo! JAPANの新しいメッセージングシステムと、それをOSSで開発するエンジニアの素顔](http://hatenanews.com/articles/201612/24092), 12/2016
 1. はてなニュース [秒間100万リクエストを支えるオープンソースのコードを書くヤフーのインフラチームに、はてなエンジニアが迫る](http://hatenanews.com/articles/201604/23819), 04/2016
 
-# 寄稿
+## 寄稿
 
 1. 坪内佑樹, [はてなWebオペレーションチームのテックリード](http://developer.hatenastaff.com/entry/2017/10/12/184721), 10/12/2017
 1. [はてなのサーバ・ネットワーク基盤技術を探究するインターンの紹介](http://developer.hatenastaff.com/entry/2017/06/23/141135), 06/23/2017
