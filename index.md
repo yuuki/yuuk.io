@@ -7,6 +7,7 @@ layout: index
 
 株式会社はてなのSite Reliability Engineer (SRE)。
 
+- はてな: [id:y_uuki](http://profile.hatena.ne.jp/y_uuki/)
 - GitHub: [yuuki](https://github.com/yuuki)
 - ブログ1: [http://blog.yuuk.io/](http://blog.yuuk.io/)
 - ブログ2: [http://memo.yuuk.io/](http://memo.yuuk.io/)
