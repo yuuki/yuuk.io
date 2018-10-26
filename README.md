@@ -89,6 +89,7 @@
 1. 坪内佑樹, [なにもわからないところから始めるJVMモニタリング](https://speakerdeck.com/yuukit/nanimowakaranaitokorokarashi-merujvmmonitaringu), [JVM Operation Casual Talks](https://atnd.org/events/48999), 04/07/2014
 1. 坪内佑樹, [Docker使ってたらサーバがゴミ捨て場みたいになった話](https://speakerdeck.com/yuukit/dockershi-tutetarasahakakomishe-techang-mitaininatutetahua), [Immutable Infrastructure Conference #1](https://atnd.org/events/47786), 03/25/2014
 1. 坪内佑樹, [Sensu & Graphite Modern Monitoring Tool](https://speakerdeck.com/yuukit/sensu-plus-graphite), [Monitoring Casual Talk in Kyoto](http://www.zusaar.com/event/1377006), 11/30/2014
+1. 坪内佑樹, [はてなのサーバ管理ツールの話](http://yapcasia.org/2013/talk/show/62304644-e25d-11e2-8767-0fa16aeab6a4), [YAPC::Asia 2013](http://yapcasia.org/2013), 2013年9月20日
 
 ## パネルディスカッション
 
