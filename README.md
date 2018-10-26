@@ -76,16 +76,17 @@
 1. 坪内佑樹, [はてなにおけるLinuxネットワークスタックパフォーマンス改善](https://speakerdeck.com/yuukit/linux-network-performance-improvement-at-hatena), [はてな・ペパボ技術大会〜インフラ技術基盤〜 at 京都](http://hatena.connpass.com/event/33521/), 07/02/2016
 1. 坪内佑樹, [ウェブサービスのCentOS5撤退](https://speakerdeck.com/yuukit/centos5-retiring-for-web-servicies), [Hosting Casual Talks #3](http://connpass.com/event/29857/), 06/25/2016
 1. 坪内佑樹, [Droot Internals](https://speakerdeck.com/yuukit/droot-internals), [第9回コンテナ型仮想化の情報交換会＠福岡](http://ct-study.connpass.com/event/23455/), 04/23/2016
-1. 坪内佑樹, ウェブアプリケーション開発に新言語を採用したときにインフラで考えたこと, [第3回関西ITインフラ系勉強会](http://kansai-itinfra.connpass.com/event/26165/), 02/27/2016
+1. 坪内佑樹, [ウェブアプリケーション開発に新言語を採用したときにインフラで考えたこと](https://blog.yuuk.io/entry/infra-for-newlang), [第3回関西ITインフラ系勉強会](http://kansai-itinfra.connpass.com/event/26165/), 02/27/2016
 1. 坪内佑樹, [Writing Tools in Go For Ops Engineers](https://speakerdeck.com/yuukit/writing-tools-in-go-for-ops-engineers), [Go 1.6 Release Party](http://gocon.connpass.com/event/26572/), 02/17/2016
+1. 坪内佑樹, [ウェブアプリケーションフレームワークの向こう側](https://speakerdeck.com/yuukit/the-other-side-of-web-application-frameworks), [はてなインターン2015講義](http://hatenacorp.jp/intern2015/lecture/), 2015年8月
 1. 坪内佑樹, [技術ブログを書くことについて語るときに僕の語ること](http://yapcasia.org/2015/talk/show/7d62caf8-12f4-11e5-881c-d9f87d574c3a), [YAPC::Asia Tokyo 2015](http://yapcasia.org/2015/), 08/20/2015
 1. 坪内佑樹, Dockerはもう古い これからはchroot, [Hosting Casual Talks #2](http://www.zusaar.com/event/9057007), 06/27/2015
 1. 坪内佑樹, [Docker Performance on Web Application](https://speakerdeck.com/yuukit/docker-performance-on-web-application), [Docker Meetup Tokyo #4](http://dockerjp.connpass.com/event/10318/), 01/17/2015
-1. 坪内佑樹, オンプレミスとクラウド、そしてDocker, [Hatena Engineer Seminar #3 @ Tokyo](http://eventdots.jp/event/244689), 12/02/2014
-1. 坪内佑樹, ISUCONでNginxとMySQLをDocker化したときのパフォーマンス, [第5回 コンテナ型仮想化の情報交換会＠大阪](http://ct-study.connpass.com/event/9068/), 11/14/2014
-1. 坪内佑樹, [ヘビーなGraphite運用](https://speakerdeck.com/yuukit/hebinagraphiteyun-yong), [Monitoring Casual Talks #6](http://www.zusaar.com/event/11447004), 06/12/2014
 1. 坪内佑樹, tmux + ssh + Mackerel API, [Hosting Casual Talks #1](http://www.zusaar.com/event/8427003), 06/08/2015
 1. 坪内佑樹, [Mackerel-Based Server Metrics Visualization](https://speakerdeck.com/yuukit/mackerel-based-server-metrics-visualization), [可視化ツール現状確認会](http://www.zusaar.com/event/7437003), 06/04/2015
+1. 坪内佑樹, [オンプレミスとクラウド、そしてDocker](https://speakerdeck.com/yuukit/on-premises-cloud-and-docker), [Hatena Engineer Seminar #3 @ Tokyo](http://eventdots.jp/event/244689), 12/02/2014
+1. 坪内佑樹, [ISUCONでNginxとMySQLをDocker化したときのパフォーマンス](https://blog.yuuk.io/entry/dockerized-isucon), [第5回 コンテナ型仮想化の情報交換会＠大阪](http://ct-study.connpass.com/event/9068/), 11/14/2014
+1. 坪内佑樹, [ヘビーなGraphite運用](https://speakerdeck.com/yuukit/hebinagraphiteyun-yong), [Monitoring Casual Talks #6](http://www.zusaar.com/event/11447004), 06/12/2014
 1. 坪内佑樹, [なにもわからないところから始めるJVMモニタリング](https://speakerdeck.com/yuukit/nanimowakaranaitokorokarashi-merujvmmonitaringu), [JVM Operation Casual Talks](https://atnd.org/events/48999), 04/07/2014
 1. 坪内佑樹, [Docker使ってたらサーバがゴミ捨て場みたいになった話](https://speakerdeck.com/yuukit/dockershi-tutetarasahakakomishe-techang-mitaininatutetahua), [Immutable Infrastructure Conference #1](https://atnd.org/events/47786), 03/25/2014
 1. 坪内佑樹, [Sensu & Graphite Modern Monitoring Tool](https://speakerdeck.com/yuukit/sensu-plus-graphite), [Monitoring Casual Talk in Kyoto](http://www.zusaar.com/event/1377006), 11/30/2014
