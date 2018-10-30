@@ -69,7 +69,7 @@
 1. 坪内佑樹, Webシステムをデータセンター移行するときに考えること, [Hosting Casual Talks #4](https://connpass.com/event/62208/), 2017年09月30日
 1. 坪内佑樹, [RedisのCPU負荷対策パターン](https://speakerdeck.com/yuukit/redisfalsecpufu-he-dui-ce-patan), [Kyoto.なんか #3](https://kyoto-nanka.connpass.com/event/62617/), 2017年08月19日
 1. 坪内佑樹, [時系列データベースという概念をクラウドの技で再構築する](https://speakerdeck.com/yuukit/the-rebuild-of-time-series-database-on-aws), [AWS Summit Tokyo 2017](http://www.awssummit.tokyo/)), 2017年06月01日
-1. 坪内佑樹, [Go言語をほぼ毎日書いている話 (序) ](https://speakerdeck.com/yuukit/daily-coding-in-go), [そうだ Go、京都。](https://go-kyoto.connpass.com/event/55599/), 2017年04月28日
+1. 坪内佑樹, [Go言語をほぼ毎日書いている話 (序) ](https://speakerdeck.com/yuukit/daily-coding-in-go), [そうだ Go、京都。](https://go-kyoto.connpass.com/event/55599/), 2017年04月29日
 1. 坪内佑樹, AWSでつくる時系列データベース, リクルートテクノロジーズ社内勉強会, 2017年04月28日
 1. 坪内佑樹, [mkr + peco + tmux + ssh](https://speakerdeck.com/yuukit/mkr-plus-peco-plus-tmux-plus-ssh), [Mackerel Meetup #10 Tokyo](https://mackerelio.connpass.com/event/54302/), 2017年04月27日
 1. 坪内佑樹, [ウェブオペレーションエンジニアになるまでの思い出](https://speakerdeck.com/yuukit/memories-until-i-become-a-web-operations-engineer), [Hatena Engineer Seminar #7 @Tokyo](https://hatena.connpass.com/event/45217/), 2016年12月06日
