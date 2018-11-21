@@ -4,8 +4,8 @@
 
 - はてな: [id:y_uuki](http://profile.hatena.ne.jp/y_uuki/)
 - GitHub: [yuuki](https://github.com/yuuki)
-- ブログ1: [http://blog.yuuk.io/](http://blog.yuuk.io/)
-- ブログ2: [http://memo.yuuk.io/](http://memo.yuuk.io/)
+- ブログ1: [https://blog.yuuk.io/](https://blog.yuuk.io/)
+- ブログ2: [https://memo.yuuk.io/](https://memo.yuuk.io/)
 - Twitter: [@y_uuk1](https://twitter.com/y_uuk1)
 
 # 研究開発テーマ
