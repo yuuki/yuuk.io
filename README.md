@@ -43,7 +43,7 @@
 
 ## 国内査読付論文
 
-1. 坪内佑樹,脇坂朝人,濱田健,松木雅幸,阿部博,松本亮介, **[HeteroTSDB: 異種混合キーバリューストアを用いた自動階層化のための時系列データベースアーキテクチャ](http://id.nii.ac.jp/1001/00192569/)**, インターネットと運用技術シンポジウム論文集, 2018, 7-15 (2018-11-29), Dec 2018 [論文](https://yuuk.io/images/heterotsdb_iots2018.pdf) [発表資料](https://speakerdeck.com/yuukit/heterotsdb-a-time-series-database-architecture-for-automatically-tiering-on-heterogeneous-key-value-stores)
+1. 坪内佑樹,脇坂朝人,濱田健,松木雅幸,阿部博,松本亮介, **[HeteroTSDB: 異種混合キーバリューストアを用いた自動階層化のための時系列データベースアーキテクチャ](http://id.nii.ac.jp/1001/00192569/)**, インターネットと運用技術シンポジウム論文集, 2018, 7-15 (2018-11-29), Dec 2018 [[論文](https://yuuk.io/images/heterotsdb_iots2018.pdf)] [[発表資料](https://speakerdeck.com/yuukit/heterotsdb-a-time-series-database-architecture-for-automatically-tiering-on-heterogeneous-key-value-stores)]
 
 ## 雑誌・書籍
 
