@@ -3,8 +3,7 @@ layout: index
 ---
 
 
-# 坪内 佑樹 (つぼうち ゆうき)
-![y_uuki's profile image](https://yuuk.io/images/y_uuki.small.png)
+# 坪内 佑樹 (つぼうち ゆうき) ![y_uuki's profile image](https://yuuk.io/images/y_uuki.small.png)
 
 ## 略歴
 
