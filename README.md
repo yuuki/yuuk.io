@@ -121,10 +121,12 @@
 1. 坪内佑樹, [ISUCONでNginxとMySQLをDocker化したときのパフォーマンス](https://blog.yuuk.io/entry/dockerized-isucon), [第5回 コンテナ型仮想化の情報交換会＠大阪](http://ct-study.connpass.com/event/9068/), 2014年11月14日
 1. 坪内佑樹, [ヘビーなGraphite運用](https://speakerdeck.com/yuukit/hebinagraphiteyun-yong), [Monitoring Casual Talks #6](http://www.zusaar.com/event/11447004), 2014年06月12日
 1. 坪内佑樹, tmux + ssh + Mackerel API, [Hosting Casual Talks #1](http://www.zusaar.com/event/8427003), 2014年06月08日
+1. 坪内佑樹, Docker運用の観点からみたLXC, [第3回コンテナ型仮想化の情報交換会@大阪](https://atnd.org/events/46446), 2014年4月12日
 1. 坪内佑樹, [なにもわからないところから始めるJVMモニタリング](https://speakerdeck.com/yuukit/nanimowakaranaitokorokarashi-merujvmmonitaringu), [JVM Operation Casual Talks](https://atnd.org/events/48999), 2014年04月07日
 1. 坪内佑樹, [Docker使ってたらサーバがゴミ捨て場みたいになった話](https://speakerdeck.com/yuukit/dockershi-tutetarasahakakomishe-techang-mitaininatutetahua), [Immutable Infrastructure Conference #1](https://atnd.org/events/47786), 2014年03月25日
 1. 坪内佑樹, [Sensu & Graphite Modern Monitoring Tool](https://speakerdeck.com/yuukit/sensu-plus-graphite), [Monitoring Casual Talk in Kyoto](http://www.zusaar.com/event/1377006), 2014年11月30日
 1. 坪内佑樹, [はてなのサーバ管理ツールの話](http://yapcasia.org/2013/talk/show/62304644-e25d-11e2-8767-0fa16aeab6a4), [YAPC::Asia 2013](http://yapcasia.org/2013), 2013年9月20日
+1. 坪内佑樹, サーバのメトリクス取得とグラフ化, [Kyoto.pm 05 Tech Talks](http://kyoto.pm.org/entry/2013/07/14/151711), 2013年7月14日
 
 ## パネルディスカッション
 
