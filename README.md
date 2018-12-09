@@ -1,20 +1,53 @@
 ![y_uuki's profile image](https://yuuk.io/images/y_uuki.small.png)
 
-株式会社はてなのSite Reliability Engineer (SRE)。
+# 坪内 佑樹 (つぼうち ゆうき)
 
-- はてな: [id:y_uuki](http://profile.hatena.ne.jp/y_uuki/)
-- GitHub: [yuuki](https://github.com/yuuki)
-- ブログ1: [https://blog.yuuk.io/](https://blog.yuuk.io/)
-- ブログ2: [https://memo.yuuk.io/](https://memo.yuuk.io/)
-- Twitter: [@y_uuk1](https://twitter.com/y_uuk1)
+## 略歴
 
-# 研究開発テーマ
+株式会社はてなシニアエンジニア、Web System Architecture研究会副査。
+
+2011年にWebサービス開発に憧れ、株式会社はてなのサマーインターンに参加した後に、はてなのアルバイトを経て、2013年に大学院を中途退学し、はてなのエンジニアとして入社。ウェブシステム基盤の設計から運用まで、幅広く取り組み、YAPC::Asia 2013、2015、AWS Summit 2017などエンジニアとしての登壇多数。
+
+アカデミアの場においても、情報処理学会インターネットと運用技術シンポジウム2016、人工知能学会第3回ウェブサイエンス研究会などで招待講演。2017年に情報処理学会IPSJ-ONEにて情報科学分野で活躍する若手研究者として技術者ながら選出される。
+
+## 所属
+
+- 2013年12月〜現在
+  - 株式会社はてな シニアエンジニア
+  - Web System Architecture研究会 副査
+
+## 経歴
+
+- 2013年12月 株式会社はてな 入社
+- 2013年9月 大阪大学 情報科学研究科情報ネットワーク学専攻 退学
+- 2012年4月 大阪大学 情報科学研究科情報ネットワーク学専攻 入学
+- 2012年3月 大阪大学 基礎工学部情報科学科 卒業
+- 2008年4月 大阪大学 基礎工学部情報科学科 入学
+- 2008年3月 京都市立堀川高等学校 自然探究科 卒業
+
+## 連絡先
+
+- 仕事
+  - E-mail: y_uuki (at) hatena.ne.jp
+- 個人
+  - E-mail: yuki.tsubo (at) gmail.com
+- SNS
+  - はてな: [id:y_uuki](http://profile.hatena.ne.jp/y_uuki/)
+  - Twitter: [@y_uuk1](https://twitter.com/y_uuk1)
+  - Facebook: [yuuki724](https://www.facebook.com/yuuki724)
+  - GitHub: [yuuki](https://github.com/yuuki)
+  - Blog: [https://blog.yuuk.io/](https://blog.yuuk.io/)
+  - Blog: [https://memo.yuuk.io/](https://memo.yuuk.io/)
+
+## 研究開発テーマ
 
 - Site Reliability Engineering
-- Data-Intensive Applications
 - 大規模システムのモニタリング
+- Data-Intensive Applications
 
-# OSS
+# 論文・発表・成果物
+
+## OSS
 
 - [DiamonDB](https://github.com/yuuki/diamondb)
   - Rebuild of Time Series Database on AWS.
@@ -39,7 +72,6 @@
 - [Coteng](https://metacpan.org/pod/Coteng)
   - Lightweight Teng O/R Mapper.
 
-# 論文・発表
 
 ## 国内査読付論文
 
@@ -119,3 +151,4 @@
 1. 坪内佑樹, [2016年はてなWebオペレーションエンジニアのアウトプット](http://developer.hatenastaff.com/entry/2016/12/28/151403), 2016年12月28日
 1. 坪内佑樹, [2016年ウェブオペレーションエンジニアの新卒研修](http://developer.hatenastaff.com/entry/2016-newbie-training-of-web-operation), 2016年07月25日
 1. 坪内佑樹, [インフラエンジニアがGo言語でオペレーションツールを書くことについて](http://developer.hatenastaff.com/entry/golang-for-ops), 2016年03月24日
+
