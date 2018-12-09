@@ -131,6 +131,7 @@
 ## パネルディスカッション
 
 1. [人はなぜミドルウェアを作ってしまうのか?](http://2017.cross-party.com/program/x4), [CROSS 2017](http://2017.cross-party.com), 2017年09月07日
+1. [Hatena Engineer Seminar #7 @ Tokyo](https://hatena.connpass.com/event/45217/), 2016年12月6日
 1. [最前線で戦う若手インフラエンジニアたちが語る「技術トレンド」と「数年後の未来」](https://2015.techfesta.jp/p/program.html#tech_trend_and_future), [July Tech Festa 2015](https://2015.techfesta.jp), 2015年07年26日
 
 ## 競技
