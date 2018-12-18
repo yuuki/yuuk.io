@@ -158,5 +158,7 @@ layout: index
 1. [はてなのサーバ・ネットワーク基盤技術を探究するインターンの紹介](http://developer.hatenastaff.com/entry/2017/06/23/141135), 2017年06月23日
 1. 坪内佑樹, [2016年はてなWebオペレーションエンジニアのアウトプット](http://developer.hatenastaff.com/entry/2016/12/28/151403), 2016年12月28日
 1. 坪内佑樹, [2016年ウェブオペレーションエンジニアの新卒研修](http://developer.hatenastaff.com/entry/2016-newbie-training-of-web-operation), 2016年07月25日
+1. 坪内佑樹. [リモートワークにおけるSlack Call活用と終業15分前の雑談](http://developer.hatenastaff.com/entry/2016/04/28/125529), 2016年04月28日
 1. 坪内佑樹, [インフラエンジニアがGo言語でオペレーションツールを書くことについて](http://developer.hatenastaff.com/entry/golang-for-ops), 2016年03月24日
+1. 坪内佑樹. [はてなにおける日々の仕事の中にあらわれるMackerelの活用](https://mackerel.io/ja/blog/entry/advent-calendar2015/day19), 2015年12月19日
 
