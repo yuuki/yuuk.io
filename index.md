@@ -15,12 +15,11 @@ layout: index
 
 ## 所属
 
-- 2013年12月〜現在
-  - 株式会社はてな シニアエンジニア
-  - Web System Architecture研究会 副査
+なし
 
 ## 経歴
 
+- 2018年12月 株式会社はてな 退社
 - 2013年12月 株式会社はてな 入社
 - 2013年9月 大阪大学大学院 情報科学研究科情報ネットワーク学専攻 退学
 - 2012年4月 大阪大学大学院 情報科学研究科情報ネットワーク学専攻 入学
@@ -161,4 +160,3 @@ layout: index
 1. 坪内佑樹. [リモートワークにおけるSlack Call活用と終業15分前の雑談](http://developer.hatenastaff.com/entry/2016/04/28/125529), 2016年04月28日
 1. 坪内佑樹, [インフラエンジニアがGo言語でオペレーションツールを書くことについて](http://developer.hatenastaff.com/entry/golang-for-ops), 2016年03月24日
 1. 坪内佑樹. [はてなにおける日々の仕事の中にあらわれるMackerelの活用](https://mackerel.io/ja/blog/entry/advent-calendar2015/day19), 2015年12月19日
-
