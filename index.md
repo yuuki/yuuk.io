@@ -3,7 +3,7 @@ layout: index
 ---
 
 
-# 坪内 佑樹 (つぼうち ゆうき) ![y_uuki's profile image](https://yuuk.io/images/y_uuki.small.png)
+# 坪内 佑樹 (つぼうち ゆうき) ![yuuki's profile image](https://yuuk.io/images/y_uuki.small.png)
 
 ## 略歴
 
@@ -30,12 +30,11 @@ layout: index
 ## 連絡先
 
 - 仕事
-  - E-mail: y_uuki (at) hatena.ne.jp
 - 個人
   - E-mail: yuki.tsubo (at) gmail.com
 - SNS
   - はてな: [id:y_uuki](http://profile.hatena.ne.jp/y_uuki/)
-  - Twitter: [@y_uuk1](https://twitter.com/y_uuk1)
+  - Twitter: [@yuuk1t](https://twitter.com/yuuk1t)
   - Facebook: [yuuki724](https://www.facebook.com/yuuki724)
   - GitHub: [yuuki](https://github.com/yuuki)
   - Blog: [https://blog.yuuk.io/](https://blog.yuuk.io/)
@@ -160,3 +159,4 @@ layout: index
 1. 坪内佑樹. [リモートワークにおけるSlack Call活用と終業15分前の雑談](http://developer.hatenastaff.com/entry/2016/04/28/125529), 2016年04月28日
 1. 坪内佑樹, [インフラエンジニアがGo言語でオペレーションツールを書くことについて](http://developer.hatenastaff.com/entry/golang-for-ops), 2016年03月24日
 1. 坪内佑樹. [はてなにおける日々の仕事の中にあらわれるMackerelの活用](https://mackerel.io/ja/blog/entry/advent-calendar2015/day19), 2015年12月19日
+
