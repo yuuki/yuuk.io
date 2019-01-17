@@ -2,7 +2,7 @@
 layout: index
 ---
 
-# 坪内 佑樹 (つぼうち ゆうき) ![yuuki's profile image](https://yuuk.io/images/y_uuki.small.png)
+# 坪内 佑樹 (TSUBOUCHI Yuuki) ![yuuki's profile image](https://yuuk.io/images/y_uuki.small.png)
 
 ## 略歴
 
