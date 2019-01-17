@@ -2,7 +2,7 @@
 
 ## 略歴
 
-株式会社はてなシニアエンジニア、Web System Architecture研究会副査。
+無職、Web System Architecture研究会副査。
 
 2011年にWebサービス開発に憧れ、株式会社はてなのサマーインターンに参加した後に、はてなのアルバイトを経て、2013年に大学院を中途退学し、はてなのエンジニアとして入社。ウェブシステム基盤の設計から運用まで、幅広く取り組み、YAPC::Asia 2013、2015、AWS Summit 2017などエンジニアとしての登壇多数。
 
@@ -10,10 +10,11 @@
 
 ## 所属
 
-なし
+さくらインターネット研究所 研究員(予定)
 
 ## 経歴
 
+- 2019年2月 さくらインターネット株式会社 入社(予定)
 - 2018年12月 株式会社はてな 退社
 - 2013年12月 株式会社はてな 入社
 - 2013年9月 大阪大学大学院 情報科学研究科情報ネットワーク学専攻 退学
@@ -27,18 +28,17 @@
 - 仕事
 - 個人
   - E-mail: yuki.tsubo (at) gmail.com
-- SNS
+- SNS&Blog
   - はてな: [id:y_uuki](http://profile.hatena.ne.jp/y_uuki/)
   - Twitter: [@yuuk1t](https://twitter.com/yuuk1t)
-  - Facebook: [yuuki724](https://www.facebook.com/yuuki724)
   - GitHub: [yuuki](https://github.com/yuuki)
+  - Facebook: [yuuki724](https://www.facebook.com/yuuki724)
   - Blog: [https://blog.yuuk.io/](https://blog.yuuk.io/)
   - Blog: [https://memo.yuuk.io/](https://memo.yuuk.io/)
 
 ## 研究開発テーマ
 
 - Site Reliability Engineering
-- 大規模システムのモニタリング
 - Data-Intensive Applications
 
 # 論文・発表・成果物
@@ -127,10 +127,10 @@
 
 ## パネルディスカッション
 
-1. 坪内佑樹, SRE(#nwc_sre), [次世代ウェブカンファレンス](https://nextwebconf.connpass.com/event/103056/), 2019年01月13日 (to appear)
-1. [人はなぜミドルウェアを作ってしまうのか?](http://2017.cross-party.com/program/x4), [CROSS 2017](http://2017.cross-party.com), 2017年09月07日
-1. [Hatena Engineer Seminar #7 @ Tokyo](https://hatena.connpass.com/event/45217/), 2016年12月6日
-1. [最前線で戦う若手インフラエンジニアたちが語る「技術トレンド」と「数年後の未来」](https://2015.techfesta.jp/p/program.html#tech_trend_and_future), [July Tech Festa 2015](https://2015.techfesta.jp), 2015年07年26日
+1. 坪内佑樹, SRE(#nwc_sre), [次世代Webカンファレンス 2019](https://nextwebconf.connpass.com/event/103056/), 2019年01月13日 [動画](https://www.youtube.com/watch?v=HR1pcyQ_i3I)
+1. 坪内佑樹, [人はなぜミドルウェアを作ってしまうのか?](http://2017.cross-party.com/program/x4), [CROSS 2017](http://2017.cross-party.com), 2017年09月07日
+1. 坪内佑樹, [Hatena Engineer Seminar #7 @ Tokyo](https://hatena.connpass.com/event/45217/), 2016年12月6日
+1. 坪内佑樹, [最前線で戦う若手インフラエンジニアたちが語る「技術トレンド」と「数年後の未来」](https://2015.techfesta.jp/p/program.html#tech_trend_and_future), [July Tech Festa 2015](https://2015.techfesta.jp), 2015年07年26日
 
 ## 競技
 
