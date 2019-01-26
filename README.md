@@ -15,7 +15,7 @@
 ## 経歴
 
 - 2019年2月 さくらインターネット株式会社 入社(予定)
-- 2018年12月 株式会社はてな 退社
+- 2018年12月 株式会社はてな 退社 (シニアエンジニア, Site Reliability Engineer[SRE])
 - 2013年12月 株式会社はてな 入社
 - 2013年9月 大阪大学大学院 情報科学研究科情報ネットワーク学専攻 退学
 - 2012年4月 大阪大学大学院 情報科学研究科情報ネットワーク学専攻 入学
@@ -91,7 +91,8 @@
 
 ## 口頭発表（国内）
 
-1. 坪内佑樹, テーマは「SRE」, [Mackerel Drink Up #8 Tokyo](https://mackerelio.connpass.com/event/106805/), 2018年12月11日
+1. 松本亮介(代理発表), アプリケーション実行環境におけるセキュリティの話, [福岡ゆるっとIT交流会 vol.9「セキュリティの話を聞こう」](https://yurutto-it.connpass.com/event/107340/), 2019年1月25日
+1. 坪内佑樹, SRE, [Mackerel Drink Up #8 Tokyo](https://mackerelio.connpass.com/event/106805/), 2018年12月11日
 1. 坪内佑樹,古川雅大, [TCP接続の追跡による簡略化されたネットワーク依存関係グラフの可視化基盤](https://blog.yuuk.io/entry/2018/mftracer), [第3回ウェブシステムアーキテクチャ(WSA)研究会](https://websystemarchitecture.hatenablog.jp/entry/2018/10/09/231937), 2018年11月17日
 1. 坪内佑樹, [サーバレス時代におけるヘテロジニアス時系列データベースアーキテクチャ](https://speakerdeck.com/yuukit/heterotsdb), [ウェブシステムアーキテクチャ(WSA)研究会 第2回](https://websystemarchitecture.hatenablog.jp/entry/2018/03/22/104006), 2018年05月12日
 1. 坪内佑樹, [TimeFuzeアーキテクチャ構想 - 処理とデータとタイマーを一体化したデータパイプライン](https://speakerdeck.com/yuukit/the-concept-of-timefuze-architecture), [ウェブシステムアーキテクチャ(WSA)研究会 第1回](http://websystemarchitecture.hatenablog.jp/entry/2017/12/17/133301), 2017年12月23日
