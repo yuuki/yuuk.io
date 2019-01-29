@@ -4,17 +4,20 @@
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <meta content='text/html; charset=utf-8' http-equiv='content-type' />
 
-  <title>&lt;yuuk1&gt;</title>
-  <meta content='&lt;yuuk1&gt;' property='title' />
-  <meta content='&lt;yuuk1&gt;' property='og:title' />
+  <title>My First Entry - &lt;yuuk1&gt;</title>
+  <meta content='My First Entry - &lt;yuuk1&gt;' property='title' />
+  <meta content='My First Entry - &lt;yuuk1&gt;' property='og:title' />
 
 
-<meta property="og:description" content="" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://yuuk.io/en/blog/" />
+<meta property="og:description" content="blog This is @yuukien&rsquo;s blog, which focues on computer engineering and technology art." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://yuuk.io/en/blog/entries/my-first-entry/" />
 
 
-<meta property="og:updated_time" content="2019-01-29T02:59:13&#43;09:00"/>
+<meta property="article:published_time" content="2019-01-29T02:59:13&#43;09:00"/>
+
+<meta property="article:modified_time" content="2019-01-29T02:59:13&#43;09:00"/>
+
 
 
 
@@ -54,27 +57,43 @@ type="image/x-icon"/>
   
 </nav>
   
-
 <main class="center mv4 content-width ph3">
-  <ul class="list pa0">
+  <div class="f3 fw6 heading-color heading-font post-title">My First Entry</div>
+  <p class="silver f6 mt1 mb4 post-meta">
+    <time>29 Jan 2019</time> 
+     | 
     
-    <li class="mb2">
-      <a class="f4 heading-color heading-font fw6 no-underline" href="https://yuuk.io/en/blog/entries/my-first-entry/">My First Entry</a>
-      <p class="f5 mt1 silver">
-        <time>29 Jan 2019</time>
-         | 
-        
-        
-        tags: [ <a href='/en/blog/tags/diary' class="link silver">diary</a>  ]
-        
-      </p>
-    </li>
     
-  </ul>
+    tags: [ <a href='/en/blog/tags/diary' class="link silver">diary</a>  ]
+    
+  </p>
+  <div class="lh-copy post-content">
+
+<h1 id="yuuk1-blog"><yuuk1> blog</h1>
+
+<p>This is <a href="https://twitter.com/yuuk1en">@yuukien</a>&rsquo;s blog, which focues on computer engineering and technology art.</p>
+</div>
 </main>
+ 
 
 
 
+
+
+
+<div class="tl fixed list-pages lh-copy" id="contents-list"></div>
+
+
+
+<div class="pagination tc tr-l db fixed-l bottom-2-l right-2-l mb3 mb0-l">
+  
+<a id="scroll-to-top" class="f6 o-0 link br2 ph2 pv1 mb1 bg-main-color pointer" onclick="topFunction()" style="color: #fff; visibility: hidden; display: none; transition: opacity .5s, visibility .5s;" title="back to top">back to top</a>
+<br>
+  <p class="mb0 mt2">
+  
+  
+  </p>
+</div>
 
   <footer class="content-width mt0 mt5-l mb4 f6 center ph3 gray tc tl-l">
   <hr class="dn db-l ml0-l gray w3"><br>
@@ -84,6 +103,10 @@ type="image/x-icon"/>
   
 
 
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.css">
+<style>.is-active-link::before { background-color: var(--secondary-color); }</style>
 
 
 
@@ -118,6 +141,17 @@ function topFunction() {
 
 
 
+
+if (document.getElementById("contents-list") !== null && document.getElementsByClassName("post-content").length !== 0) { 
+  tocbot.init({
+    
+    tocSelector: '#contents-list',
+    
+    contentSelector: '.post-content',
+    
+    headingSelector: 'h1, h2, h3',
+  });
+}
 
 
 </script>
