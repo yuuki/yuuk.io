@@ -96,6 +96,7 @@ layout: index
 
 ## 口頭発表（国内）
 
+1. 坪内佑樹, [ゆううきの研究開発まとめ (2019年2月版)](https://speakerdeck.com/yuukit/2019-0cfffd07-b58d-462f-8834-14e0dca15a0d), [さくらインターネット研究所 研究会 2019.02.13](https://research.matsumoto-r.jp/), 2019年2月13日
 1. 松本亮介(代理発表), [アプリケーション実行環境におけるセキュリティの話](https://speakerdeck.com/matsumoto_r/webapurikesiyonshi-xing-huan-jing-niokerusekiyuritei), [福岡ゆるっとIT交流会 vol.9「セキュリティの話を聞こう」](https://yurutto-it.connpass.com/event/107340/), 2019年1月25日
 1. 坪内佑樹, SRE, [Mackerel Drink Up #8 Tokyo](https://mackerelio.connpass.com/event/106805/), 2018年12月11日
 1. 坪内佑樹,古川雅大, [TCP接続の追跡による簡略化されたネットワーク依存関係グラフの可視化基盤](https://blog.yuuk.io/entry/2018/mftracer), [第3回ウェブシステムアーキテクチャ(WSA)研究会](https://websystemarchitecture.hatenablog.jp/entry/2018/10/09/231937), 2018年11月17日
