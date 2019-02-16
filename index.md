@@ -40,6 +40,7 @@ layout: index
   - Facebook: [yuuki724](https://www.facebook.com/yuuki724)
   - Blog: [https://blog.yuuk.io/](https://blog.yuuk.io/)
   - Blog: [https://memo.yuuk.io/](https://memo.yuuk.io/)
+  - Slide: <https://speakerdeck.com/yuukit>
 
 ## 研究開発テーマ
 
