@@ -55,7 +55,7 @@ layout: index
 - [DiamonDB](https://github.com/yuuki/diamondb)
   - Rebuild of Time Series Database on AWS.
 - [Droot](https://github.com/yuuki/droot)
-  - A super-easy container with chroot without docker.
+  - A super-simple container with chroot without docker.
 - [gokc](https://github.com/yuuki/gokc)
   - Yet Another Keepalived Syntax Checker in Golang.
 - [lstf](https://github.com/yuuki/lstf)
