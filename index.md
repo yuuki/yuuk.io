@@ -31,6 +31,7 @@ layout: index
 ## 連絡先
 
 - 仕事
+  - E-mail: y-tsubouchi (at) sakura.ad.jp
 - 個人
   - E-mail: yuki.tsubo (at) gmail.com
 - SNS&Blog
