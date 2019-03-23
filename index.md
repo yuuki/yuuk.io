@@ -97,7 +97,7 @@ layout: index
 ## 講演
 
 1. [自然のごとく複雑化したウェブシステムの自律的運用に向けて](https://speakerdeck.com/yuukit/experimentable-infrastructure), [人工知能学会 合同研究会 第3回ウェブサイエンス研究会](http://www.ai-gakkai.or.jp/sigconf/)(招待講演), 2017年11月24日
-1. [高度に発達したシステムの異常は神の怒りと見分けがつかない](https://speakerdeck.com/yuukit/ipsj-one-2017-y-uuki), [IPSJ-ONE 2017](http://ipsj-one.org/), 2017年03月18日
+1. [高度に発達したシステムの異常は神の怒りと見分けがつかない](https://speakerdeck.com/yuukit/ipsj-one-2017-y-uuki), [IPSJ-ONE 2017](http://ipsj-one.org/2017/), 2017年03月18日
 1. [サーバモニタリング向け時系列データベースの探究](https://speakerdeck.com/yuukit/the-study-of-time-series-database-for-server-monitoring), [第９回インターネットと運用技術シンポジウム(IOTS2016)](http://www.iot.ipsj.or.jp/iots/2016)(招待講演), 2016年12月01日
 
 ## 口頭発表（国内）
