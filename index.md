@@ -112,7 +112,7 @@ layout: index
 1. 坪内佑樹,[はてなシステム構想](https://speakerdeck.com/yuukit/the-concept-of-hatena-system), [ペパボ・はてな技術大会@福岡](https://pepabo.connpass.com/event/65932/), 2017年10月07日
 1. 坪内佑樹, Webシステムをデータセンター移行するときに考えること, [Hosting Casual Talks #4](https://connpass.com/event/62208/), 2017年09月30日
 1. 坪内佑樹, [RedisのCPU負荷対策パターン](https://speakerdeck.com/yuukit/redisfalsecpufu-he-dui-ce-patan), [Kyoto.なんか #3](https://kyoto-nanka.connpass.com/event/62617/), 2017年08月19日
-1. 坪内佑樹, [時系列データベースという概念をクラウドの技で再構築する](https://speakerdeck.com/yuukit/the-rebuild-of-time-series-database-on-aws), [AWS Summit Tokyo 2017](http://www.awssummit.tokyo/)), 2017年06月01日
+1. 坪内佑樹, [時系列データベースという概念をクラウドの技で再構築する](https://speakerdeck.com/yuukit/the-rebuild-of-time-series-database-on-aws), [AWS Summit Tokyo 2017](http://www.awssummit.tokyo/), 2017年06月01日, [動画](https://www.youtube.com/watch?v=bjdikrBzSmw)
 1. 坪内佑樹, [Go言語をほぼ毎日書いている話 (序) ](https://speakerdeck.com/yuukit/daily-coding-in-go), [そうだ Go、京都。](https://go-kyoto.connpass.com/event/55599/), 2017年04月29日
 1. 坪内佑樹, AWSでつくる時系列データベース, リクルートテクノロジーズ社内勉強会, 2017年04月28日
 1. 坪内佑樹, [mkr + peco + tmux + ssh](https://speakerdeck.com/yuukit/mkr-plus-peco-plus-tmux-plus-ssh), [Mackerel Meetup #10 Tokyo](https://mackerelio.connpass.com/event/54302/), 2017年04月27日
