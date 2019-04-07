@@ -75,6 +75,10 @@ layout: index
 - [Coteng](https://metacpan.org/pod/Coteng)
   - Lightweight Teng O/R Mapper.
 
+## 国際会議論文
+
+1. Yuuki Tsubouchi, Asato Wakisaka, Ken Hamada, Masayuki Matsuki, Hiroshi Abe, Ryosuke Matsumoto, **[HeteroTSDB: An Extensible Time Series Database for Automatically Tiering on Heterogeneous Key-Value Stores](https://yuuk.io)**, Proceedings of The 43rd Annual International Computers, Software & Applications Conference (COMPSAC), July 2019. (to apper)
+
 ## 査読付論文 (国内)
 
 1. 坪内佑樹,脇坂朝人,濱田健,松木雅幸,阿部博,松本亮介, **[HeteroTSDB: 異種混合キーバリューストアを用いた自動階層化のための時系列データベースアーキテクチャ](http://id.nii.ac.jp/1001/00192569/)**, インターネットと運用技術シンポジウム論文集, 2018, 7-15 (2018-11-29), 2018年12月. [[論文](https://yuuk.io/papers/heterotsdb_iots2018.pdf)] [[発表資料](https://speakerdeck.com/yuukit/heterotsdb-a-time-series-database-architecture-for-automatically-tiering-on-heterogeneous-key-value-stores)]
