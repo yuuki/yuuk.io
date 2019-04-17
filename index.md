@@ -105,8 +105,8 @@ layout: index
 
 ## 口頭発表（国内）
 
-1. 坪内佑樹, **[エッジコンピューティングに向けた分散キャッシュ技術の調査](https://speakerdeck.com/yuukit/edge-caching-survey), [第4回ウェブシステムアーキテクチャ(WSA)研究会](https://websystemarchitecture.hatenablog.jp/entry/2019/02/26/100725), 2019年4月13日
-1. 坪内佑樹, **[わたしの研究開発紹介 - 技術者から研究者へ -](https://speakerdeck.com/yuukit/introduction-to-my-research), 2019年4月10日
+1. 坪内佑樹, **[エッジコンピューティングに向けた分散キャッシュ技術の調査](https://speakerdeck.com/yuukit/edge-caching-survey)**, [第4回ウェブシステムアーキテクチャ(WSA)研究会](https://websystemarchitecture.hatenablog.jp/entry/2019/02/26/100725), 2019年4月13日
+1. 坪内佑樹, **[わたしの研究開発紹介 - 技術者から研究者へ -](https://speakerdeck.com/yuukit/introduction-to-my-research)**, 2019年4月10日
 1. 坪内佑樹, **[SREへの機械学習適用に関するサーベイ](https://speakerdeck.com/yuukit/a-survey-for-cases-of-applying-machine-learning-to-sre)**, [MACHINE LEARNING Meetup KANSAI #4 LT](https://mlm-kansai.connpass.com/event/119084/), 2019年3月27日
 1. 坪内佑樹, **[超個体的DBクエリキャッシング構想](https://speakerdeck.com/yuukit/chao-ge-ti-de-dbkuerikiyatusingugou-xiang)**, [Hosting Casual Talks #5](https://connpass.com/event/120048/), 2019年3月22日
 1. 坪内佑樹, **[ゆううきの研究開発まとめ (2019年2月版)](https://speakerdeck.com/yuukit/2019-0cfffd07-b58d-462f-8834-14e0dca15a0d)**, [さくらインターネット研究所 研究会 2019.02.13](https://research.matsumoto-r.jp/), 2019年2月13日
