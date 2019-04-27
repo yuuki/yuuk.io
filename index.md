@@ -35,12 +35,12 @@ layout: index
 - 個人
   - E-mail: yuki.tsubo (at) gmail.com
 - SNS&Blog
-  - はてな: [id:y_uuki](http://profile.hatena.ne.jp/y_uuki/)
   - Twitter: [@yuuk1t](https://twitter.com/yuuk1t)
   - GitHub: [yuuki](https://github.com/yuuki)
+  - はてな: [id:y_uuki](http://profile.hatena.ne.jp/y_uuki/)
   - Facebook: [yuuki724](https://www.facebook.com/yuuki724)
-  - Blog: [https://blog.yuuk.io/](https://blog.yuuk.io/)
-  - Blog: [https://memo.yuuk.io/](https://memo.yuuk.io/)
+  - Main Blog: [https://blog.yuuk.io/](https://blog.yuuk.io/archive)
+  - Memo Blog: [https://memo.yuuk.io/](https://memo.yuuk.io/archive)
   - Slide: <https://speakerdeck.com/yuukit>
 
 ## 研究開発テーマ
