@@ -105,6 +105,7 @@ layout: index
 
 ## 口頭発表（国内）
 
+1. 坪内佑樹, **[SREの組織的実践](https://speakerdeck.com/yuukit/organized-sre)**, [エンジニリング組織の作り方](https://sansan.connpass.com/event/125822/), 2019年5月10日
 1. 坪内佑樹, **[エッジコンピューティングに向けた分散キャッシュ技術の調査](https://speakerdeck.com/yuukit/edge-caching-survey)**, [第4回ウェブシステムアーキテクチャ(WSA)研究会](https://websystemarchitecture.hatenablog.jp/entry/2019/02/26/100725), 2019年4月13日
 1. 坪内佑樹, **[わたしの研究開発紹介 - 技術者から研究者へ -](https://speakerdeck.com/yuukit/introduction-to-my-research)**, 2019年4月10日
 1. 坪内佑樹, **[SREへの機械学習適用に関するサーベイ](https://speakerdeck.com/yuukit/a-survey-for-cases-of-applying-machine-learning-to-sre)**, [MACHINE LEARNING Meetup KANSAI #4 LT](https://mlm-kansai.connpass.com/event/119084/), 2019年3月27日
