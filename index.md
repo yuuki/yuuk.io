@@ -79,16 +79,16 @@ layout: index
 
 1. <u>Yuuki Tsubouchi</u>, Asato Wakisaka, Ken Hamada, Masayuki Matsuki, Hiroshi Abe, Ryosuke Matsumoto, "**[HeteroTSDB: An Extensible Time Series Database for Automatically Tiering on Heterogeneous Key-Value Stores](https://yuuk.io)**", [Proceedings of The 43rd Annual International Computers, Software & Applications Conference (COMPSAC)](https://ieeecompsac.computer.org/2019/), July 2019. (to apper)
 
-## 査読付論文 (国内)
+## 国内査読付論文
 
 1. <u>坪内佑樹</u>, 脇坂朝人, 濱田健, 松木雅幸, 阿部博, 松本亮介, "**[HeteroTSDB: 異種混合キーバリューストアを用いた自動階層化のための時系列データベースアーキテクチャ](http://id.nii.ac.jp/1001/00192569/)**", インターネットと運用技術シンポジウム論文集, 2018, 7-15 (2018-11-29), 2018年12月. [[論文](https://yuuk.io/papers/heterotsdb_iots2018.pdf)] [[発表資料](https://speakerdeck.com/yuukit/heterotsdb-a-time-series-database-architecture-for-automatically-tiering-on-heterogeneous-key-value-stores)]
 
-## 査読無し論文 (国内)
+## 国内査読無し論文
 
 1. <u>坪内佑樹</u>, 松本亮介, "**[超個体型データセンターにおける分散協調クエリキャッシュ構想](http://id.nii.ac.jp/1001/00195697/)**", 情報処理学会研究報告インターネットと運用技術（IOT）, No.2019-IOT-45, Vol.14, pp.1-7, 2019年5月. [[論文]](https://yuuuk.io/papers/concept-of-quorumcache_iot45.pdf) [[発表資料](https://speakerdeck.com/yuukit/quorumcache-architecture)]
 1. 松本亮介, <u>坪内佑樹</u>, 宮下剛輔, "**[分散型データセンターOSを目指したリアクティブ性を持つコンテナ実行基盤技術](http://id.nii.ac.jp/1001/00194721/)**", 情報処理学会研究報告インターネットと運用技術（IOT）, No.2019-IOT-45, Vol.12, pp.1-8, 2019年3月.
 
-## 雑誌・書籍
+## 書籍・商業誌
 
 1. 井上大輔,粕谷大輔,杉山広通,田中慎司,坪内佑樹,松木雅幸, **[Mackerel サーバ監視［実践］入門](http://gihyo.jp/book/2017/978-4-7741-9213-0)**, 技術評論社, 2017年8月26日
 1. 坪内佑樹, Mackerelではじめるサーバ管理 第17回 **ロール編成の考え方**, [Software Design 2016年7月号](http://gihyo.jp/magazine/SD/archive/2016/201607), 技術評論社, 2016年6月18日
@@ -98,13 +98,13 @@ layout: index
 1. 坪内佑樹, Mackerelではじめるサーバ管理 第6回 **Mackerel周辺の運用ツールとAWS連携ノウハウ**, [Software Design 2015年8月号](http://gihyo.jp/magazine/SD/archive/2015/201508), 技術評論社, 2015年7月18日
 1. 坪内佑樹, Mackerelではじめるサーバ管理 第3回 **運用しながら育てるサーバ監視のルール**, [Software Design 2015年5月号](http://gihyo.jp/magazine/SD/archive/2015/201505), 技術評論社, 2015年4月18日
 
-## 講演 (国内)
+## 国内講演
 
 1. 坪内佑樹, **[自然のごとく複雑化したウェブシステムの自律的運用に向けて](https://speakerdeck.com/yuukit/experimentable-infrastructure)**, [人工知能学会 合同研究会 第3回ウェブサイエンス研究会](http://www.ai-gakkai.or.jp/sigconf/)(招待講演), 2017年11月24日
 1. 坪内佑樹, **[高度に発達したシステムの異常は神の怒りと見分けがつかない](https://speakerdeck.com/yuukit/ipsj-one-2017-y-uuki)**, [IPSJ-ONE 2017](http://ipsj-one.org/2017/), 2017年03月18日
 1. 坪内佑樹, **[サーバモニタリング向け時系列データベースの探究](https://speakerdeck.com/yuukit/the-study-of-time-series-database-for-server-monitoring)**, [第9回インターネットと運用技術シンポジウム(IOTS2016)](http://www.iot.ipsj.or.jp/iots/2016)(招待講演), 2016年12月01日
 
-## 口頭発表（国内）
+## 国内口頭発表
 
 1. 坪内佑樹, **[SREの組織的実践](https://speakerdeck.com/yuukit/organized-sre)**, [エンジニリング組織の作り方 -マネジメントとSREの観点から考える-](https://sansan.connpass.com/event/125822/), 2019年5月9日
 1. 坪内佑樹, **[エッジコンピューティングに向けた分散キャッシュ技術の調査](https://speakerdeck.com/yuukit/edge-caching-survey)**, [第4回ウェブシステムアーキテクチャ(WSA)研究会](https://websystemarchitecture.hatenablog.jp/entry/2019/02/26/100725), 2019年4月13日
