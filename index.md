@@ -81,7 +81,7 @@ layout: index
 
 ## 国内査読無し論文
 
-1. <u>坪内佑樹</u>, 古川雅大, 松本亮介, "超個体型データセンターを目指したネットワークサービス間依存関係の自動追跡の構想", マルチメディア、分散、協調とモバイル（DICOMO2019）シンポジウム, 6A-2, pp. 1169-1174, Jul 2019. [[論文](https://yuuk.io/papers/transtracer_dicomo2019.pdf)][発表資料](https://speakerdeck.com/yuukit/a-concept-of-superorganism-tracing)]
+1. <u>坪内佑樹</u>, 古川雅大, 松本亮介, "超個体型データセンターを目指したネットワークサービス間依存関係の自動追跡の構想", マルチメディア、分散、協調とモバイル（DICOMO2019）シンポジウム, 6A-2, pp. 1169-1174, Jul 2019. [[論文](https://yuuk.io/papers/transtracer_dicomo2019.pdf)][[発表資料](https://speakerdeck.com/yuukit/a-concept-of-superorganism-tracing)]
 1. <u>坪内佑樹</u>, 松本亮介, "**[超個体型データセンターにおける分散協調クエリキャッシュ構想](http://id.nii.ac.jp/1001/00195697/)**", 情報処理学会研究報告インターネットと運用技術（IOT）, No.2019-IOT-45, Vol.14, pp.1-7, 2019年5月. [[論文]](https://yuuuk.io/papers/concept-of-quorumcache_iot45.pdf) [[発表資料](https://speakerdeck.com/yuukit/quorumcache-architecture)]
 1. 松本亮介, <u>坪内佑樹</u>, 宮下剛輔, "**[分散型データセンターOSを目指したリアクティブ性を持つコンテナ実行基盤技術](http://id.nii.ac.jp/1001/00194721/)**", 情報処理学会研究報告インターネットと運用技術（IOT）, No.2019-IOT-45, Vol.12, pp.1-8, 2019年3月.
 
