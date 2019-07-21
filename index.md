@@ -73,7 +73,7 @@ layout: index
 
 ## 国際会議論文
 
-1. <u>Yuuki Tsubouchi</u>, Asato Wakisaka, Ken Hamada, Masayuki Matsuki, Hiroshi Abe, Ryosuke Matsumoto, "**[HeteroTSDB: An Extensible Time Series Database for Automatically Tiering on Heterogeneous Key-Value Stores](https://yuuk.io)**", [Proceedings of The 43rd Annual International Computers, Software & Applications Conference (COMPSAC)](https://ieeecompsac.computer.org/2019/), July 2019. [[paper](https://yuuk.io/papers/heterotsdb_compsac2019.pdf)] [[slide](https://speakerdeck.com/yuukit/heterotsdb-an-extensible-time-series-database-for-automatically-tiering-on-heterogeneous-key-value-stores)]
+1. <u>Yuuki Tsubouchi</u>, Asato Wakisaka, Ken Hamada, Masayuki Matsuki, Hiroshi Abe, Ryosuke Matsumoto, "**[HeteroTSDB: An Extensible Time Series Database for Automatically Tiering on Heterogeneous Key-Value Stores](https://yuuk.io)**", [Proceedings of The 43rd Annual IEEE International Computers, Software & Applications Conference (COMPSAC)](https://ieeecompsac.computer.org/2019/), July 2019. [[paper](https://yuuk.io/papers/heterotsdb_compsac2019.pdf)] [[slide](https://speakerdeck.com/yuukit/heterotsdb-an-extensible-time-series-database-for-automatically-tiering-on-heterogeneous-key-value-stores)]
 
 ## 国内査読付論文
 
