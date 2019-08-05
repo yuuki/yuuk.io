@@ -4,6 +4,8 @@ layout: index
 
 # 坪内 佑樹 (TSUBOUCHI Yuuki)
 
+Site Reliability Engineering(SRE)の研究者
+
 ## 所属
 
 - 2019年05月〜
@@ -95,8 +97,9 @@ layout: index
 1. 坪内佑樹, Mackerelではじめるサーバ管理 第6回 **Mackerel周辺の運用ツールとAWS連携ノウハウ**, [Software Design 2015年8月号](http://gihyo.jp/magazine/SD/archive/2015/201508), 技術評論社, 2015年7月18日
 1. 坪内佑樹, Mackerelではじめるサーバ管理 第3回 **運用しながら育てるサーバ監視のルール**, [Software Design 2015年5月号](http://gihyo.jp/magazine/SD/archive/2015/201505), 技術評論社, 2015年4月18日
 
-## 国内講演
+## 国内講演・講義
 
+1. 坪内佑樹, **[クラウド時代における大規模分散Webシステムの信頼性制御]()**, [セキュリティ・キャンプ全国大会2019](https://www.ipa.go.jp/jinzai/camp/2019/zenkoku2019_index.html), 2019年9月. (to appear)
 1. 坪内佑樹, **[自然のごとく複雑化したウェブシステムの自律的運用に向けて](https://speakerdeck.com/yuukit/experimentable-infrastructure)**, [人工知能学会 合同研究会 第3回ウェブサイエンス研究会](http://www.ai-gakkai.or.jp/sigconf/)(招待講演), 2017年11月24日
 1. 坪内佑樹, **[高度に発達したシステムの異常は神の怒りと見分けがつかない](https://speakerdeck.com/yuukit/ipsj-one-2017-y-uuki)**, [IPSJ-ONE 2017](http://ipsj-one.org/2017/), 2017年03月18日
 1. 坪内佑樹, **[サーバモニタリング向け時系列データベースの探究](https://speakerdeck.com/yuukit/the-study-of-time-series-database-for-server-monitoring)**, [第9回インターネットと運用技術シンポジウム(IOTS2016)](http://www.iot.ipsj.or.jp/iots/2016)(招待講演), 2016年12月01日
