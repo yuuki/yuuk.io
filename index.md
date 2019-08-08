@@ -36,18 +36,20 @@ Site Reliability Engineering(SRE)の研究者．さくらインターネット�
 
 ## 連絡先
 
-- 仕事
-  - E-mail: y-tsubouchi (at) sakura.ad.jp
-- 個人
-  - E-mail: yuki.tsubo (at) gmail.com
-- SNS&Blog
-  - Twitter: [@yuuk1t](https://twitter.com/yuuk1t)
-  - GitHub: [yuuki](https://github.com/yuuki)
-  - はてな: [id:y_uuki](http://profile.hatena.ne.jp/y_uuki/)
-  - Facebook: [yuuki724](https://www.facebook.com/yuuki724)
-  - メインブログ: [https://blog.yuuk.io/](https://blog.yuuk.io/archive)
-  - メモブログ: [https://memo.yuuk.io/](https://memo.yuuk.io/archive)
-  - スライド: <https://speakerdeck.com/yuukit>
+### SNSなど
+
+- Twitter: [@yuuk1t](https://twitter.com/yuuk1t)
+- はてな: [id:y_uuki](http://profile.hatena.ne.jp/y_uuki/)
+- GitHub: [yuuki](https://github.com/yuuki)
+- Facebook: [yuuki724](https://www.facebook.com/yuuki724)
+- メインブログ: [https://blog.yuuk.io/](https://blog.yuuk.io/archive)
+- メモブログ: [https://memo.yuuk.io/](https://memo.yuuk.io/archive)
+- スライド: <https://speakerdeck.com/yuukit>
+
+### メールアドレス
+
+- 仕事: y-tsubouchi (at) sakura.ad.jp
+- 個人: yuki.tsubo (at) gmail.com
 
 ## 専門分野
 
