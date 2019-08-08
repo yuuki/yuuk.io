@@ -101,6 +101,7 @@ Site Reliability Engineering(SRE)の研究者
 
 1. 坪内佑樹, **[クラウド時代における大規模分散Webシステムの信頼性制御]()**, [セキュリティ・キャンプ全国大会2019](https://www.ipa.go.jp/jinzai/camp/2019/zenkoku2019_index.html), 2019年9月. (to appear)
 1. 坪内佑樹, **[自然のごとく複雑化したウェブシステムの自律的運用に向けて](https://speakerdeck.com/yuukit/experimentable-infrastructure)**, [人工知能学会 合同研究会 第3回ウェブサイエンス研究会](http://www.ai-gakkai.or.jp/sigconf/)(招待講演), 2017年11月24日
+1. 坪内佑樹, **[時系列データベースという概念をクラウドの技で再構築する](https://speakerdeck.com/yuukit/the-rebuild-of-time-series-database-on-aws)**, [AWS Summit Tokyo 2017](http://www.awssummit.tokyo/), 2017年06月01日, [[動画]](https://www.youtube.com/watch?v=bjdikrBzSmw)
 1. 坪内佑樹, **[高度に発達したシステムの異常は神の怒りと見分けがつかない](https://speakerdeck.com/yuukit/ipsj-one-2017-y-uuki)**, [IPSJ-ONE 2017](http://ipsj-one.org/2017/), 2017年03月18日
 1. 坪内佑樹, **[サーバモニタリング向け時系列データベースの探究](https://speakerdeck.com/yuukit/the-study-of-time-series-database-for-server-monitoring)**, [第9回インターネットと運用技術シンポジウム(IOTS2016)](http://www.iot.ipsj.or.jp/iots/2016)(招待講演), 2016年12月01日
 
@@ -120,7 +121,6 @@ Site Reliability Engineering(SRE)の研究者
 1. 坪内佑樹, **[はてなシステム構想](https://speakerdeck.com/yuukit/the-concept-of-hatena-system)**, [ペパボ・はてな技術大会@福岡](https://pepabo.connpass.com/event/65932/), 2017年10月07日
 1. 坪内佑樹, **Webシステムをデータセンター移行するときに考えること**, [Hosting Casual Talks #4](https://connpass.com/event/62208/), 2017年09月30日
 1. 坪内佑樹, **[RedisのCPU負荷対策パターン](https://speakerdeck.com/yuukit/redisfalsecpufu-he-dui-ce-patan)**, [Kyoto.なんか #3](https://kyoto-nanka.connpass.com/event/62617/), 2017年08月19日
-1. 坪内佑樹, **[時系列データベースという概念をクラウドの技で再構築する](https://speakerdeck.com/yuukit/the-rebuild-of-time-series-database-on-aws)**, [AWS Summit Tokyo 2017](http://www.awssummit.tokyo/), 2017年06月01日, [動画](https://www.youtube.com/watch?v=bjdikrBzSmw)
 1. 坪内佑樹, **[Go言語をほぼ毎日書いている話 (序) ](https://speakerdeck.com/yuukit/daily-coding-in-go), [そうだ Go、京都。](https://go-kyoto.connpass.com/event/55599/)**, 2017年04月29日
 1. 坪内佑樹, **AWSでつくる時系列データベース**, リクルートテクノロジーズ社内勉強会, 2017年04月28日
 1. 坪内佑樹, **[mkr + peco + tmux + ssh](https://speakerdeck.com/yuukit/mkr-plus-peco-plus-tmux-plus-ssh)**, [Mackerel Meetup #10 Tokyo](https://mackerelio.connpass.com/event/54302/), 2017年04月27日
@@ -149,7 +149,7 @@ Site Reliability Engineering(SRE)の研究者
 
 ## パネルディスカッション
 
-1. 坪内佑樹, **SRE(#nwc_sre)**, [次世代Webカンファレンス 2019](https://nextwebconf.connpass.com/event/103056/), 2019年01月13日 [動画](https://www.youtube.com/watch?v=HR1pcyQ_i3I)
+1. 坪内佑樹, **SRE(#nwc_sre)**, [次世代Webカンファレンス 2019](https://nextwebconf.connpass.com/event/103056/), 2019年01月13日 [[動画]](https://www.youtube.com/watch?v=HR1pcyQ_i3I)
 1. 坪内佑樹, トークセッション, [はてな・ペパボ技術大会 #4 〜DevOps〜 @京都](https://hatena.connpass.com/event/89520/), 2018年6月23日
 1. 坪内佑樹, **[人はなぜミドルウェアを作ってしまうのか?](http://2017.cross-party.com/program/x4)**, [CROSS 2017](http://2017.cross-party.com), 2017年09月07日
 1. 坪内佑樹, **[Hatena Engineer Seminar #7 @ Tokyo](https://hatena.connpass.com/event/45217/)**, 2016年12月6日
@@ -161,12 +161,14 @@ Site Reliability Engineering(SRE)の研究者
 1. [ISUCON5](http://isucon.net/archives/45166636.html) 本戦出場
 1. [ISUCON4](http://isucon.net/archives/41252218.html) 本戦出場
 
-## インタビュー
+## 学会誌・商業誌等解説
 
-1. はてなニュース, **[レンサバの常識を覆す「なめらかなシステム」に挑む──運用技術を学術研究して実際のサービスへ適用](http://hatenanews.com/articles/201701/24117)**, 2017年01月
-1. はてなWebオペレーションエンジニア座談会, **[10年続くサービスを、インフラ技術で支える](http://hatenacorp.jp/recruit/operation_engineer)**, 2016年12月
-1. はてなニュース, **[Yahoo! JAPANの新しいメッセージングシステムと、それをOSSで開発するエンジニアの素顔](http://hatenanews.com/articles/201612/24092)**, 2016年12月
-1. はてなニュース, **[秒間100万リクエストを支えるオープンソースのコードを書くヤフーのインフラチームに、はてなエンジニアが迫る](http://hatenanews.com/articles/201604/23819)**, 2016年04月
+1. 坪内佑樹, **[高度に発達したシステムの異常は神の怒りと見分けがつかない　~システム管理者を恐れから解放する監視システムを](https://www.milive-plus.net/gakumon171102/)**, 河合塾みらいぶプラス, 2017年11月
+1. 坪内佑樹, **[ミドルウェアならではの開発者の悩み――スケーラビリティやソフトウェア寿命の問題にどう立ち向かうか](https://codezine.jp/article/detail/10487)**, CodeZine, 2017年10月
+1. 坪内佑樹, **[レンサバの常識を覆す「なめらかなシステム」に挑む──運用技術を学術研究して実際のサービスへ適用](http://hatenanews.com/articles/201701/24117)**, はてなニュース, 2017年01月
+1. 坪内佑樹, **[10年続くサービスを、インフラ技術で支える](http://hatenacorp.jp/recruit/operation_engineer)**, はてなWebオペレーションエンジニア座談会, 2016年12月
+1. 坪内佑樹, **[Yahoo! JAPANの新しいメッセージングシステムと、それをOSSで開発するエンジニアの素顔](http://hatenanews.com/articles/201612/24092)**, はてなニュース, 2016年12月
+1. 坪内佑樹, **[秒間100万リクエストを支えるオープンソースのコードを書くヤフーのインフラチームに、はてなエンジニアが迫る](http://hatenanews.com/articles/201604/23819)**, はてなニュース, 2016年04月
 
 ## ホットエントリ
 
