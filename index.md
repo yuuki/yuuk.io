@@ -14,6 +14,10 @@ Site Reliability Engineering(SRE)の研究者．さくらインターネット�
 
 2017年に情報処理学会IPSJ-ONEにおいて，情報科学分野で活躍する若手研究者として選出される．
 
+## 略歴 (short version)
+
+Site Reliability Engineering(SRE)の研究者．さくらインターネット研究所研究員．2019年さくらインターネット入社．SRE，Data-Intensive Applicationsに関する研究開発を担当． 2013年12月より株式会社はてなのWebオペレーションエンジニアおよびSREとして従事しつつ，業務の傍らで論文執筆．技術者としては，YAPC::Asia 2013/2015，AWS Summit 2017などの登壇多数，学術研究の場では，情報処理学会IPSJ-ONE 2017にて情報科学分野で活躍する若手研究者として選出される．
+
 ## 所属
 
 - 2019年05月〜
@@ -114,6 +118,8 @@ Site Reliability Engineering(SRE)の研究者．さくらインターネット�
 1. 坪内佑樹, **[時系列データベースという概念をクラウドの技で再構築する](https://speakerdeck.com/yuukit/the-rebuild-of-time-series-database-on-aws)**, [AWS Summit Tokyo 2017](http://www.awssummit.tokyo/), 2017年06月01日, [[動画]](https://www.youtube.com/watch?v=bjdikrBzSmw)
 1. 坪内佑樹, **[高度に発達したシステムの異常は神の怒りと見分けがつかない](https://speakerdeck.com/yuukit/ipsj-one-2017-y-uuki)**, [IPSJ-ONE 2017](http://ipsj-one.org/2017/), 2017年03月18日
 1. 坪内佑樹, **[サーバモニタリング向け時系列データベースの探究](https://speakerdeck.com/yuukit/the-study-of-time-series-database-for-server-monitoring)**, [第9回インターネットと運用技術シンポジウム(IOTS2016)](http://www.iot.ipsj.or.jp/iots/2016)(招待講演), 2016年12月01日
+1. 坪内佑樹, **[技術ブログを書くことについて語るときに僕の語ること](http://yapcasia.org/2015/talk/show/7d62caf8-12f4-11e5-881c-d9f87d574c3a)**, [YAPC::Asia Tokyo 2015](http://yapcasia.org/2015/), 2015年08月20日
+1. 坪内佑樹, **[はてなのサーバ管理ツールの話](http://yapcasia.org/2013/talk/show/62304644-e25d-11e2-8767-0fa16aeab6a4)**, [YAPC::Asia 2013](http://yapcasia.org/2013), 2013年9月20日
 
 ## 国内口頭発表
 
@@ -142,7 +148,6 @@ Site Reliability Engineering(SRE)の研究者．さくらインターネット�
 1. 坪内佑樹, **[ウェブアプリケーション開発に新言語を採用したときにインフラで考えたこと](https://blog.yuuk.io/entry/infra-for-newlang)**, [第3回関西ITインフラ系勉強会](http://kansai-itinfra.connpass.com/event/26165/), 2016年02月27日
 1. 坪内佑樹, **[Writing Tools in Go For Ops Engineers](https://speakerdeck.com/yuukit/writing-tools-in-go-for-ops-engineers)**, [Go 1.6 Release Party](http://gocon.connpass.com/event/26572/), 2016年02年17日
 1. 坪内佑樹, **[ウェブアプリケーションフレームワークの向こう側](https://speakerdeck.com/yuukit/the-other-side-of-web-application-frameworks)**, [はてなインターン2015講義](http://hatenacorp.jp/intern2015/lecture/), 2015年8月
-1. 坪内佑樹, **[技術ブログを書くことについて語るときに僕の語ること](http://yapcasia.org/2015/talk/show/7d62caf8-12f4-11e5-881c-d9f87d574c3a)**, [YAPC::Asia Tokyo 2015](http://yapcasia.org/2015/), 2015年08月20日
 1. 坪内佑樹, **Dockerはもう古い これからはchroot**, [Hosting Casual Talks #2](http://www.zusaar.com/event/9057007), 2015年06月27日
 1. 坪内佑樹, **[Docker Performance on Web Application](https://speakerdeck.com/yuukit/docker-performance-on-web-application)**, [Docker Meetup Tokyo #4](http://dockerjp.connpass.com/event/10318/), 2015年01月17日
 1. 坪内佑樹, **[Mackerel-Based Server Metrics Visualization](https://speakerdeck.com/yuukit/mackerel-based-server-metrics-visualization)**, [可視化ツール現状確認会](http://www.zusaar.com/event/7437003), 2015年06月04日
@@ -154,7 +159,6 @@ Site Reliability Engineering(SRE)の研究者．さくらインターネット�
 1. 坪内佑樹, **[なにもわからないところから始めるJVMモニタリング](https://speakerdeck.com/yuukit/nanimowakaranaitokorokarashi-merujvmmonitaringu)**, [JVM Operation Casual Talks](https://atnd.org/events/48999), 2014年04月07日
 1. 坪内佑樹, **[Docker使ってたらサーバがゴミ捨て場みたいになった話](https://speakerdeck.com/yuukit/dockershi-tutetarasahakakomishe-techang-mitaininatutetahua)**, [Immutable Infrastructure Conference #1](https://atnd.org/events/47786), 2014年03月25日
 1. 坪内佑樹, **[Sensu & Graphite Modern Monitoring Tool](https://speakerdeck.com/yuukit/sensu-plus-graphite)**, [Monitoring Casual Talk in Kyoto](http://www.zusaar.com/event/1377006), 2014年11月30日
-1. 坪内佑樹, **[はてなのサーバ管理ツールの話](http://yapcasia.org/2013/talk/show/62304644-e25d-11e2-8767-0fa16aeab6a4)**, [YAPC::Asia 2013](http://yapcasia.org/2013), 2013年9月20日
 1. 坪内佑樹, **サーバのメトリクス取得とグラフ化**, [Kyoto.pm 05 Tech Talks](http://kyoto.pm.org/entry/2013/07/14/151711), 2013年7月14日
 
 ## パネルディスカッション
