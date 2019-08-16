@@ -109,7 +109,7 @@ Site Reliability Engineering(SRE)の研究者．さくらインターネット�
 
 ## 国内講演・講義
 
-1. 坪内佑樹, **[クラウド時代における大規模分散Webシステムの信頼性制御]()**, [セキュリティ・キャンプ全国大会2019](https://www.ipa.go.jp/jinzai/camp/2019/zenkoku2019_index.html), 2019年9月. (to appear)
+1. 坪内佑樹, **[クラウド時代における大規模分散Webシステムの信頼性制御](https://www.ipa.go.jp/jinzai/camp/2019/zenkoku2019_program_list.html#list_d2-b1)**, [セキュリティ・キャンプ全国大会2019](https://www.ipa.go.jp/jinzai/camp/2019/zenkoku2019_index.html), 2019年08月14日
 1. 坪内佑樹, **[自然のごとく複雑化したウェブシステムの自律的運用に向けて](https://speakerdeck.com/yuukit/experimentable-infrastructure)**, [人工知能学会 合同研究会 第3回ウェブサイエンス研究会](http://www.ai-gakkai.or.jp/sigconf/)(招待講演), 2017年11月24日
 1. 坪内佑樹, **[時系列データベースという概念をクラウドの技で再構築する](https://speakerdeck.com/yuukit/the-rebuild-of-time-series-database-on-aws)**, [AWS Summit Tokyo 2017](http://www.awssummit.tokyo/), 2017年06月01日, [[動画]](https://www.youtube.com/watch?v=bjdikrBzSmw)
 1. 坪内佑樹, **[高度に発達したシステムの異常は神の怒りと見分けがつかない](https://speakerdeck.com/yuukit/ipsj-one-2017-y-uuki)**, [IPSJ-ONE 2017](http://ipsj-one.org/2017/), 2017年03月18日
