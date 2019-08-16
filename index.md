@@ -186,6 +186,8 @@ Site Reliability Engineering(SRE)の研究者．さくらインターネット�
 
 ## ホットエントリ
 
+[はてなブックマーク数の降順リスト](https://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fblog.yuuk.io%2F&sort=count)
+
 1. id:y_uuki, **[2019年SRE考](https://blog.yuuk.io/entry/2019/thinking-sre)**, 2019年01月
 1. id:y_uuki, **[時系列データベースの論文を書いた](https://blog.yuuk.io/entry/2018/writing-the-tsdb-paper)**, 2018年12月
 1. id:y_uuki, **[RedisサーバのCPU負荷対策パターン](https://blog.yuuk.io/entry/redis-cpu-load)**, 2017年09月
