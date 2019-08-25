@@ -2,7 +2,27 @@
 layout: index
 ---
 
-# 坪内 佑樹 (Yuuki Tsubouchi)
+# ポートフォリオ
+
+- 氏名: 坪内佑樹 (Yuuki TSUBOUCHI)
+- E-mail: <仕事> y-tsubouchi (at) sakura.ad.jp, <個人> yuki.tsubo (at) gmail.com
+- メインブログ: [https://blog.yuuk.io/](https://blog.yuuk.io/archive)
+- メモブログ: [https://memo.yuuk.io/](https://memo.yuuk.io/archive)
+- スライド: <https://speakerdeck.com/yuukit>
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+[3.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+
+[1]: https://twitter.com/yuuk1t
+[2]: https://github.com/yuuki
+[3]: http://www.facebook.com/yuuki724
 
 ## 略歴
 
@@ -37,23 +57,6 @@ Site Reliability Engineering(SRE)の研究者．さくらインターネット�
 - 2012年03月 大阪大学 基礎工学部情報科学科 卒業
 - 2008年04月 大阪大学 基礎工学部情報科学科 入学
 - 2008年03月 京都市立堀川高等学校 自然探究科 卒業
-
-## 連絡先
-
-### SNSなど
-
-- Twitter: [@yuuk1t](https://twitter.com/yuuk1t)
-- はてな: [id:y_uuki](http://profile.hatena.ne.jp/y_uuki/)
-- GitHub: [yuuki](https://github.com/yuuki)
-- Facebook: [yuuki724](https://www.facebook.com/yuuki724)
-- メインブログ: [https://blog.yuuk.io/](https://blog.yuuk.io/archive)
-- メモブログ: [https://memo.yuuk.io/](https://memo.yuuk.io/archive)
-- スライド: <https://speakerdeck.com/yuukit>
-
-### メールアドレス
-
-- 仕事: y-tsubouchi (at) sakura.ad.jp
-- 個人: yuki.tsubo (at) gmail.com
 
 ## 専門分野
 
