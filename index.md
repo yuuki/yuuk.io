@@ -4,11 +4,10 @@ layout: index
 
 # ポートフォリオ
 
-- 氏名: 坪内佑樹 (Yuuki TSUBOUCHI)
+- Name: 坪内佑樹 (Yuuki TSUBOUCHI)
 - E-mail: <仕事> y-tsubouchi (at) sakura.ad.jp, <個人> yuki.tsubo (at) gmail.com
-- メインブログ: [https://blog.yuuk.io/](https://blog.yuuk.io/archive)
-- メモブログ: [https://memo.yuuk.io/](https://memo.yuuk.io/archive)
-- スライド: <https://speakerdeck.com/yuukit>
+- Blog: [https://blog.yuuk.io/](https://blog.yuuk.io/archive), [https://memo.yuuk.io/](https://memo.yuuk.io/archive)
+- Slides: <https://speakerdeck.com/yuukit>
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
@@ -16,9 +15,9 @@ layout: index
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-[3.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[1.1]: http://i.imgur.com/tXSoThF.png
+[2.1]: http://i.imgur.com/0o48UoR.png
+[3.1]: http://i.imgur.com/P3YfQoD.png
 
 [1]: https://twitter.com/yuuk1t
 [2]: https://github.com/yuuki
