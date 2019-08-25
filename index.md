@@ -2,7 +2,7 @@
 layout: index
 ---
 
-# 坪内 佑樹 (TSUBOUCHI Yuuki)
+# 坪内 佑樹 (Yuuki Tsubouchi)
 
 ## 略歴
 
