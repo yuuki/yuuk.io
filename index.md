@@ -9,19 +9,10 @@ layout: index
 - Blog: [https://blog.yuuk.io/](https://blog.yuuk.io/archive), [https://memo.yuuk.io/](https://memo.yuuk.io/archive)
 - Slides: <https://speakerdeck.com/yuukit>
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-[![alt text][3.1]][3]
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png
-[2.1]: http://i.imgur.com/0o48UoR.png
-[3.1]: http://i.imgur.com/P3YfQoD.png
-
-[1]: https://twitter.com/yuuk1t
-[2]: https://github.com/yuuki
-[3]: http://www.facebook.com/yuuki724
+<a class="icon-twitter social-button color" href="http://twitter.com/yuuk1t"></a>
+<a class="icon-github social-button color" href="http://github.com/yuuki"></a>
+<a class="icon-facebook social-button color" href="http://www.facebook.com/yuuki724"></a>
+<a class="icon-linkedin social-button color" href="https://www.linkedin.com/in/yuuk1/"></a>
 
 ## 略歴
 
@@ -224,3 +215,5 @@ Site Reliability Engineering(SRE)の研究者．さくらインターネット�
 <p><small>情報処理学会に投稿された論文の著作権について: 論文の著作権は情報処理学会に帰属します。論文は著作権者である情報処理学会の許可のもとに掲載するものです。ご利用に当たっては「著作権法」ならびに「情報処理学会倫理綱領」に従うことをお願い致します。</small></p>
 <p><small>About the copyright of the paper submitted to the Information Processing Society: The copyright of the paper is retained by the Information Processing Society of Japan (IPSJ). The paper is published on this web site with the agreement of the author (s) and the IPSJ. Please be complied with Copyright Law of Japan and the Code of Ethics of the IPSJ if any users wish to reproduce, make derivative work, distribute or make available to the public any part or whole thereof.</small></p>
 </div>
+
+<link rel="stylesheet" href="/stylesheets/social-circles.min.css">
