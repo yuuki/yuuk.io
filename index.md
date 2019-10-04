@@ -123,6 +123,7 @@ Site Reliability Engineering(SRE)の研究者．さくらインターネット�
 
 ### 国内口頭発表
 
+1. 坪内佑樹, **[Webシステムアーキテクチャの地図を描く構想](https://blog.yuuk.io/entry/2019/map-of-web-systems-architecture)**, [第5回WebSystemArchitecture研究会](https://websystemarchitecture.hatenablog.jp/entry/2019/07/30/172650), 2019年9月29日.
 1. 坪内佑樹, **[分散システム内の関係性に着目したObservabilityツール](https://speakerdeck.com/yuukit/observability-tool-focused-on-relationship-in-distributed-systems)**, [Kyoto.なんか #5](https://kyoto-nanka.connpass.com/event/141982/), 2019年8月24日.
 1. 坪内佑樹, **[SREの組織的実践](https://speakerdeck.com/yuukit/organized-sre)**, [エンジニリング組織の作り方 -マネジメントとSREの観点から考える-](https://sansan.connpass.com/event/125822/), 2019年5月9日
 1. 坪内佑樹, **[エッジコンピューティングに向けた分散キャッシュ技術の調査](https://speakerdeck.com/yuukit/edge-caching-survey)**, [第4回ウェブシステムアーキテクチャ(WSA)研究会](https://websystemarchitecture.hatenablog.jp/entry/2019/02/26/100725), 2019年4月13日
