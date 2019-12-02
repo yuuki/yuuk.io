@@ -91,7 +91,7 @@ Site Reliability Engineering(SRE)の研究者．さくらインターネット�
 
 ### 国内査読付論文
 
-1. <u>坪内 佑樹</u>, 古川 雅大, 松本 亮介, Transtracer: 分散システムにおけるTCP/UDP通信の終端点の監視によるプロセス間依存関係の自動追跡, インターネットと運用技術シンポジウム論文集, 2019, , 2019年12月. (to appear)
+1. <u>坪内 佑樹</u>, 古川 雅大, 松本 亮介, Transtracer: 分散システムにおけるTCP/UDP通信の終端点の監視によるプロセス間依存関係の自動追跡, インターネットと運用技術シンポジウム論文集, 2019, 64-71 (2019-11-28), 2019年12月. (to appear) [[論文](https://yuuk.io/papers/transtracer_iots2019.pdf)] [[発表資料]()]
 1. <u>坪内佑樹</u>, 脇坂朝人, 濱田健, 松木雅幸, 阿部博, 松本亮介, "**[HeteroTSDB: 異種混合キーバリューストアを用いた自動階層化のための時系列データベースアーキテクチャ](http://id.nii.ac.jp/1001/00192569/)**", インターネットと運用技術シンポジウム論文集, 2018, 7-15 (2018-11-29), 2018年12月. [[論文](https://yuuk.io/papers/heterotsdb_iots2018.pdf)] [[発表資料](https://speakerdeck.com/yuukit/heterotsdb-a-time-series-database-architecture-for-automatically-tiering-on-heterogeneous-key-value-stores)]
 
 ### 国内査読無し論文
