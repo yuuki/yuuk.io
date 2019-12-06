@@ -91,7 +91,7 @@ Site Reliability Engineering(SRE)の研究者．さくらインターネット�
 
 ### 国内査読付論文
 
-1. <u>坪内 佑樹</u>, 古川 雅大, 松本 亮介, Transtracer: 分散システムにおけるTCP/UDP通信の終端点の監視によるプロセス間依存関係の自動追跡, インターネットと運用技術シンポジウム論文集, 2019, 64-71 (2019-11-28), 2019年12月. (to appear) [[論文](https://yuuk.io/papers/transtracer_iots2019.pdf)] [[発表資料]()]
+1. <u>坪内佑樹</u>, 古川雅大, 松本亮介, "**[Transtracer: 分散システムにおけるTCP/UDP通信の終端点の監視によるプロセス間依存関係の自動追跡](http://id.nii.ac.jp/1001/00200765/)**", インターネットと運用技術シンポジウム論文集, 2019, 64-71 (2019-11-28), 2019年12月. [[論文](https://yuuk.io/papers/transtracer_iots2019.pdf)] [[発表資料](https://speakerdeck.com/yuukit/udptong-xin-falsezhong-duan-dian-falsejian-shi-niyoruhurosesujian-yi-cun-guan-xi-falsezi-dong-zhui-ji-8bc9ca63-0751-40fd-9ad5-2f1ea692b9b0)]
 1. <u>坪内佑樹</u>, 脇坂朝人, 濱田健, 松木雅幸, 阿部博, 松本亮介, "**[HeteroTSDB: 異種混合キーバリューストアを用いた自動階層化のための時系列データベースアーキテクチャ](http://id.nii.ac.jp/1001/00192569/)**", インターネットと運用技術シンポジウム論文集, 2018, 7-15 (2018-11-29), 2018年12月. [[論文](https://yuuk.io/papers/heterotsdb_iots2018.pdf)] [[発表資料](https://speakerdeck.com/yuukit/heterotsdb-a-time-series-database-architecture-for-automatically-tiering-on-heterogeneous-key-value-stores)]
 
 ### 国内査読無し論文
@@ -184,7 +184,8 @@ Site Reliability Engineering(SRE)の研究者．さくらインターネット�
 
 ### 学会誌・商業誌等解説
 
-1. 坪内佑樹, **[研究員たちが考える、さくらインターネット研究所「これから」の10年](https://ascii.jp/elem/000/001/963/1963013/)**, ASCII.jp, 2019年10月29日.
+1. 坪内佑樹, **[SRE実践の手引 ─ 信頼性をどう制御するか？ から始める、現実的な指標と目標の設計と計測](https://employment.en-japan.com/engineerhub/entry/2019/12/05/103000)**, [エンジニアHub](https://employment.en-japan.com/engineerhub/), 2019年12月4日
+1. 坪内佑樹, **[研究員たちが考える、さくらインターネット研究所「これから」の10年](https://ascii.jp/elem/000/001/963/1963013/)**, ASCII.jp, 2019年10月29日
 1. 坪内佑樹, **[高度に発達したシステムの異常は神の怒りと見分けがつかない　~システム管理者を恐れから解放する監視システムを](https://www.milive-plus.net/gakumon171102/)**, 河合塾みらいぶプラス, 2017年11月
 1. 坪内佑樹, **[ミドルウェアならではの開発者の悩み――スケーラビリティやソフトウェア寿命の問題にどう立ち向かうか](https://codezine.jp/article/detail/10487)**, CodeZine, 2017年10月
 1. 坪内佑樹, **[レンサバの常識を覆す「なめらかなシステム」に挑む──運用技術を学術研究して実際のサービスへ適用](http://hatenanews.com/articles/201701/24117)**, はてなニュース, 2017年01月
