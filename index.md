@@ -64,33 +64,6 @@ Site Reliability Engineering(SRE)の研究者．さくらインターネット�
 1. 情報処理学会インターネットと運用技術シンポジウム2019（IOTS2019）優秀論文賞 <u>坪内佑樹</u>, 古川雅大, 松本亮介, "**[Transtracer: 分散システムにおけるTCP/UDP通信の終端点の監視によるプロセス間依存関係の自動追跡](http://id.nii.ac.jp/1001/00200765/)**", インターネットと運用技術シンポジウム論文集, 2019, 64-71 (2019-11-28), 2019年12月.
 1. 情報処理学会インターネットと運用技術シンポジウム2019（IOTS2019）冠賞: シー・オー・コンヴ賞 同上
 
-### OSS
-
-- [Transtracer](https://github.com/yuuki/transtracer)
-  - [Proof of Concept] A socket-based tracing infrastructure for discovering dependencies of distributed applications
-- [DiamonDB](https://github.com/yuuki/diamondb)
-  - Rebuild of Time Series Database on AWS.
-- [Droot](https://github.com/yuuki/droot)
-  - A super-simple container with chroot without docker.
-- [gokc](https://github.com/yuuki/gokc)
-  - Yet Another Keepalived Syntax Checker in Golang.
-- [lstf](https://github.com/yuuki/lstf)
-  - The Linux netlink-based TCP connection flow printer.
-- [albio](https://github.com/yuuki/albio)
-  - A CLI tool to gracefully manage EC2 instances with ALB/NLB.
-- [grabeni](https://github.com/yuuki/grabeni)
-  - An ops-friendly AWS Elastic Network Interface (ENI) attachment grabbing tool.
-- [mkr](https://github.com/mackerelio/mkr)
-  - Command Line Tool for Mackerel.
-- [mackerel-client-go](https://github.com/mackerelio/mackerel-client-go)
-  - Mackerel API Client in Go.
-- [cookbook-mackerel-agent](https://github.com/mackerelio/cookbook-mackerel-agent)
-  - Chef cookbook for mackerel-agent installation.
-- [ansible-mackerel-agent](https://github.com/mackerelio/ansible-mackerel-agent)
-  - An Ansible role for mackerel-agent.
-- [Coteng](https://metacpan.org/pod/Coteng)
-  - Lightweight Teng O/R Mapper.
-
 ### 国際会議論文
 
 1. <u>Yuuki Tsubouchi</u>, Asato Wakisaka, Ken Hamada, Masayuki Matsuki, Hiroshi Abe, Ryosuke Matsumoto, "**[HeteroTSDB: An Extensible Time Series Database for Automatically Tiering on Heterogeneous Key-Value Stores](https://yuuk.io)**", [Proceedings of The 43rd Annual IEEE International Computers, Software & Applications Conference (COMPSAC)](https://ieeecompsac.computer.org/2019/), July 2019. [[paper](https://yuuk.io/papers/heterotsdb_compsac2019.pdf)] [[slide](https://speakerdeck.com/yuukit/heterotsdb-an-extensible-time-series-database-for-automatically-tiering-on-heterogeneous-key-value-stores)]
@@ -230,6 +203,34 @@ Site Reliability Engineering(SRE)の研究者．さくらインターネット�
 1. 坪内佑樹. **[リモートワークにおけるSlack Call活用と終業15分前の雑談](http://developer.hatenastaff.com/entry/2016/04/28/125529)**, 2016年04月28日
 1. 坪内佑樹, **[インフラエンジニアがGo言語でオペレーションツールを書くことについて](http://developer.hatenastaff.com/entry/golang-for-ops)**, 2016年03月24日
 1. 坪内佑樹. **[はてなにおける日々の仕事の中にあらわれるMackerelの活用](https://mackerel.io/ja/blog/entry/advent-calendar2015/day19)**, 2015年12月19日
+
+### OSS
+
+- [Transtracer](https://github.com/yuuki/transtracer)
+  - [Proof of Concept] A socket-based tracing infrastructure for discovering dependencies of distributed applications
+- [DiamonDB](https://github.com/yuuki/diamondb)
+  - Rebuild of Time Series Database on AWS.
+- [Droot](https://github.com/yuuki/droot)
+  - A super-simple container with chroot without docker.
+- [gokc](https://github.com/yuuki/gokc)
+  - Yet Another Keepalived Syntax Checker in Golang.
+- [lstf](https://github.com/yuuki/lstf)
+  - The Linux netlink-based TCP connection flow printer.
+- [albio](https://github.com/yuuki/albio)
+  - A CLI tool to gracefully manage EC2 instances with ALB/NLB.
+- [grabeni](https://github.com/yuuki/grabeni)
+  - An ops-friendly AWS Elastic Network Interface (ENI) attachment grabbing tool.
+- [mkr](https://github.com/mackerelio/mkr)
+  - Command Line Tool for Mackerel.
+- [mackerel-client-go](https://github.com/mackerelio/mackerel-client-go)
+  - Mackerel API Client in Go.
+- [cookbook-mackerel-agent](https://github.com/mackerelio/cookbook-mackerel-agent)
+  - Chef cookbook for mackerel-agent installation.
+- [ansible-mackerel-agent](https://github.com/mackerelio/ansible-mackerel-agent)
+  - An Ansible role for mackerel-agent.
+- [Coteng](https://metacpan.org/pod/Coteng)
+  - Lightweight Teng O/R Mapper.
+
 
 <hr>
 <div class="copyright">
