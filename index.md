@@ -46,6 +46,12 @@ Site Reliability Engineering(SRE)の研究者．さくらインターネット�
 - 2008年04月 大阪大学 基礎工学部情報科学科 入学
 - 2008年03月 京都市立堀川高等学校 自然探究科 卒業
 
+## 所属学会
+
+- [情報処理学会](http://www.ipsj.or.jp/)
+- [ACM](https://www.acm.org/)
+- [IEEE Computer Society](https://www.computer.org/)
+
 ## 専門分野
 
 - Site Reliability Engineering
