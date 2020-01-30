@@ -2,6 +2,8 @@
 layout: index
 ---
 
+## 氏名・連絡先など
+
 - Name: 坪内佑樹 (Yuuki TSUBOUCHI)
 - E-mail: <仕事> y-tsubouchi (at) sakura.ad.jp, <個人> yuki.tsubo (at) gmail.com
 - Blog: [https://blog.yuuk.io/](https://blog.yuuk.io/archive), [https://memo.yuuk.io/](https://memo.yuuk.io/archive)
