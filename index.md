@@ -8,6 +8,7 @@ layout: index
 - E-mail: <仕事> y-tsubouchi (at) sakura.ad.jp, <個人> yuki.tsubo (at) gmail.com
 - Blog: [https://blog.yuuk.io/](https://blog.yuuk.io/archive), [https://memo.yuuk.io/](https://memo.yuuk.io/archive)
 - Slides: <https://speakerdeck.com/yuukit>
+- Notion: [yuukinput](https://www.notion.so/yuuk1/6ded5a7b3ca249d284416e7c19393504?v=0cb8b31a228348c3a69633c3be023317)
 
 <a class="icon-twitter social-button color" href="http://twitter.com/yuuk1t"></a>
 <a class="icon-github social-button color" href="http://github.com/yuuki"></a>
