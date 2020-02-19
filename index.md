@@ -31,10 +31,10 @@ Site Reliability Engineering(SRE)の研究者．さくらインターネット�
 
 ## 所属
 
-- 2019年05月〜
-  - [さくらインターネット研究所 研究員](https://research.sakura.ad.jp/about/)
-  - [一般社団法人セキュリティ・キャンプ協議会 セキュリティ・キャンプ講師](https://www.security-camp.or.jp/instructor/index.html)
-  - [情報処理学会 インターネットと運用技術研究会 運営委員](https://www.iot.ipsj.or.jp/)
+- [さくらインターネット研究所 研究員](https://research.sakura.ad.jp/about/)
+- [京都大学 大学院情報学研究科 知能情報学専攻 博士後期課程](http://www.ist.i.kyoto-u.ac.jp/) (2020年4月予定)
+- [一般社団法人セキュリティ・キャンプ協議会 セキュリティ・キャンプ講師](https://www.security-camp.or.jp/instructor/index.html)
+- [情報処理学会 インターネットと運用技術研究会 運営委員](https://www.iot.ipsj.or.jp/)
 
 ## 経歴
 
