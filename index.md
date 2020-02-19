@@ -2,6 +2,8 @@
 layout: index
 ---
 
+Click here for English page. <https://yuuk.io/en>
+
 ## 氏名・連絡先など
 
 - Name: 坪内佑樹 (Yuuki TSUBOUCHI)

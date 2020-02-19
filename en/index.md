@@ -3,7 +3,7 @@ layout: en
 title: Yuuki Tsubouchi
 ---
 
-See also Japanase page. <https://yuuk.io>
+Click here for Japanase page. <https://yuuk.io>
 
 ## Name and Contacts
 
