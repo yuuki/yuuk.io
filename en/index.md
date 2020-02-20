@@ -1,5 +1,5 @@
 ---
-layout: en
+layout: index
 title: Yuuki Tsubouchi
 ---
 
