@@ -5,13 +5,10 @@ title: Yuuki Tsubouchi
 
 Click here for Japanase page. <https://yuuk.io>
 
-## Name and Contacts
+## Contacts
 
-- Name: Yuuki TSUBOUCHI
-- E-mail: <main job> y-tsubouchi (at) sakura.ad.jp, <side job> yuki.tsubo (at) gmail.com
-- Blog (ja): [https://blog.yuuk.io/](https://blog.yuuk.io/archive), [https://memo.yuuk.io/](https://memo.yuuk.io/archive)
+- E-mail **main job** y-tsubouchi (at) sakura.ad.jp, **side job** yuki.tsubo (at) gmail.com
 - Slides: <https://speakerdeck.com/yuukit>
-- Notion (ja): [yuukinput](https://www.notion.so/yuuk1/6ded5a7b3ca249d284416e7c19393504?v=0cb8b31a228348c3a69633c3be023317)
 
 <a class="icon-twitter social-button color" href="http://twitter.com/yuuk1t"></a>
 <a class="icon-github social-button color" href="http://github.com/yuuki"></a>
@@ -27,35 +24,6 @@ He is a Site Reliability Engineering(SRE) Researcher and works at SAKURA interne
 - [SAKURA internet Research Center: Researcher](https://research.sakura.ad.jp/about/)
 - [Department of Inteligence Science and Technology, Graducate School of Informatics, Kyoto University: Doctor if Intomatics (Candidate)](http://www.ist.i.kyoto-u.ac.jp/english/index.html) (to appear)
 - [IPSJ SIG Internet and Operation Technology: Steering committee](https://www.iot.ipsj.or.jp/)
-
-## Job Experiences
-
-### Researcher at SAKURA internet Inc., Feb 2019 - Oresent
-
-- Researching cloud monitoring and data-intensive applications.
-
-### Site Reliability Engineer at Hatena Co., Ltd, Dec 2013 - Dec 2018
-
-- A Senior Engineer.
-- Developing and operating system platform and Mackerel, a server monitoring service.
-- Developing a time series database.
-
-### Internship
-
-- Hatena Co., Ltd., Summer, 2011.
-  - Theme: Application development for Hatena Bookmark
-
-## Education
-
-- Doctor of Informatics (Candidate), April 2020 – Present.
-  - Department of Inteligence Science and Technology, Graducate School of Informatics, Kyoto University, Japan
-  - Major: Network Media
-- Master of Information Science (Dropout), April 2012 - October 2013.
-  - Department of Information Networking, Graduate School of Information Science and Technology, Osaka University, Japan
-  - Major: Ubiquitous Network
-- Bachelor of Engineering, April 2008 - March 2012.
-  - Department of Information and Computer Sciences, School of Engineering Science, Osaka University, Japan
-  - Major: Computer Science
 
 ## Affiliated Academic Society
 
@@ -106,3 +74,27 @@ He is a Site Reliability Engineering(SRE) Researcher and works at SAKURA interne
   - An Ansible role for mackerel-agent.
 - [Coteng](https://metacpan.org/pod/Coteng)
   - Lightweight Teng O/R Mapper.
+
+## Job Experiences
+
+- Researcher at SAKURA internet Inc., Feb 2019 - Oresent
+  - Researching cloud monitoring and data-intensive applications.
+- Site Reliability Engineer at Hatena Co., Ltd, Dec 2013 - Dec 2018
+  - A senior engineer.
+  - Developing and operating a systems platform and Mackerel, a server monitoring service.
+  - Developing a time series database.
+
+- Internship at Hatena Co., Ltd., Summer, 2011.
+  - Application development for Hatena Bookmark
+
+## Education
+
+- Doctor of Informatics (Candidate), April 2020 – Present.
+  - Department of Inteligence Science and Technology, Graducate School of Informatics, Kyoto University, Japan
+  - Major: Network Media
+- Master of Information Science (Dropout), April 2012 - October 2013.
+  - Department of Information Networking, Graduate School of Information Science and Technology, Osaka University, Japan
+  - Major: Ubiquitous Network
+- Bachelor of Engineering, April 2008 - March 2012.
+  - Department of Information and Computer Sciences, School of Engineering Science, Osaka University, Japan
+  - Major: Computer Science
