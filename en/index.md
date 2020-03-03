@@ -17,7 +17,7 @@ Click here for Japanase page. <https://yuuk.io>
 
 ## Biography
 
-He is a Site Reliability Engineering(SRE) Researcher and works at SAKURA internet Research Center.
+He is a Site Reliability Engineering(SRE) Researcher working at SAKURA internet Research Center.
 
 ## Affilications
 
@@ -25,21 +25,21 @@ He is a Site Reliability Engineering(SRE) Researcher and works at SAKURA interne
 - [Department of Inteligence Science and Technology, Graducate School of Informatics, Kyoto University: Doctor if Intomatics (Candidate)](http://www.ist.i.kyoto-u.ac.jp/english/index.html) (to appear)
 - [IPSJ SIG Internet and Operation Technology: Steering committee](https://www.iot.ipsj.or.jp/)
 
-## Affiliated Academic Society
+## Academic Societies
 
 - [IPSJ](http://www.ipsj.or.jp/)
 - [ACM](https://www.acm.org/)
 - [IEEE Computer Society](https://www.computer.org/)
 
-## Specialty
+## Specialties
 
 - Site Reliability Engineering
 - Data-Intensive Applications
 
-## Research Theme
+## Current Research Themes
 
 - Time series database for systems monitoring
-- Tracing network services depdencies in distributed systems
+- Tracing network services depdendencies in distributed systems
 - Distributed and coordinated proxy for query result caching
 
 ## Publications

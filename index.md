@@ -61,14 +61,14 @@ Site Reliability Engineering(SRE)の研究者．さくらインターネット�
 
 ## 専門分野
 
-- Site Reliability Engineering
-- Data-Intensive Applications
+- サイト信頼性工学 (Site Reliability Engineering)
+- データ指向アプリケーション設計
 
-## 研究テーマ
+## 現在の研究テーマ
 
-- Time series database for systems monitoring
-- Tracing network services depdencies in distributed systems
-- Distributed and coordinated proxy for query result caching
+- システムモニタリング向け時系列データベース
+- 分散アプリケーション内のネットワーク依存関係の追跡
+- データベースの分散協調クエリリザルトキャッシュシステム
 
 ## 研究開発成果
 
@@ -83,7 +83,7 @@ Site Reliability Engineering(SRE)の研究者．さくらインターネット�
 
 ### 国内会議録（査読付き）
 
-1. <u>坪内佑樹</u>, 古川雅大, 松本亮介, "**[Transtracer: 分散システムにおけるTCP/UDP通信の終端点の監視によるプロセス間依存関係の自動追跡](http://id.nii.ac.jp/1001/00200765/)**", [インターネットと運用技術シンポジウム論文集, 2019, 64-71 (2019-11-28)](https://www.iot.ipsj.or.jp/symposium/2019-program/), 2019年12月. [[論文](https://yuuk.io/papers/transtracer_iots2019.pdf)] [[発表資料](https://speakerdeck.com/yuukit/udptong-xin-falsezhong-duan-dian-falsejian-shi-niyoruhurosesujian-yi-cun-guan-xi-falsezi-dong-zhui-ji-8bc9ca63-0751-40fd-9ad5-2f1ea692b9b0)]
+1. <u>坪内佑樹</u>, 古川雅大, 松本亮介, "**[Transtracer: 分散システムにおけるTCP/UDP通信の終端点の監視によるプロセス間依存関係の自動追跡](http://id.nii.ac.jp/1001/00200765/)**", [インターネットと運用技術シンポジウム論文集, 2019, 64-71 (2019-11-28)](https://www.iot.ipsj.or.jp/symposium/iots2019-program/), 2019年12月. [[論文](https://yuuk.io/papers/transtracer_iots2019.pdf)] [[発表資料](https://speakerdeck.com/yuukit/udptong-xin-falsezhong-duan-dian-falsejian-shi-niyoruhurosesujian-yi-cun-guan-xi-falsezi-dong-zhui-ji-8bc9ca63-0751-40fd-9ad5-2f1ea692b9b0)]
 1. <u>坪内佑樹</u>, 脇坂朝人, 濱田健, 松木雅幸, 阿部博, 松本亮介, "**[HeteroTSDB: 異種混合キーバリューストアを用いた自動階層化のための時系列データベースアーキテクチャ](http://id.nii.ac.jp/1001/00192569/)**", [インターネットと運用技術シンポジウム論文集, 2018, 7-15 (2018-11-29)](https://www.iot.ipsj.or.jp/symposium/2018-program/), 2018年12月. [[論文](https://yuuk.io/papers/heterotsdb_iots2018.pdf)] [[発表資料](https://speakerdeck.com/yuukit/heterotsdb-a-time-series-database-architecture-for-automatically-tiering-on-heterogeneous-key-value-stores)]
 
 ### 国内会議録（査読なし）
