@@ -19,7 +19,7 @@ Click here for Japanase page. <https://yuuk.io>
 
 He is a Site Reliability Engineering(SRE) Researcher working at SAKURA internet Research Center.
 
-## Affilications
+## Affiliations
 
 - [SAKURA internet Research Center: Researcher](https://research.sakura.ad.jp/about/)
 - [Department of Inteligence Science and Technology, Graducate School of Informatics, Kyoto University: Doctor if Intomatics (Candidate)](http://www.ist.i.kyoto-u.ac.jp/english/index.html) (to appear)
