@@ -1,16 +1,9 @@
 ---
 layout: index
+title: 坪内 佑樹 (Yuuki TSUBOUCHI)
 ---
 
 Click here for English page. <https://yuuk.io/en>
-
-## 氏名・連絡先など
-
-- Name: 坪内佑樹 (Yuuki TSUBOUCHI)
-- E-mail: <仕事> y-tsubouchi (at) sakura.ad.jp, <個人> yuki.tsubo (at) gmail.com
-- Blog: [https://blog.yuuk.io/](https://blog.yuuk.io/archive), [https://memo.yuuk.io/](https://memo.yuuk.io/archive)
-- Slides: <https://speakerdeck.com/yuukit>
-- Notion: [yuukinput](https://www.notion.so/yuuk1/6ded5a7b3ca249d284416e7c19393504?v=0cb8b31a228348c3a69633c3be023317)
 
 <a class="icon-twitter social-button color" href="http://twitter.com/yuuk1t"></a>
 <a class="icon-github social-button color" href="http://github.com/yuuki"></a>
@@ -19,17 +12,25 @@ Click here for English page. <https://yuuk.io/en>
 
 ## 略歴
 
-Site Reliability Engineering(SRE)の研究者．さくらインターネット研究所研究員，セキュリティ・キャンプ講師，情報処理学会インターネットと運用技術(IOT)研究会運営委員．
+Site Reliability Engineering(SRE)の研究者．さくらインターネット研究所研究員，京都大学大学院情報学研究科の博士課程，セキュリティ・キャンプ全国大会講師，情報処理学会インターネットと運用技術(IOT)研究会運営委員．
 
-2011年にはてなサマーインターンに参加し，Webサービス開発の世界に入り，その後大学院を中途退学し，2013年に株式会社はてなにWebオペレーションエンジニアとして入社．Webサービスのインフラプラットフォーム開発と運用，サーバー監視サービスの構築と運用，時系列データベースの開発などに取り組む一方で，シニアエンジニアとしてSite Reliability Engineeringの観点で持続的な開発が可能なエンジニアリング組織の運営に携わる．
+2011年にはてなサマーインターンに参加し，Webサービス開発の世界に入り，その後情報系の大学院修士課程を中途退学し，2013年に株式会社はてなにWebオペレーションエンジニアとして入社．Webサービスのインフラプラットフォーム開発と運用，サーバー監視サービスの構築と運用，時系列データベースの開発などに取り組む一方で，シニアエンジニアとしてSite Reliability Engineeringの観点で持続的な開発が可能なエンジニアリング組織の運営に携わる．
 
 2019年2月より，技術者から研究者へ転向し，現職のさくらインターネット研究所で研究員を務める．Site Reliability Engineering，Data-Intensive Applicationsを専門とし，実環境に組み込むことを目指した新しく有用な技術の研究開発に取り組む．
+2020年4月より，修士課程をとばし，京都大学大学院情報学研究科の博士課程へ社会人博士として進学．
 
-2017年に情報処理学会IPSJ-ONEにおいて，情報科学分野で活躍する若手研究者として選出される．
+SRE NEXT 2020, CloudNative Days KANSAI 2020などの登壇多数．2017年に情報処理学会IPSJ-ONEにおいて，情報科学分野で活躍する若手研究者として選出される．
 
-## 略歴 (ショート)
+## 略歴 (短縮版)
 
-Site Reliability Engineering(SRE)の研究者．さくらインターネット研究所研究員．2019年さくらインターネット入社．SRE，Data-Intensive Applicationsに関する研究開発を担当． 2013年12月より株式会社はてなのWebオペレーションエンジニアおよびSREとして従事しつつ，業務の傍らで論文執筆．2019年2月より現職．技術者としては，YAPC::Asia 2013/2015，AWS Summit 2017などの登壇多数，学術研究の場では，情報処理学会IPSJ-ONE 2017にて情報科学分野で活躍する若手研究者として選出される．
+Site Reliability Engineering(SRE)の研究者．2019年よりさくらインターネット研究所研究員．2020年より京都大学大学院情報学研究科の博士課程へ進学．2013年より5年間，株式会社はてなのSREとして従事．技術者としては，SRE NEXT 2020，CloudNative Days KANSAI 2020などの講演多数，学術研究の場では，情報処理学会IPSJ-ONE 2017にて情報科学分野で活躍する若手研究者として選出される．
+
+## 連絡先など
+
+- E-mail: **仕事** y-tsubouchi (at) sakura.ad.jp, **副業・個人** yuki.tsubo (at) gmail.com
+- Blog: [https://blog.yuuk.io/](https://blog.yuuk.io/archive), [https://memo.yuuk.io/](https://memo.yuuk.io/archive)
+- Slides: <https://speakerdeck.com/yuukit>
+- Notion: [yuukinput](https://www.notion.so/yuuk1/6ded5a7b3ca249d284416e7c19393504?v=0cb8b31a228348c3a69633c3be023317)
 
 ## 所属
 
