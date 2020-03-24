@@ -22,7 +22,7 @@ He is a Site Reliability Engineering(SRE) Researcher working at SAKURA internet 
 ## Affiliations
 
 - [SAKURA internet Research Center: Researcher](https://research.sakura.ad.jp/about/)
-- [Department of Inteligence Science and Technology, Graducate School of Informatics, Kyoto University: Doctor if Intomatics (Candidate)](http://www.ist.i.kyoto-u.ac.jp/english/index.html) (to appear)
+- [Department of Inteligence Science and Technology, Graducate School of Informatics, Kyoto University: Doctor of Informatics (Candidate)](http://www.ist.i.kyoto-u.ac.jp/english/index.html) (to appear)
 - [IPSJ SIG Internet and Operation Technology: Steering committee](https://www.iot.ipsj.or.jp/)
 
 ## Academic Societies
@@ -77,7 +77,7 @@ He is a Site Reliability Engineering(SRE) Researcher working at SAKURA internet 
 
 ## Job Experiences
 
-- Researcher at SAKURA internet Inc., Feb 2019 - Oresent
+- Researcher at SAKURA internet Inc., Feb 2019 - Present
   - Researching cloud monitoring and data-intensive applications.
 - Site Reliability Engineer at Hatena Co., Ltd, Dec 2013 - Dec 2018
   - A senior engineer.
