@@ -27,10 +27,13 @@ Site Reliability Engineering(SRE)の研究者．2019年よりさくらインタ�
 
 ## 連絡先など
 
-- E-mail: **仕事** y-tsubouchi (at) sakura.ad.jp, **副業・個人** yuki.tsubo (at) gmail.com
-- Blog: [https://blog.yuuk.io/](https://blog.yuuk.io/archive), [https://memo.yuuk.io/](https://memo.yuuk.io/archive)
-- Slides: <https://speakerdeck.com/yuukit>
-- Notion: [yuukinput](https://www.notion.so/yuuk1/6ded5a7b3ca249d284416e7c19393504?v=0cb8b31a228348c3a69633c3be023317)
+- E-mail
+  - **仕事** y-tsubouchi (at) sakura.ad.jp
+  - **大学** y-tsubouchi (at) net.ist.i.kyoto-u.ac.jp
+  - **副業・個人** yuki.tsubo (at) gmail.com
+- ブログ: [https://blog.yuuk.io/](https://blog.yuuk.io/archive), [https://memo.yuuk.io/](https://memo.yuuk.io/archive)
+- 口頭発表スライド: <https://speakerdeck.com/yuukit>
+- インプットメモ: [yuukinput](https://www.notion.so/yuuk1/6ded5a7b3ca249d284416e7c19393504?v=0cb8b31a228348c3a69633c3be023317)
 
 ## 所属
 
