@@ -183,6 +183,7 @@ Site Reliability Engineering(SRE)の研究者．2019年よりさくらインタ�
 
 ### 学会誌・商業誌等解説
 
+1. 坪内佑樹, **[ITエンジニアから研究者へ。社会人博士として大学院にも再挑戦し、自分の「代表的プロダクト」を追求するわけ](https://engineer-lab.findy-code.io/sre-to-researcher)**, Findy Engineer Lab, 2020年5月.
 1. 坪内佑樹, **[SRE実践の手引 ─ 信頼性をどう制御するか？ から始める、現実的な指標と目標の設計と計測](https://employment.en-japan.com/engineerhub/entry/2019/12/05/103000)**, [エンジニアHub](https://employment.en-japan.com/engineerhub/), 2019年12月4日
 1. 松本亮介, 坪内佑樹, 宮下剛輔, 青山真也, **[研究員たちが考える、さくらインターネット研究所「これから」の10年](https://ascii.jp/elem/000/001/963/1963013/)**, ASCII.jp, 2019年10月29日
 1. 坪内佑樹, **[高度に発達したシステムの異常は神の怒りと見分けがつかない　~システム管理者を恐れから解放する監視システムを](https://www.milive-plus.net/gakumon171102/)**, 河合塾みらいぶプラス, 2017年11月
