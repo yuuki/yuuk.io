@@ -39,7 +39,6 @@ Site Reliability Engineering(SRE)の研究者．2019年よりさくらインタ�
 
 - [さくらインターネット研究所 研究員](https://research.sakura.ad.jp/about/)
 - [京都大学 大学院情報学研究科 知能情報学専攻 メディア応用講座 岡部研究室](http://www.net.ist.i.kyoto-u.ac.jp/ja/) 博士後期課程 (2020年4月予定)
-- [一般社団法人セキュリティ・キャンプ協議会 セキュリティ・キャンプ講師](https://www.security-camp.or.jp/instructor/index.html)
 - [情報処理学会 インターネットと運用技術研究会 運営委員](https://www.iot.ipsj.or.jp/)
 
 ## 経歴
@@ -93,6 +92,7 @@ Site Reliability Engineering(SRE)の研究者．2019年よりさくらインタ�
 
 ### 国内会議録（査読なし）
 
+1. 松本亮介, <u>坪内佑樹</u>, [クライアントプロセスの権限情報に基づくTCPを介した透過的な権限分離方式の設計](http://id.nii.ac.jp/1001/00204468/), 情報処理学会研究報告インターネットと運用技術（IOT）, Vol.2020-IOT-49, No.11, pp.1-6, 2020年5月.
 1. 林友佳, 伊勢田蓮, 松原克弥, 鷲北賢, <u>坪内佑樹</u>, 松本亮介, "**[動的適応性を持つ分散システムを対象としたシステム状態可視化手法の検討](http://id.nii.ac.jp/1001/00203418/)**", 情報処理学会研究報告インターネットと運用技術（IOT）, No.2020-IOT-48, Vol.22, pp.1-8, 2020年3月.
 1. <u>坪内佑樹</u>, 古川雅大, 松本亮介, "**超個体型データセンターを目指したネットワークサービス間依存関係の自動追跡の構想**", マルチメディア、分散、協調とモバイル（DICOMO2019）シンポジウム, 6A-2, pp. 1169-1174, Jul 2019. [[論文](https://yuuk.io/papers/transtracer_dicomo2019.pdf)][[発表資料](https://speakerdeck.com/yuukit/a-concept-of-superorganism-tracing)]
 1. <u>坪内佑樹</u>, 松本亮介, "**[超個体型データセンターにおける分散協調クエリキャッシュ構想](http://id.nii.ac.jp/1001/00195697/)**", 情報処理学会研究報告インターネットと運用技術（IOT）, No.2019-IOT-45, Vol.14, pp.1-7, 2019年5月. [[論文]](https://yuuk.io/papers/concept-of-quorumcache_iot45.pdf) [[発表資料](https://speakerdeck.com/yuukit/quorumcache-architecture)]
