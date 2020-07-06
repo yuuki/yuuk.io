@@ -33,6 +33,7 @@ Site Reliability Engineering(SRE)の研究者．2019年よりさくらインタ�
   - **副業・個人** yuki.tsubo (at) gmail.com
 - ブログ: [https://blog.yuuk.io/](https://blog.yuuk.io/archive), [https://memo.yuuk.io/](https://memo.yuuk.io/archive)
 - 口頭発表スライド: <https://speakerdeck.com/yuukit>
+- 研究日誌: [yuuki/logbook](https://www.notion.so/yuuk1/b6351f431db641e5b2cc341ea6371563?v=682b4c7434e648368846b78c288d24ff)
 - インプットメモ: [yuukinput](https://www.notion.so/yuuk1/6ded5a7b3ca249d284416e7c19393504?v=0cb8b31a228348c3a69633c3be023317)
 
 ## 所属
