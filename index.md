@@ -83,7 +83,7 @@ Site Reliability Engineering(SRE)の研究者．2019年よりさくらインタ�
 
 ### 国際会議録（査読付き）
 
-1. <u>Yuuki Tsubouchi</u>, Masahiro Furukawa, Ryosuke Matsumoto, "**[Transtracer: Socket-Based Tracing of Network Dependencies among Processes in Distributed Applications]()**", [The 1st IEEE International COMPSAC Workshop on Advanced IoT Computing (AIOT 2020)](https://ieeecompsac.computer.org/2020/aiot/), July 2020. (to appear)
+1. <u>Yuuki Tsubouchi</u>, Masahiro Furukawa, Ryosuke Matsumoto, "**[Transtracer: Socket-Based Tracing of Network Dependencies among Processes in Distributed Applications]()**", [The 1st IEEE International COMPSAC Workshop on Advanced IoT Computing (AIOT 2020)](https://ieeecompsac.computer.org/2020/aiot/), July 2020. [[paper](https://yuuk.io/papers/transtracer_compsac2020.pdf)]
 1. <u>Yuuki Tsubouchi</u>, Asato Wakisaka, Ken Hamada, Masayuki Matsuki, Hiroshi Abe, Ryosuke Matsumoto, "**[HeteroTSDB: An Extensible Time Series Database for Automatically Tiering on Heterogeneous Key-Value Stores](https://ieeexplore.ieee.org/abstract/document/8754289)**", [The 43rd Annual IEEE International Computers, Software & Applications Conference (COMPSAC)](https://ieeecompsac.computer.org/2019/), pp. 264-269, July 2019. [[paper](https://yuuk.io/papers/heterotsdb_compsac2019.pdf)] [[slide](https://speakerdeck.com/yuukit/heterotsdb-an-extensible-time-series-database-for-automatically-tiering-on-heterogeneous-key-value-stores)]
 
 ### 国内会議録（査読付き）
