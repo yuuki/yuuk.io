@@ -78,7 +78,7 @@ Site Reliability Engineering(SRE)の研究者．2019年よりさくらインタ�
 
 ### 受賞
 
-1. [2020年度 情報処理学会 山下記念研究賞](https://www.ipsj.or.jp/award/yamasita2020-detail.html#iot)，坪内佑樹, Transtracer: 分散システムにおけるTCP/UDP通信の終端点の監視によるプロセス間依存関係の自動追跡, 2020年．
+1. [2020年度 情報処理学会 山下記念研究賞](https://www.ipsj.or.jp/award/yamasita2020-detail.html#iot)，坪内佑樹, Transtracer: 分散システムにおけるTCP/UDP通信の終端点の監視によるプロセス間依存関係の自動追跡, 2020年.
 1. [情報処理学会インターネットと運用技術シンポジウム2019（IOTS2019）優秀論文賞](https://www.iot.ipsj.or.jp/awards/symposium/) <u>坪内佑樹</u>, 古川雅大, 松本亮介, **[Transtracer: 分散システムにおけるTCP/UDP通信の終端点の監視によるプロセス間依存関係の自動追跡](http://id.nii.ac.jp/1001/00200765/)**, インターネットと運用技術シンポジウム論文集, 2019, 64-71 (2019-11-28), 2019年12月.
 1. [情報処理学会インターネットと運用技術シンポジウム2019（IOTS2019）冠賞: シー・オー・コンヴ賞](https://www.iot.ipsj.or.jp/awards/symposium/) <u>坪内佑樹</u>, 古川雅大, 松本亮介, **[Transtracer: 分散システムにおけるTCP/UDP通信の終端点の監視によるプロセス間依存関係の自動追跡](http://id.nii.ac.jp/1001/00200765/)**, インターネットと運用技術シンポジウム論文集, 2019, 64-71 (2019-11-28), 2019年12月.
 
@@ -95,7 +95,7 @@ Site Reliability Engineering(SRE)の研究者．2019年よりさくらインタ�
 
 ### 国内会議録（査読なし）
 
-1. 松本亮介, <u>坪内佑樹</u>, [クライアントプロセスの権限情報に基づくTCPを介した透過的な権限分離方式の設計](http://id.nii.ac.jp/1001/00204468/), 情報処理学会研究報告インターネットと運用技術（IOT）, No.2020-IOT-49, Vol.11, pp.1-6, 2020年5月.
+1. 松本亮介, <u>坪内佑樹</u>, **[クライアントプロセスの権限情報に基づくTCPを介した透過的な権限分離方式の設計](http://id.nii.ac.jp/1001/00204468/)**, 情報処理学会研究報告インターネットと運用技術（IOT）, No.2020-IOT-49, Vol.11, pp.1-6, 2020年5月.
 1. 林友佳, 伊勢田蓮, 松原克弥, 鷲北賢, <u>坪内佑樹</u>, 松本亮介, **[動的適応性を持つ分散システムを対象としたシステム状態可視化手法の検討](http://id.nii.ac.jp/1001/00203418/)**, 情報処理学会研究報告インターネットと運用技術（IOT）, No.2020-IOT-48, Vol.22, pp.1-8, 2020年3月.
 1. <u>坪内佑樹</u>, 古川雅大, 松本亮介, **超個体型データセンターを目指したネットワークサービス間依存関係の自動追跡の構想**, マルチメディア、分散、協調とモバイル（DICOMO2019）シンポジウム, 6A-2, pp. 1169-1174, Jul 2019. [[論文](https://yuuk.io/papers/transtracer_dicomo2019.pdf)][[発表資料](https://speakerdeck.com/yuukit/a-concept-of-superorganism-tracing)]
 1. <u>坪内佑樹</u>, 松本亮介, **[超個体型データセンターにおける分散協調クエリキャッシュ構想](http://id.nii.ac.jp/1001/00195697/)**, 情報処理学会研究報告インターネットと運用技術（IOT）, No.2019-IOT-45, Vol.14, pp.1-7, 2019年5月. [[論文]](https://yuuk.io/papers/concept-of-quorumcache_iot45.pdf) [[発表資料](https://speakerdeck.com/yuukit/quorumcache-architecture)]
@@ -129,6 +129,7 @@ Site Reliability Engineering(SRE)の研究者．2019年よりさくらインタ�
 
 ### 国内口頭発表
 
+1. 坪内佑樹,鶴田博文,古川雅大 **[マイクロサービスにおける性能異常の迅速な診断に向いた時系列データの次元削減手法](https://speakerdeck.com/yuukit/dimention-reduction-of-time-series-data-in-microservices)**, [第7回WebSystemArchitecture研究会](https://wsa.connpass.com/event/187128), 2020年11月14日.
 1. 坪内佑樹, **[分散アプリケーションの異常の因果関係を即時に推論するための手法の構想](https://speakerdeck.com/yuukit/on-time-causal-tracing-for-system-failures)**, [第6回WebSystemArchitecture研究会](https://websystemarchitecture.hatenablog.jp/entry/2019/12/11/165624), 2020年4月26日.
 1. 坪内佑樹, **[Webシステムアーキテクチャの地図を描く構想](https://blog.yuuk.io/entry/2019/map-of-web-systems-architecture)**, [第5回WebSystemArchitecture研究会](https://websystemarchitecture.hatenablog.jp/entry/2019/07/30/172650), 2019年9月29日.
 1. 坪内佑樹, **[分散システム内の関係性に着目したObservabilityツール](https://speakerdeck.com/yuukit/observability-tool-focused-on-relationship-in-distributed-systems)**, [Kyoto.なんか #5](https://kyoto-nanka.connpass.com/event/141982/), 2019年8月24日.
