@@ -82,6 +82,10 @@ Site Reliability Engineering(SRE)の研究者．2019年よりさくらインタ�
 1. [情報処理学会インターネットと運用技術シンポジウム2019（IOTS2019）優秀論文賞](https://www.iot.ipsj.or.jp/awards/symposium/) <u>坪内佑樹</u>, 古川雅大, 松本亮介, **[Transtracer: 分散システムにおけるTCP/UDP通信の終端点の監視によるプロセス間依存関係の自動追跡](http://id.nii.ac.jp/1001/00200765/)**, インターネットと運用技術シンポジウム論文集, 2019, 64-71 (2019-11-28), 2019年12月.
 1. [情報処理学会インターネットと運用技術シンポジウム2019（IOTS2019）冠賞: シー・オー・コンヴ賞](https://www.iot.ipsj.or.jp/awards/symposium/) <u>坪内佑樹</u>, 古川雅大, 松本亮介, **[Transtracer: 分散システムにおけるTCP/UDP通信の終端点の監視によるプロセス間依存関係の自動追跡](http://id.nii.ac.jp/1001/00200765/)**, インターネットと運用技術シンポジウム論文集, 2019, 64-71 (2019-11-28), 2019年12月.
 
+### 論文誌論文
+
+1. <u>坪内佑樹</u>, 脇坂朝人, 濱田健, 松木雅幸, 小林隆浩, 阿部博, 松本亮介, **[HeteroTSDB: 異種分散KVS間の自動階層化による 高性能な時系列データベース]()**, 情報処理学会論文誌, Vol.62, No.3, 2021年3月. [[論文]()] (to appear)
+
 ### 国際会議録（査読付き）
 
 1. <u>Yuuki Tsubouchi</u>, Masahiro Furukawa, Ryosuke Matsumoto, **[Transtracer: Socket-Based Tracing of Network Dependencies among Processes in Distributed Applications]()**, [The 1st IEEE International COMPSAC Workshop on Advanced IoT Computing (AIOT 2020)](https://ieeecompsac.computer.org/2020/aiot/), July 2020. [[paper](https://yuuk.io/papers/transtracer_compsac2020.pdf)] [no presentation]
