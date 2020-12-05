@@ -72,6 +72,8 @@ Site Reliability Engineering(SRE)の研究者．2019年よりさくらインタ�
 
 ### 受賞
 
+1. [情報処理学会インターネットと運用技術シンポジウム2020（IOTS2020）優秀論文賞](https://www.iot.ipsj.or.jp/awards/symposium/) <u>坪内佑樹</u>, 鶴田博文, 古川雅大, **[TSifter: マイクロサービスにおける性能異常の迅速な診断に向いた時系列データの次元削減手法](http://id.nii.ac.jp/1001/00192569/)**, インターネットと運用技術シンポジウム論文集, 2020, 9-16 (2020-11-26), 2020年12月.
+1. [情報処理学会インターネットと運用技術シンポジウム2020（IOTS2020）優秀プレゼンテーション賞](https://www.iot.ipsj.or.jp/awards/symposium/) <u>坪内佑樹</u>, **[TSifter: マイクロサービスにおける性能異常の迅速な診断に向いた時系列データの次元削減手法](http://id.nii.ac.jp/1001/00192569/)**, 2020年12月.
 1. [2020年度 情報処理学会 山下記念研究賞](https://www.ipsj.or.jp/award/yamasita2020-detail.html#iot)，坪内佑樹, Transtracer: 分散システムにおけるTCP/UDP通信の終端点の監視によるプロセス間依存関係の自動追跡, 2020年.
 1. [情報処理学会インターネットと運用技術シンポジウム2019（IOTS2019）優秀論文賞](https://www.iot.ipsj.or.jp/awards/symposium/) <u>坪内佑樹</u>, 古川雅大, 松本亮介, **[Transtracer: 分散システムにおけるTCP/UDP通信の終端点の監視によるプロセス間依存関係の自動追跡](http://id.nii.ac.jp/1001/00200765/)**, インターネットと運用技術シンポジウム論文集, 2019, 64-71 (2019-11-28), 2019年12月.
 1. [情報処理学会インターネットと運用技術シンポジウム2019（IOTS2019）冠賞: シー・オー・コンヴ賞](https://www.iot.ipsj.or.jp/awards/symposium/) <u>坪内佑樹</u>, 古川雅大, 松本亮介, **[Transtracer: 分散システムにおけるTCP/UDP通信の終端点の監視によるプロセス間依存関係の自動追跡](http://id.nii.ac.jp/1001/00200765/)**, インターネットと運用技術シンポジウム論文集, 2019, 64-71 (2019-11-28), 2019年12月.
@@ -87,7 +89,7 @@ Site Reliability Engineering(SRE)の研究者．2019年よりさくらインタ�
 
 ### 国内会議録（査読付き）
 
-1. <u>坪内佑樹</u>, 鶴田博文, 古川雅大, **[TSifter: マイクロサービスにおける性能異常の迅速な診断に向いた時系列データの次元削減手法](http://id.nii.ac.jp/1001/00208106/)**, [インターネットと運用技術シンポジウム論文集, 2020](https://www.iot.ipsj.or.jp/symposium/iots2020-program/), 2020年12月. [[論文]](https://yuuk.io/papers/tsifter_iots2020.pdf) [[発表資料]](https://speakerdeck.com/yuukit/tsifter-in-proceedings-of-iots2020)
+1. <u>坪内佑樹</u>, 鶴田博文, 古川雅大, **[TSifter: マイクロサービスにおける性能異常の迅速な診断に向いた時系列データの次元削減手法](http://id.nii.ac.jp/1001/00208106/)**, [インターネットと運用技術シンポジウム論文集, 2020, 9-16 (2020-11-26)](https://www.iot.ipsj.or.jp/symposium/iots2020-program/), 2020年12月. [[論文]](https://yuuk.io/papers/tsifter_iots2020.pdf) [[発表資料]](https://speakerdeck.com/yuukit/tsifter-in-proceedings-of-iots2020)
 1. <u>坪内佑樹</u>, 古川雅大, 松本亮介, **[Transtracer: 分散システムにおけるTCP/UDP通信の終端点の監視によるプロセス間依存関係の自動追跡](http://id.nii.ac.jp/1001/00200765/)**, [インターネットと運用技術シンポジウム論文集, 2019, 64-71 (2019-11-28)](https://www.iot.ipsj.or.jp/symposium/iots2019-program/), 2019年12月. [[論文](https://yuuk.io/papers/transtracer_iots2019.pdf)] [[発表資料](https://speakerdeck.com/yuukit/udptong-xin-falsezhong-duan-dian-falsejian-shi-niyoruhurosesujian-yi-cun-guan-xi-falsezi-dong-zhui-ji-8bc9ca63-0751-40fd-9ad5-2f1ea692b9b0)]
 1. <u>坪内佑樹</u>, 脇坂朝人, 濱田健, 松木雅幸, 阿部博, 松本亮介, **[HeteroTSDB: 異種混合キーバリューストアを用いた自動階層化のための時系列データベースアーキテクチャ](http://id.nii.ac.jp/1001/00192569/)**, [インターネットと運用技術シンポジウム論文集, 2018, 7-15 (2018-11-29)](https://www.iot.ipsj.or.jp/symposium/2018-program/), 2018年12月. [[論文](https://yuuk.io/papers/heterotsdb_iots2018.pdf)] [[発表資料](https://speakerdeck.com/yuukit/heterotsdb-a-time-series-database-architecture-for-automatically-tiering-on-heterogeneous-key-value-stores)]
 
