@@ -231,8 +231,8 @@ Site Reliability Engineering(SRE)の研究者．2019年よりさくらインタ�
 
 ### OSS
 
-- [Transtracer](https://github.com/yuuki/transtracer)
-  - [Proof of Concept] A socket-based tracing infrastructure for discovering dependencies of distributed applications
+- [Shawk](https://github.com/yuuki/shawk)
+  - [Proof of Concept] A Socket-Based Tracing System for Discovering Network Dependencies.
 - [DiamonDB](https://github.com/yuuki/diamondb)
   - Rebuild of Time Series Database on AWS.
 - [Droot](https://github.com/yuuki/droot)
