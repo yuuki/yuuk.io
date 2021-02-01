@@ -10,30 +10,16 @@ Click here for English page. <https://yuuk.io/en>
 <a class="icon-facebook social-button color" href="http://www.facebook.com/yuuki724"></a>
 <a class="icon-linkedin social-button color" href="https://www.linkedin.com/in/yuuk1/"></a>
 
-## 略歴
-
-Site Reliability Engineering(SRE)の研究者．さくらインターネット研究所研究員，京都大学大学院情報学研究科の博士課程，情報処理学会インターネットと運用技術(IOT)研究会運営委員．
-
-2011年にはてなサマーインターンに参加し，Webサービス開発の世界に入り，その後情報系の大学院修士課程を中途退学し，2013年に株式会社はてなにWebオペレーションエンジニアとして入社．Webサービスのインフラプラットフォーム開発と運用，サーバー監視サービスの構築と運用，時系列データベースの開発などに取り組む一方で，シニアエンジニアとしてSite Reliability Engineeringの観点で持続的な開発が可能なエンジニアリング組織の運営に携わる．
-
-2019年2月より，技術者から研究者へ転向し，現職のさくらインターネット研究所で研究員を務める．Site Reliability Engineering，Data-Intensive Applicationsを専門とし，実環境に組み込むことを目指した新しく有用な技術の研究開発に取り組む．
-2020年4月より，修士課程をとばし，京都大学大学院情報学研究科の博士課程へ社会人博士として進学．
-
-SRE NEXT 2020, CloudNative Days KANSAI 2020などの登壇多数．2017年に情報処理学会IPSJ-ONEにおいて，情報科学分野で活躍する若手研究者として選出される．
-
-## 略歴 (短縮版)
-
-Site Reliability Engineering(SRE)の研究者．2019年よりさくらインターネット研究所研究員．2020年より京都大学大学院情報学研究科の博士課程へ進学．2013年より5年間，株式会社はてなのSREとして従事．技術者としては，SRE NEXT 2020，CloudNative Days KANSAI 2020などの講演多数，学術研究の場では，情報処理学会IPSJ-ONE 2017にて情報科学分野で活躍する若手研究者として選出される．
-
-## 連絡先など
+SRE (Site Reliability Engineering)の研究者。クラウドコンピューティングにおける大規模な分散システムの開発・運用技術に興味を持つ。ウェブ上では、yuuki, yuuk1, yuuk1tなどのIDで活動している。
+## 連絡先
 
 - E-mail
   - **仕事** y-tsubouchi (at) sakura.ad.jp
   - **大学** y-tsubouchi (at) net.ist.i.kyoto-u.ac.jp
   - **副業・個人** yuki.tsubo (at) gmail.com
-- ブログ: [https://blog.yuuk.io/](https://blog.yuuk.io/archive), [https://memo.yuuk.io/](https://memo.yuuk.io/archive)
-- 口頭発表スライド: <https://speakerdeck.com/yuukit>
-- 研究日誌: [yuuki/logbook](https://www.notion.so/yuuk1/b6351f431db641e5b2cc341ea6371563?v=682b4c7434e648368846b78c288d24ff)
+- Blog: [https://blog.yuuk.io/](https://blog.yuuk.io/archive), [https://memo.yuuk.io/](https://memo.yuuk.io/archive)
+- Slides: <https://speakerdeck.com/yuukit>
+- Journal: [yuuki/logbook](https://www.notion.so/yuuk1/b6351f431db641e5b2cc341ea6371563?v=682b4c7434e648368846b78c288d24ff)
 
 ## 所属
 
@@ -80,17 +66,17 @@ Site Reliability Engineering(SRE)の研究者．2019年よりさくらインタ�
 
 ### 論文誌論文
 
-1. <u>坪内佑樹</u>, 脇坂朝人, 濱田健, 松木雅幸, 小林隆浩, 阿部博, 松本亮介, **[HeteroTSDB: 異種分散KVS間の自動階層化による高性能な時系列データベース]()**, 情報処理学会論文誌, Vol.62, No.3, 2021年3月. [[論文]()] (to appear)
+1. <u>坪内佑樹</u>, 脇坂朝人, 濱田健, 松木雅幸, 小林隆浩, 阿部博, 松本亮介, **[HeteroTSDB: 異種分散KVS間の自動階層化による高性能な時系列データベース]()**, 情報処理学会論文誌, Vol.62, No.3, 2021年3月. [[論文]()] [code](https://github.com/yuuki/xtsdb) (to appear)
 
 ### 国際会議録（査読付き）
 
-1. <u>Yuuki Tsubouchi</u>, Masahiro Furukawa, Ryosuke Matsumoto, **[Transtracer: Socket-Based Tracing of Network Dependencies among Processes in Distributed Applications](https://ieeexplore.ieee.org/abstract/document/9202851/)**, [The 1st IEEE International COMPSAC Workshop on Advanced IoT Computing (AIOT 2020)](https://ieeecompsac.computer.org/2020/aiot/), July 2020. [[paper](https://yuuk.io/papers/transtracer_compsac2020.pdf)] [no presentation]
+1. <u>Yuuki Tsubouchi</u>, Masahiro Furukawa, Ryosuke Matsumoto, **[Transtracer: Socket-Based Tracing of Network Dependencies among Processes in Distributed Applications](https://ieeexplore.ieee.org/abstract/document/9202851/)**, [The 1st IEEE International COMPSAC Workshop on Advanced IoT Computing (AIOT 2020)](https://ieeecompsac.computer.org/2020/aiot/), July 2020. [[paper](https://yuuk.io/papers/transtracer_compsac2020.pdf)] [no presentation] [code](https://github.com/yuuki/shawk)
 1. <u>Yuuki Tsubouchi</u>, Asato Wakisaka, Ken Hamada, Masayuki Matsuki, Hiroshi Abe, Ryosuke Matsumoto, **[HeteroTSDB: An Extensible Time Series Database for Automatically Tiering on Heterogeneous Key-Value Stores](https://ieeexplore.ieee.org/abstract/document/8754289)**, [The 43rd Annual IEEE International Computers, Software & Applications Conference (COMPSAC)](https://ieeecompsac.computer.org/2019/), pp. 264-269, July 2019. [[paper](https://yuuk.io/papers/heterotsdb_compsac2019.pdf)] [[slide](https://speakerdeck.com/yuukit/heterotsdb-an-extensible-time-series-database-for-automatically-tiering-on-heterogeneous-key-value-stores)]
 
 ### 国内会議録（査読付き）
 
 1. <u>坪内佑樹</u>, 鶴田博文, 古川雅大, **[TSifter: マイクロサービスにおける性能異常の迅速な診断に向いた時系列データの次元削減手法](http://id.nii.ac.jp/1001/00208106/)**, [インターネットと運用技術シンポジウム論文集, 2020, 9-16 (2020-11-26)](https://www.iot.ipsj.or.jp/symposium/iots2020-program/), 2020年12月. [[論文]](https://yuuk.io/papers/tsifter_iots2020.pdf) [[発表資料]](https://speakerdeck.com/yuukit/tsifter-in-proceedings-of-iots2020)
-1. <u>坪内佑樹</u>, 古川雅大, 松本亮介, **[Transtracer: 分散システムにおけるTCP/UDP通信の終端点の監視によるプロセス間依存関係の自動追跡](http://id.nii.ac.jp/1001/00200765/)**, [インターネットと運用技術シンポジウム論文集, 2019, 64-71 (2019-11-28)](https://www.iot.ipsj.or.jp/symposium/iots2019-program/), 2019年12月. [[論文](https://yuuk.io/papers/transtracer_iots2019.pdf)] [[発表資料](https://speakerdeck.com/yuukit/udptong-xin-falsezhong-duan-dian-falsejian-shi-niyoruhurosesujian-yi-cun-guan-xi-falsezi-dong-zhui-ji-8bc9ca63-0751-40fd-9ad5-2f1ea692b9b0)]
+1. <u>坪内佑樹</u>, 古川雅大, 松本亮介, **[Transtracer: 分散システムにおけるTCP/UDP通信の終端点の監視によるプロセス間依存関係の自動追跡](http://id.nii.ac.jp/1001/00200765/)**, [インターネットと運用技術シンポジウム論文集, 2019, 64-71 (2019-11-28)](https://www.iot.ipsj.or.jp/symposium/iots2019-program/), 2019年12月. [[論文](https://yuuk.io/papers/transtracer_iots2019.pdf)] [[発表資料](https://speakerdeck.com/yuukit/udptong-xin-falsezhong-duan-dian-falsejian-shi-niyoruhurosesujian-yi-cun-guan-xi-falsezi-dong-zhui-ji-8bc9ca63-0751-40fd-9ad5-2f1ea692b9b0)] [code](https://github.com/yuuki/shawk)
 1. <u>坪内佑樹</u>, 脇坂朝人, 濱田健, 松木雅幸, 阿部博, 松本亮介, **[HeteroTSDB: 異種混合キーバリューストアを用いた自動階層化のための時系列データベースアーキテクチャ](http://id.nii.ac.jp/1001/00192569/)**, [インターネットと運用技術シンポジウム論文集, 2018, 7-15 (2018-11-29)](https://www.iot.ipsj.or.jp/symposium/2018-program/), 2018年12月. [[論文](https://yuuk.io/papers/heterotsdb_iots2018.pdf)] [[発表資料](https://speakerdeck.com/yuukit/heterotsdb-a-time-series-database-architecture-for-automatically-tiering-on-heterogeneous-key-value-stores)]
 
 ### 国内会議録（査読なし）
