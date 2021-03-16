@@ -66,11 +66,11 @@ SRE (Site Reliability Engineering)の研究者。クラウドコンピューテ�
 
 ### 論文誌論文
 
-1. <u>坪内佑樹</u>, 脇坂朝人, 濱田健, 松木雅幸, 小林隆浩, 阿部博, 松本亮介, **[HeteroTSDB: 異種分散KVS間の自動階層化による高性能な時系列データベース]()**, 情報処理学会論文誌, Vol.62, No.3, 2021年3月. [[論文]()] [code](https://github.com/yuuki/xtsdb) (to appear)
+1. <u>坪内佑樹</u>, 脇坂朝人, 濱田健, 松木雅幸, 小林隆浩, 阿部博, 松本亮介, **[HeteroTSDB: 異種分散KVS間の自動階層化による高性能な時系列データベース](http://id.nii.ac.jp/1001/00210244/)**, 情報処理学会論文誌, Vol.62, No.3, 2021年3月. [[論文](https://yuuk.io/papers/heterotsdb_ipsj_journal2021.pdf)] [[code](https://github.com/yuuki/xtsdb)]
 
 ### 国際会議録（査読付き）
 
-1. <u>Yuuki Tsubouchi</u>, Masahiro Furukawa, Ryosuke Matsumoto, **[Transtracer: Socket-Based Tracing of Network Dependencies among Processes in Distributed Applications](https://ieeexplore.ieee.org/abstract/document/9202851/)**, [The 1st IEEE International COMPSAC Workshop on Advanced IoT Computing (AIOT 2020)](https://ieeecompsac.computer.org/2020/aiot/), July 2020. [[paper](https://yuuk.io/papers/transtracer_compsac2020.pdf)] [no presentation] [code](https://github.com/yuuki/shawk)
+1. <u>Yuuki Tsubouchi</u>, Masahiro Furukawa, Ryosuke Matsumoto, **[Transtracer: Socket-Based Tracing of Network Dependencies among Processes in Distributed Applications](https://ieeexplore.ieee.org/abstract/document/9202851/)**, [The 1st IEEE International COMPSAC Workshop on Advanced IoT Computing (AIOT 2020)](https://ieeecompsac.computer.org/2020/aiot/), July 2020. [[paper](https://yuuk.io/papers/transtracer_compsac2020.pdf)] [no presentation] [[code](https://github.com/yuuki/shawk)]
 1. <u>Yuuki Tsubouchi</u>, Asato Wakisaka, Ken Hamada, Masayuki Matsuki, Hiroshi Abe, Ryosuke Matsumoto, **[HeteroTSDB: An Extensible Time Series Database for Automatically Tiering on Heterogeneous Key-Value Stores](https://ieeexplore.ieee.org/abstract/document/8754289)**, [The 43rd Annual IEEE International Computers, Software & Applications Conference (COMPSAC)](https://ieeecompsac.computer.org/2019/), pp. 264-269, July 2019. [[paper](https://yuuk.io/papers/heterotsdb_compsac2019.pdf)] [[slide](https://speakerdeck.com/yuukit/heterotsdb-an-extensible-time-series-database-for-automatically-tiering-on-heterogeneous-key-value-stores)]
 
 ### 国内会議録（査読付き）
