@@ -58,15 +58,15 @@ SRE (Site Reliability Engineering)の研究者。クラウドコンピューテ�
 
 ### 受賞
 
-1. [情報処理学会インターネットと運用技術シンポジウム2020（IOTS2020）優秀論文賞](https://www.iot.ipsj.or.jp/awards/symposium/) <u>坪内佑樹</u>, 鶴田博文, 古川雅大, **[TSifter: マイクロサービスにおける性能異常の迅速な診断に向いた時系列データの次元削減手法](http://id.nii.ac.jp/1001/00192569/)**, インターネットと運用技術シンポジウム論文集, 2020, 9-16 (2020-11-26), 2020年12月.
+1. [情報処理学会インターネットと運用技術シンポジウム2020（IOTS2020）優秀論文賞](https://www.iot.ipsj.or.jp/awards/symposium/) <u>坪内佑樹</u>, 鶴田博文, 古川雅大, **[TSifter: マイクロサービスにおける性能異常の迅速な診断に向いた時系列データの次元削減手法](http://id.nii.ac.jp/1001/00192569/)**, 2020年12月.
 1. [情報処理学会インターネットと運用技術シンポジウム2020（IOTS2020）優秀プレゼンテーション賞](https://www.iot.ipsj.or.jp/awards/symposium/) <u>坪内佑樹</u>, **[TSifter: マイクロサービスにおける性能異常の迅速な診断に向いた時系列データの次元削減手法](http://id.nii.ac.jp/1001/00192569/)**, 2020年12月.
-1. [2020年度 情報処理学会 山下記念研究賞](https://www.ipsj.or.jp/award/yamasita2020-detail.html#iot)，坪内佑樹, Transtracer: 分散システムにおけるTCP/UDP通信の終端点の監視によるプロセス間依存関係の自動追跡, 2020年.
-1. [情報処理学会インターネットと運用技術シンポジウム2019（IOTS2019）優秀論文賞](https://www.iot.ipsj.or.jp/awards/symposium/) <u>坪内佑樹</u>, 古川雅大, 松本亮介, **[Transtracer: 分散システムにおけるTCP/UDP通信の終端点の監視によるプロセス間依存関係の自動追跡](http://id.nii.ac.jp/1001/00200765/)**, インターネットと運用技術シンポジウム論文集, 2019, 64-71 (2019-11-28), 2019年12月.
-1. [情報処理学会インターネットと運用技術シンポジウム2019（IOTS2019）冠賞: シー・オー・コンヴ賞](https://www.iot.ipsj.or.jp/awards/symposium/) <u>坪内佑樹</u>, 古川雅大, 松本亮介, **[Transtracer: 分散システムにおけるTCP/UDP通信の終端点の監視によるプロセス間依存関係の自動追跡](http://id.nii.ac.jp/1001/00200765/)**, インターネットと運用技術シンポジウム論文集, 2019, 64-71 (2019-11-28), 2019年12月.
+1. [2020年度 情報処理学会 山下記念研究賞](https://www.ipsj.or.jp/award/yamasita2020-detail.html#iot)，<u>坪内佑樹</u>, Transtracer: 分散システムにおけるTCP/UDP通信の終端点の監視によるプロセス間依存関係の自動追跡, 2020年.
+1. [情報処理学会インターネットと運用技術シンポジウム2019（IOTS2019）優秀論文賞](https://www.iot.ipsj.or.jp/awards/symposium/) <u>坪内佑樹</u>, 古川雅大, 松本亮介, **[Transtracer: 分散システムにおけるTCP/UDP通信の終端点の監視によるプロセス間依存関係の自動追跡](http://id.nii.ac.jp/1001/00200765/)**, 2019年12月.
+1. [情報処理学会インターネットと運用技術シンポジウム2019（IOTS2019）冠賞: シー・オー・コンヴ賞](https://www.iot.ipsj.or.jp/awards/symposium/) <u>坪内佑樹</u>, 古川雅大, 松本亮介, **[Transtracer: 分散システムにおけるTCP/UDP通信の終端点の監視によるプロセス間依存関係の自動追跡](http://id.nii.ac.jp/1001/00200765/)**, 2019年12月.
 
 ### 論文誌論文
 
-1. <u>坪内佑樹</u>, 脇坂朝人, 濱田健, 松木雅幸, 小林隆浩, 阿部博, 松本亮介, **[HeteroTSDB: 異種分散KVS間の自動階層化による高性能な時系列データベース](http://id.nii.ac.jp/1001/00210244/)**, 情報処理学会論文誌, Vol.62, No.3, 2021年3月. [[論文](https://yuuk.io/papers/2021/heterotsdb_ipsj_journal.pdf)] [[code](https://github.com/yuuki/xtsdb)]
+1. <u>坪内佑樹</u>, 脇坂朝人, 濱田健, 松木雅幸, 小林隆浩, 阿部博, 松本亮介, **[HeteroTSDB: 異種分散KVS間の自動階層化による高性能な時系列データベース](http://id.nii.ac.jp/1001/00210244/)**, 情報処理学会論文誌, Vol.62, No.3, pp.818-828, 2021年3月. [[論文](https://yuuk.io/papers/2021/heterotsdb_ipsj_journal.pdf)] [[code](https://github.com/yuuki/xtsdb)]
 
 ### 国際会議録（査読付き）
 
