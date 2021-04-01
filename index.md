@@ -183,28 +183,6 @@ SRE (Site Reliability Engineering)の研究者。クラウドコンピューテ�
 1. 坪内佑樹, **[Yahoo! JAPANの新しいメッセージングシステムと、それをOSSで開発するエンジニアの素顔](http://hatenanews.com/articles/201612/24092)**, はてなニュース, 2016年12月
 1. 坪内佑樹, **[秒間100万リクエストを支えるオープンソースのコードを書くヤフーのインフラチームに、はてなエンジニアが迫る](http://hatenanews.com/articles/201604/23819)**, はてなニュース, 2016年04月
 
-### ホットエントリ
-
-[はてなブックマーク数の降順リスト](https://b.hatena.ne.jp/entrylist?url=http%3A%2F%2Fblog.yuuk.io%2F&sort=count)
-
-1. id:y_uuki, **[サーバーレスアーキテクチャ再考](https://blog.yuuk.io/entry/2019/rethinking-serverless-architecture)**, 2019年09月
-1. id:y_uuki, **[2019年SRE考](https://blog.yuuk.io/entry/2019/thinking-sre)**, 2019年01月
-1. id:y_uuki, **[時系列データベースの論文を書いた](https://blog.yuuk.io/entry/2018/writing-the-tsdb-paper)**, 2018年12月
-1. id:y_uuki, **[RedisサーバのCPU負荷対策パターン](https://blog.yuuk.io/entry/redis-cpu-load)**, 2017年09月
-1. id:y_uuki, **[時系列データベースという概念をクラウドの技で再構築する](https://blog.yuuk.io/entry/the-rebuild-of-tsdb-on-cloud)**, 2017年06月
-1. id:y_uuki, **[高度に発達したシステムの異常は神の怒りと見分けがつかない - IPSJ-ONE2017](https://blog.yuuk.io/entry/ipsjone2017)**, 2017年03月
-1. id:y_uuki, **[自作Linuxコンテナの時代](https://blog.yuuk.io/entry/diy-container)** 2016年4月
-1. id:y_uuki, **[ウェブアプリケーション開発に新言語を採用したときにインフラで考えたこと](https://blog.yuuk.io/entry/infra-for-newlang)**, 2016年03月
-1. id:y_uuki, **[Linuxサーバにログインしたらいつもやっているオペレーション](https://blog.yuuk.io/entry/linux-server-operations)**, 2016年02月
-1. id:y_uuki, **[Dockerとchrootを組み合わせたシンプルなコンテナデプロイツール](https://blog.yuuk.io/entry/droot)**, 2015年12月
-1. id:y_uuki, **[はてなで大規模サービスのインフラを学んだ](https://blog.yuuk.io/entry/large-scale-infrastructure)**, 2015年07月
-1. id:y_uuki, **[Webシステムにおけるデータベース接続アーキテクチャ概論](https://blog.yuuk.io/entry/architecture-of-database-connection)**, 2015年06月
-1. id:y_uuki, **[2015年Webサーバアーキテクチャ序論](https://blog.yuuk.io/entry/2015-webserver-architecture)**, 2015年05月
-1. id:y_uuki, **[Mackerelを支える時系列データベース技術](https://blog.yuuk.io/entry/high-performance-graphite)**, 2015年04月
-1. id:y_uuki, **[Linuxでロードバランサやキャッシュサーバをマルチコアスケールさせるためのカーネルチューニング](https://blog.yuuk.io/entry/linux-networkstack-tuning-rfs)**, 2015年03月
-1. id:y_uuki, **[インフラエンジニア向けシステム系論文](https://blog.yuuk.io/entry/system-papers)**, 2015年12月
-1. id:y_uuki, **[GoとMySQLを用いたジョブキューシステムを作るときに考えたこと](https://blog.yuuk.io/entry/go-and-mysql-jobqueue)**, 2014年12月
-
 ### 寄稿
 
 1. 坪内佑樹, **[はてなWebオペレーションチームのテックリード](http://developer.hatenastaff.com/entry/2017/10/12/184721)**, 2017年10月12日
