@@ -27,6 +27,7 @@ SRE (Site Reliability Engineering)の研究者。クラウドコンピューテ�
 - [さくらインターネット研究所 研究員](https://research.sakura.ad.jp/about/)
 - [京都大学 大学院情報学研究科 知能情報学専攻 メディア応用講座ネットワークメディア分野](http://www.net.ist.i.kyoto-u.ac.jp/ja/) 博士後期課程
 - [情報処理学会 インターネットと運用技術研究会 運営委員](https://www.iot.ipsj.or.jp/)
+- [Topotal](https://topotal.com/)テクノロジアドバイザー
 
 ## 経歴
 
