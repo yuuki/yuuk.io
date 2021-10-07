@@ -18,28 +18,23 @@ SRE (Site Reliability Engineering)の研究者。クラウドコンピューテ�
   - **仕事** y-tsubouchi (at) sakura.ad.jp
   - **大学** y-tsubouchi (at) net.ist.i.kyoto-u.ac.jp
   - **副業・個人** yuki.tsubo (at) gmail.com
-- Blog: [https://blog.yuuk.io/](https://blog.yuuk.io/archive), [https://memo.yuuk.io/](https://memo.yuuk.io/archive)
-- Slides: <https://speakerdeck.com/yuukit>
-- Journal: [yuuki/logbook](https://www.notion.so/yuuk1/b6351f431db641e5b2cc341ea6371563?v=682b4c7434e648368846b78c288d24ff)
+- ブログ: [https://blog.yuuk.io/](https://blog.yuuk.io/archive), [https://memo.yuuk.io/](https://memo.yuuk.io/archive)
+- スライド: <https://speakerdeck.com/yuukit>
 
-## 所属
+## 職歴
 
-- [さくらインターネット研究所 研究員](https://research.sakura.ad.jp/about/)
-- [京都大学 大学院情報学研究科 知能情報学専攻 メディア応用講座ネットワークメディア分野](http://www.net.ist.i.kyoto-u.ac.jp/ja/) 博士後期課程
-- [情報処理学会 インターネットと運用技術研究会 運営委員](https://www.iot.ipsj.or.jp/)
-- [Topotal](https://topotal.com/)テクノロジアドバイザー
+- 2021年09月から現在 [Topotal](https://topotal.com/)テクノロジアドバイザー
+- 2020年05月から現在 [情報処理学会 インターネットと運用技術研究会 運営委員](https://www.iot.ipsj.or.jp/)
+- 2019年04月から2019年12月 一般社団法人セキュリティ・キャンプ協議会 セキュリティ・キャンプ 講師
+- 2019年02月から現在 [さくらインターネット研究所 研究員](https://research.sakura.ad.jp/about/)
+- 2013年12月から2018年12月 株式会社はてな Site Reliability Engineer, シニアエンジニア
+- 2012年09月から2013年11月 株式会社はてな エンジニアアルバイト
 
-## 経歴
+## 学歴
 
-- 2020年04月 京都大学 大学院情報学研究科 知能情報学専攻 メディア応用講座ネットワークメディア分野 博士後期課程 入学
-- 2019年05月 情報処理学会 インターネットと運用技術研究会 運営委員 就任
-- 2019年04月 一般社団法人セキュリティ・キャンプ協議会 セキュリティ・キャンプ 講師
-- 2019年02月 さくらインターネット株式会社 入社
-- 2018年12月 株式会社はてな 退社 (シニアエンジニア, Site Reliability Engineer)
-- 2013年12月 株式会社はてな 入社
-- 2013年10月 大阪大学大学院 情報科学研究科情報ネットワーク学専攻 退学
-- 2012年04月 大阪大学大学院 情報科学研究科情報ネットワーク学専攻 入学
-- 2012年03月 大阪大学 基礎工学部情報科学科 卒業
+- 2020年04月から現在 [京都大学 大学院情報学研究科 知能情報学専攻 メディア応用講座ネットワークメディア分野](http://www.net.ist.i.kyoto-u.ac.jp/ja/) 博士後期課程
+- 2012年04月から2013年10月（自主退学） 大阪大学大学院 情報科学研究科情報ネットワーク学専攻 博士前期課程
+- 2008年04月から2012年03月（卒業） 大阪大学 基礎工学部情報科学科
 
 ## 所属学会
 
@@ -50,9 +45,14 @@ SRE (Site Reliability Engineering)の研究者。クラウドコンピューテ�
 ## 専門分野
 
 - サイト信頼性工学 (Site Reliability Engineering)
+- AIOps (Artificial Intelligence for IT Operations)
 - データ指向アプリケーション設計
 
 ## 研究開発成果
+
+### 投稿済み論文
+
+1. Yuuki Tsubouchi, Masayoshi Furukawa, Ryosuke Matsumoto, **[Low Overhead TCP/UDP Socket-based Tracing for Discovering Network Services Dependencies]()**.
 
 ### 受賞
 
