@@ -20,6 +20,7 @@ SRE (Site Reliability Engineering)の研究者。クラウドコンピューテ�
   - **副業・個人** yuki.tsubo (at) gmail.com
 - ブログ: [https://blog.yuuk.io/](https://blog.yuuk.io/archive), [https://memo.yuuk.io/](https://memo.yuuk.io/archive)
 - スライド: <https://speakerdeck.com/yuukit>
+- ノート: [SRE Researcher Notes](https://notes.yuuk.io/)
 
 ## 職歴
 
@@ -35,12 +36,6 @@ SRE (Site Reliability Engineering)の研究者。クラウドコンピューテ�
 - 2020年04月から現在 [京都大学 大学院情報学研究科 知能情報学専攻 メディア応用講座ネットワークメディア分野](http://www.net.ist.i.kyoto-u.ac.jp/ja/) 博士後期課程
 - 2012年04月から2013年10月（自主退学） 大阪大学大学院 情報科学研究科情報ネットワーク学専攻 博士前期課程
 - 2008年04月から2012年03月（卒業） 大阪大学 基礎工学部情報科学科
-
-## 所属学会
-
-- [情報処理学会](http://www.ipsj.or.jp/)
-- [ACM](https://www.acm.org/)
-- [IEEE Computer Society](https://www.computer.org/)
 
 ## 専門分野
 
@@ -195,6 +190,8 @@ SRE (Site Reliability Engineering)の研究者。クラウドコンピューテ�
 
 ### OSS
 
+- [Meltria](https://github.com/ai4sre/meltria)
+  - A Dynamic Datasets Generating System for Anomaly Detection and Root Cause Analysis in Microservices.
 - [Shawk](https://github.com/yuuki/shawk)
   - [Proof of Concept] A Socket-Based Tracing System for Discovering Network Dependencies.
 - [DiamonDB](https://github.com/yuuki/diamondb)
