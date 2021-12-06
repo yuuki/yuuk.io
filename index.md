@@ -45,10 +45,6 @@ SRE (Site Reliability Engineering)の研究者。クラウドコンピューテ�
 
 ## 研究開発成果
 
-### 投稿済み論文
-
-1. Yuuki Tsubouchi, Masayoshi Furukawa, Ryosuke Matsumoto, **[Low Overhead TCP/UDP Socket-based Tracing for Discovering Network Services Dependencies]()**.
-
 ### 受賞
 
 1. [情報処理学会インターネットと運用技術シンポジウム2020（IOTS2020）優秀論文賞](https://www.iot.ipsj.or.jp/awards/symposium/) <u>坪内佑樹</u>, 鶴田博文, 古川雅大, **[TSifter: マイクロサービスにおける性能異常の迅速な診断に向いた時系列データの次元削減手法](http://id.nii.ac.jp/1001/00192569/)**, 2020年12月.
@@ -59,6 +55,7 @@ SRE (Site Reliability Engineering)の研究者。クラウドコンピューテ�
 
 ### 論文誌論文
 
+1. Yuuki Tsubouchi, Masayoshi Furukawa, Ryosuke Matsumoto, **[Low Overhead TCP/UDP Socket-based Tracing for Discovering Network Services Dependencies]()**, [Journal of Information Processing](https://www.ipsj.or.jp/english/jip/index.html), Vol. 30, 2022. [[code]](https://github.com/yuuki/go-conntracer-bpf).
 1. <u>坪内佑樹</u>, 脇坂朝人, 濱田健, 松木雅幸, 小林隆浩, 阿部博, 松本亮介, **[HeteroTSDB: 異種分散KVS間の自動階層化による高性能な時系列データベース](http://id.nii.ac.jp/1001/00210244/)**, 情報処理学会論文誌, Vol.62, No.3, pp.818-828, 2021年3月. [[論文](https://yuuk.io/papers/2021/heterotsdb_ipsj_journal.pdf)] [[code](https://github.com/yuuki/xtsdb)]
 
 ### 国際会議録（査読付き）
@@ -68,6 +65,7 @@ SRE (Site Reliability Engineering)の研究者。クラウドコンピューテ�
 
 ### 国内会議録（査読付き）
 
+1. 林友佳, 松原克弥, 鷲北賢, <u>坪内佑樹</u>,（ポスター）[Situation Awarenessと認知心理学にもとづいたマイクロサービス型システム向け監視ダッシュボードの設計](http://id.nii.ac.jp/1001/00213784/), [インターネットと運用技術シンポジウム論文集, 2021](https://www.iot.ipsj.or.jp/symposium/iots2021-program/), 97-98 (2021-11-18), 2021年12月.
 1. <u>坪内佑樹</u>, 青山真也, **[Meltria：マイクロサービスにおける異常検知・原因分析のためのデータセットの動的生成システム](http://id.nii.ac.jp/1001/00213770/), [インターネットと運用技術シンポジウム論文集, 2021, 63-70 (2021-11-18)](https://www.iot.ipsj.or.jp/symposium/iots2021-program/)**, 2021年11月. [[論文]](https://yuuk.io/papers/meltria_iots2021.pdf) [[発表資料]](https://speakerdeck.com/yuukit/meltria-in-iots2021) [[code]](https://github.com/ai4sre/meltria)
 1. 鶴田博文, <u>坪内佑樹</u>, [分散システムの性能異常に対する機械学習の解釈性に基づく原因診断手法](http://id.nii.ac.jp/1001/00213765/), [インターネットと運用技術シンポジウム論文集, 2021, 24-31 (2021-11-18)](https://www.iot.ipsj.or.jp/symposium/iots2021-program/)**, 2021年11月. [[論文]](https://yuuk.io/papers/xai-rca_iots2021.pdf)
 1. <u>坪内佑樹</u>, 鶴田博文, 古川雅大, **[TSifter: マイクロサービスにおける性能異常の迅速な診断に向いた時系列データの次元削減手法](http://id.nii.ac.jp/1001/00208106/)**, [インターネットと運用技術シンポジウム論文集, 2020, 9-16 (2020-11-26)](https://www.iot.ipsj.or.jp/symposium/iots2020-program/), 2020年12月. [[論文]](https://yuuk.io/papers/tsifter_iots2020.pdf) [[発表資料]](https://speakerdeck.com/yuukit/tsifter-in-proceedings-of-iots2020)
