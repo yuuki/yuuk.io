@@ -55,7 +55,7 @@ SRE (Site Reliability Engineering)の研究者。クラウドコンピューテ�
 
 ### 論文誌論文
 
-1. Yuuki Tsubouchi, Masayoshi Furukawa, Ryosuke Matsumoto, **[Low Overhead TCP/UDP Socket-based Tracing for Discovering Network Services Dependencies](http://id.nii.ac.jp/1001/00217486/)**, [Journal of Information Processing](https://www.ipsj.or.jp/english/jip/index.html), Vol.63, No.3, 2022. [[paper]](https://yuuk.io/papers/transtracer_jip2022.pdf) [[code]](https://github.com/yuuki/go-conntracer-bpf).
+1. Yuuki Tsubouchi, Masayoshi Furukawa, Ryosuke Matsumoto, **[Low Overhead TCP/UDP Socket-based Tracing for Discovering Network Services Dependencies](http://id.nii.ac.jp/1001/00217486/)**, [Journal of Information Processing](https://www.ipsj.or.jp/english/jip/index.html), Vol.30, pp.260-268, 2022. [[paper]](https://yuuk.io/papers/transtracer_jip2022.pdf) [[code]](https://github.com/yuuki/go-conntracer-bpf).
 1. <u>坪内佑樹</u>, 脇坂朝人, 濱田健, 松木雅幸, 小林隆浩, 阿部博, 松本亮介, **[HeteroTSDB: 異種分散KVS間の自動階層化による高性能な時系列データベース](http://id.nii.ac.jp/1001/00210244/)**, 情報処理学会論文誌, Vol.62, No.3, pp.818-828, 2021年3月. [[論文](https://yuuk.io/papers/2021/heterotsdb_ipsj_journal.pdf)] [[code](https://github.com/yuuki/xtsdb)]
 
 ### 国際会議録（査読付き）
