@@ -97,6 +97,7 @@ SRE (Site Reliability Engineering)の研究者。クラウドコンピューテ�
 
 ### 国内講演・講義
 
+1. 坪内佑樹, **[AIOps研究録―SREのための システム障害の自動原因診断](https://speakerdeck.com/yuukit/srenext2022)**, [SRE NEXT 2022 ONLINE](https://sre-next.dev/2022/), 2022年5月15日 [[動画]]()
 1. 坪内佑樹, (基調講演) **[分散アプリケーションの信頼性観測技術に関する研究](https://speakerdeck.com/yuukit/a-study-of-sre)**, [SRE NEXT 2020 IN TOKYO](https://sre-next.dev), 2020年1月25日 [[動画]](https://youtu.be/jsqZ7bLIsG4)
 1. 坪内佑樹, **[分散システム内のプロセス間の関係性に着目したObservabilityツール](https://speakerdeck.com/yuukit/transtracer-cndk2019)**, [CloudNative Days Kansai 2019](https://cloudnativedays.jp/cndk2019/), 2019年11月28日 (採択率: 9/30, 30%)
 1. 坪内佑樹, (講義) **[クラウド時代における大規模分散Webシステムの信頼性制御](https://www.ipa.go.jp/jinzai/camp/2019/zenkoku2019_program_list.html#list_d2-b1)**, [セキュリティ・キャンプ全国大会2019](https://www.ipa.go.jp/jinzai/camp/2019/zenkoku2019_index.html), 2019年08月14日
