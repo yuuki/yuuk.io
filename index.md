@@ -39,9 +39,8 @@ SRE (Site Reliability Engineering)の研究者。クラウドコンピューテ�
 
 ## 専門分野
 
-- サイト信頼性工学 (Site Reliability Engineering)
+- SRE (Site Reliability Engineering)
 - AIOps (Artificial Intelligence for IT Operations)
-- データ指向アプリケーション設計
 
 ## 研究開発成果
 
