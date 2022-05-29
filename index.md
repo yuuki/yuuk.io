@@ -14,11 +14,14 @@ SRE (Site Reliability Engineering)の研究者。クラウドコンピューテ�
 
 ## 連絡先
 
-- E-mail
-  - **仕事** y-tsubouchi (at) sakura.ad.jp
-  - **大学** y-tsubouchi (at) net.ist.i.kyoto-u.ac.jp
-  - **副業・個人** yuki.tsubo (at) gmail.com
-- ブログ: [https://blog.yuuk.io/](https://blog.yuuk.io/archive), [https://memo.yuuk.io/](https://memo.yuuk.io/archive)
+- さくらインターネット：y-tsubouchi (at) sakura.ad.jp
+- 京都大学大学院情報学研究科：y-tsubouchi (at) net.ist.i.kyoto-u.ac.jp
+- プライベート：yuki.tsubo (at) gmail.com
+
+## ブログ・スライド
+
+- メインブログ: [https://blog.yuuk.io/](https://blog.yuuk.io/archive)
+- メモブログ: [https://memo.yuuk.io/](https://memo.yuuk.io/archive)
 - スライド: <https://speakerdeck.com/yuukit>
 - ノート: [SRE Researcher Notes](https://notes.yuuk.io/)
 
@@ -96,6 +99,7 @@ SRE (Site Reliability Engineering)の研究者。クラウドコンピューテ�
 
 ### 国内講演・講義
 
+1. 坪内佑樹, (招待講演) **[AI時代に向けたクラウドにおける信頼性エンジニアリングの未来構想](), [DICOMO 2022 シンポジウム](https://dicomo.org/2022), 2022年7月
 1. 坪内佑樹, **[AIOps研究録―SREのためのシステム障害の自動原因診断](https://speakerdeck.com/yuukit/sre-next-2022)**, [SRE NEXT 2022 ONLINE](https://sre-next.dev/2022/), 2022年5月15日 [[動画]]()
 1. 坪内佑樹, (基調講演) **[分散アプリケーションの信頼性観測技術に関する研究](https://speakerdeck.com/yuukit/a-study-of-sre)**, [SRE NEXT 2020 IN TOKYO](https://sre-next.dev), 2020年1月25日 [[動画]](https://youtu.be/jsqZ7bLIsG4)
 1. 坪内佑樹, **[分散システム内のプロセス間の関係性に着目したObservabilityツール](https://speakerdeck.com/yuukit/transtracer-cndk2019)**, [CloudNative Days Kansai 2019](https://cloudnativedays.jp/cndk2019/), 2019年11月28日 (採択率: 9/30, 30%)
