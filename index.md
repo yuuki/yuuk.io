@@ -178,6 +178,11 @@ SRE (Site Reliability Engineering)の研究者。クラウドコンピューテ�
 1. 坪内佑樹, **[Yahoo! JAPANの新しいメッセージングシステムと、それをOSSで開発するエンジニアの素顔](http://hatenanews.com/articles/201612/24092)**, はてなニュース, 2016年12月
 1. 坪内佑樹, **[秒間100万リクエストを支えるオープンソースのコードを書くヤフーのインフラチームに、はてなエンジニアが迫る](http://hatenanews.com/articles/201604/23819)**, はてなニュース, 2016年04月
 
+### Podcast
+
+1. yuuki, **[18: AIOps with yuuki](https://e34.fm/18/)**, [e34.fm](https://e34.fm/), 2022年5月
+1. yuuki, **[2: eBPF with yuuki](https://e34.fm/2/)**, [e34.fm](https://e34.fm/), 2021年4月
+
 ### 寄稿
 
 1. 坪内佑樹, **[はてなWebオペレーションチームのテックリード](http://developer.hatenastaff.com/entry/2017/10/12/184721)**, 2017年10月12日
