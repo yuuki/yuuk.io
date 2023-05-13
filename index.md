@@ -28,7 +28,7 @@ SRE (Site Reliability Engineering)の研究者。クラウドコンピューテ�
 ## 職歴
 
 - 2021年09月から現在 [Topotal](https://topotal.com/)テクノロジアドバイザー
-- 2020年05月から現在 [情報処理学会 インターネットと運用技術研究会 運営委員](https://www.iot.ipsj.or.jp/)
+- 2020年05月から2023年03月 [情報処理学会 インターネットと運用技術研究会 運営委員](https://www.iot.ipsj.or.jp/)
 - 2019年04月から2019年12月 一般社団法人セキュリティ・キャンプ協議会 セキュリティ・キャンプ 講師
 - 2019年02月から現在 [さくらインターネット研究所 研究員](https://research.sakura.ad.jp/about/)
 - 2013年12月から2018年12月 株式会社はてな Site Reliability Engineer, シニアエンジニア
