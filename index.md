@@ -1,4 +1,4 @@
----
+elapsed_time/mean/chaos_case_num---
 layout: index
 title: 坪内 佑樹 (Yuuki TSUBOUCHI)
 ---
@@ -184,8 +184,8 @@ SRE (Site Reliability Engineering)の研究者。クラウドコンピューテ�
 
 ### Podcast
 
-1. yuuki, **[18: AIOps with yuuki](https://e34.fm/18/)**, [e34.fm](https://e34.fm/), 2022年5月
-1. yuuki, **[2: eBPF with yuuki](https://e34.fm/2/)**, [e34.fm](https://e34.fm/), 2021年4月
+1. deeeet/rrreeeyyy,yuuki, **[18: AIOps with yuuki](https://e34.fm/18/)**, [e34.fm](https://e34.fm/), 2022年5月
+1. deeeet/rrreeeyyy,yuuki, **[2: eBPF with yuuki](https://e34.fm/2/)**, [e34.fm](https://e34.fm/), 2021年4月
 
 ### 寄稿
 
