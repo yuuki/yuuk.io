@@ -1,4 +1,4 @@
-elapsed_time/mean/chaos_case_num---
+---
 layout: index
 title: 坪内 佑樹 (Yuuki TSUBOUCHI)
 ---
