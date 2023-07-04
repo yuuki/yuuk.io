@@ -16,7 +16,7 @@ SRE (Site Reliability Engineering)の研究者。クラウドコンピューテ�
 
 - さくらインターネット：y-tsubouchi (at) sakura.ad.jp
 - 京都大学大学院情報学研究科：y-tsubouchi (at) net.ist.i.kyoto-u.ac.jp
-- プライベート：yuki.tsubo (at) gmail.com
+- 個人：yuki.tsubo (at) gmail.com
 
 ## ブログ・スライド
 
