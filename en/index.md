@@ -46,7 +46,7 @@ He is a Site Reliability Engineering(SRE) Researcher working at SAKURA internet 
 
 ### International Journal (Refereed)
 
-1. <u>Yuuki Tsubouchi</u>, Hirofumi Tsuruta, "MetricSifter: Feature Reduction of Multivariate Time Series Data for Efficient Fault Localization in Cloud Applications", IEEE ACCESS, March 2024. [[code](https://github.com/ai4sre/metricsifter)]
+1. <u>Yuuki Tsubouchi</u>, Hirofumi Tsuruta, "**MetricSifter: Feature Reduction of Multivariate Time Series Data for Efficient Fault Localization in Cloud Applications**", IEEE Access (ACCESS), March 2024. [[code](https://github.com/ai4sre/metricsifter)]
 1. <u>Yuuki Tsubouchi</u>, Masayoshi Furukawa, Ryosuke Matsumoto, "**Low Overhead TCP/UDP Socket-based Tracing for Discovering Network Services Dependencies**", Journal of Information Processing (JIP), Vol.30, pp.260-268, 2022. [[paper](https://yuuk.io/papers/transtracer_jip2022.pdf)] [[code](https://github.com/yuuki/go-conntracer-bpf)].
 
 ### International Conference（Refereed）
