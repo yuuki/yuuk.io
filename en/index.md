@@ -44,9 +44,14 @@ He is a Site Reliability Engineering(SRE) Researcher working at SAKURA internet 
 
 ## Publications
 
+### International Journal (Refereed)
+
+1. <u>Yuuki Tsubouchi</u>, Hirofumi Tsuruta, "MetricSifter: Feature Reduction of Multivariate Time Series Data for Efficient Fault Localization in Cloud Applications", IEEE ACCESS, March 2024. [[code](https://github.com/ai4sre/metricsifter)]
+1. <u>Yuuki Tsubouchi</u>, Masayoshi Furukawa, Ryosuke Matsumoto, "**Low Overhead TCP/UDP Socket-based Tracing for Discovering Network Services Dependencies**", Journal of Information Processing (JIP), Vol.30, pp.260-268, 2022. [[paper](https://yuuk.io/papers/transtracer_jip2022.pdf)] [[code](https://github.com/yuuki/go-conntracer-bpf)].
+
 ### International Conference（Refereed）
 
-1. <u>Yuuki Tsubouchi</u>, Masahiro Furukawa, Ryosuke Matsumoto, "**[Transtracer: Socket-Based Tracing of Network Dependencies among Processes in Distributed Applications]()**", [The 1st IEEE International COMPSAC Workshop on Advanced IoT Computing (AIOT 2020)](https://ieeecompsac.computer.org/2020/aiot/), July 2020. (to appear)
+1. <u>Yuuki Tsubouchi</u>, Masahiro Furukawa, Ryosuke Matsumoto, "**[Transtracer: Socket-Based Tracing of Network Dependencies among Processes in Distributed Applications]()**", [The 1st IEEE International COMPSAC Workshop on Advanced IoT Computing (AIOT 2020)](https://ieeecompsac.computer.org/2020/aiot/), July 2020.
 1. <u>Yuuki Tsubouchi</u>, Asato Wakisaka, Ken Hamada, Masayuki Matsuki, Hiroshi Abe, Ryosuke Matsumoto, "**[HeteroTSDB: An Extensible Time Series Database for Automatically Tiering on Heterogeneous Key-Value Stores](https://ieeexplore.ieee.org/abstract/document/8754289)**", [Proceedings of The 43rd Annual IEEE International Computers, Software & Applications Conference (COMPSAC)](https://ieeecompsac.computer.org/2019/), pp. 264-269, July 2019. [[paper](https://yuuk.io/papers/heterotsdb_compsac2019.pdf)] [[slide](https://speakerdeck.com/yuukit/heterotsdb-an-extensible-time-series-database-for-automatically-tiering-on-heterogeneous-key-value-stores)]
 
 ### OSS
