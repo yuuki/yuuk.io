@@ -59,7 +59,7 @@ SRE (Site Reliability Engineering)の研究者。クラウドコンピューテ�
 
 ### 論文誌論文
 
-1. <u>Yuuki Tsubouchi</u>, Hirofumi Tsuruta, **[MetricSifter: Feature Reduction of Multivariate Time Series Data for Efficient Fault Localization in Cloud Applications](https://doi.org/10.1109/ACCESS.2024.3374334)**, [IEEE Access](https://ieeeaccess.ieee.org/) (ACCESS), Vol.12, No.Access-2024-04810, pp.1-20, Mar 2024. [[code](https://github.com/ai4sre/metricsifter)]
+1. <u>Yuuki Tsubouchi</u>, Hirofumi Tsuruta, **[MetricSifter: Feature Reduction of Multivariate Time Series Data for Efficient Fault Localization in Cloud Applications](https://doi.org/10.1109/ACCESS.2024.3374334)**, [IEEE Access](https://ieeeaccess.ieee.org/) (ACCESS), Vol.12, pp.37398-37417, Mar 2024. [[code](https://github.com/ai4sre/metricsifter)]
 1. <u>Yuuki Tsubouchi</u>, Masayoshi Furukawa, Ryosuke Matsumoto, **[Low Overhead TCP/UDP Socket-based Tracing for Discovering Network Services Dependencies](http://id.nii.ac.jp/1001/00217486/)**, [Journal of Information Processing](https://www.ipsj.or.jp/english/jip/index.html) (JIP), Vol.30, pp.260-268, 2022. [[paper]](https://yuuk.io/papers/transtracer_jip2022.pdf) [[code]](https://github.com/yuuki/go-conntracer-bpf).
 1. <u>坪内佑樹</u>, 脇坂朝人, 濱田健, 松木雅幸, 小林隆浩, 阿部博, 松本亮介, **[HeteroTSDB: 異種分散KVS間の自動階層化による高性能な時系列データベース](http://id.nii.ac.jp/1001/00210244/)**, 情報処理学会論文誌, Vol.62, No.3, pp.818-828, 2021年3月. [[論文](https://yuuk.io/papers/2021/heterotsdb_ipsj_journal.pdf)] [[code](https://github.com/yuuki/xtsdb)]
 
