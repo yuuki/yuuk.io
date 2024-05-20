@@ -37,7 +37,7 @@ SRE (Site Reliability Engineering)の研究者。クラウドコンピューテ�
 
 ## 学歴
 
-- 2020年04月から2023年03月 [京都大学 大学院情報学研究科 知能情報学専攻 メディア応用講座ネットワークメディア分野](http://www.net.ist.i.kyoto-u.ac.jp/ja/) 博士後期課程（研究指導認定退学）
+- 2020年04月から2023年03月（研究指導認定退学）[京都大学 大学院情報学研究科 知能情報学専攻 メディア応用講座ネットワークメディア分野](http://www.net.ist.i.kyoto-u.ac.jp/ja/) 博士後期課程
 - 2012年04月から2013年10月（自主退学） 大阪大学大学院 情報科学研究科情報ネットワーク学専攻 博士前期課程
 - 2008年04月から2012年03月（卒業） 大阪大学 基礎工学部情報科学科
 - 2005年04月から2008年03月（卒業） 京都市立堀川高等学校 自然探究科
@@ -162,12 +162,12 @@ SRE (Site Reliability Engineering)の研究者。クラウドコンピューテ�
 
 ### パネルディスカッション
 
-1. 坪内佑樹, [大企業経営におけるSREの重要性 | AEON TECH HUB #3](https://aeon.connpass.com/event/310105/), 2024年04月23日 [[動画]]()
-1. 坪内佑樹, **SRE(#nwc_sre)**, [次世代Webカンファレンス 2019](https://nextwebconf.connpass.com/event/103056/), 2019年01月13日 [[動画]](https://www.youtube.com/watch?v=HR1pcyQ_i3I)
-1. 坪内佑樹, トークセッション, [はてな・ペパボ技術大会 #4 〜DevOps〜 @京都](https://hatena.connpass.com/event/89520/), 2018年6月23日
-1. 坪内佑樹, **[人はなぜミドルウェアを作ってしまうのか?](http://2017.cross-party.com/program/x4)**, [CROSS 2017](http://2017.cross-party.com), 2017年09月07日
-1. 坪内佑樹, **[Hatena Engineer Seminar #7 @ Tokyo](https://hatena.connpass.com/event/45217/)**, 2016年12月6日
-1. 坪内佑樹, **[最前線で戦う若手インフラエンジニアたちが語る「技術トレンド」と「数年後の未来」](https://2015.techfesta.jp/p/program.html#tech_trend_and_future)**, [July Tech Festa 2015](https://2015.techfesta.jp), 2015年07年26日
+1. [大企業経営におけるSREの重要性 | AEON TECH HUB #3](https://aeon.connpass.com/event/310105/), 2024年04月23日 [[動画]]()
+1. **SRE(#nwc_sre)**, [次世代Webカンファレンス 2019](https://nextwebconf.connpass.com/event/103056/), 2019年01月13日 [[動画]](https://www.youtube.com/watch?v=HR1pcyQ_i3I)
+1. トークセッション, [はてな・ペパボ技術大会 #4 〜DevOps〜 @京都](https://hatena.connpass.com/event/89520/), 2018年6月23日
+1. **[人はなぜミドルウェアを作ってしまうのか?](http://2017.cross-party.com/program/x4)**, [CROSS 2017](http://2017.cross-party.com), 2017年09月07日
+1. **[Hatena Engineer Seminar #7 @ Tokyo](https://hatena.connpass.com/event/45217/)**, 2016年12月6日
+1. **[最前線で戦う若手インフラエンジニアたちが語る「技術トレンド」と「数年後の未来」](https://2015.techfesta.jp/p/program.html#tech_trend_and_future)**, [July Tech Festa 2015](https://2015.techfesta.jp), 2015年07年26日
 
 ### 競技
 
@@ -177,30 +177,31 @@ SRE (Site Reliability Engineering)の研究者。クラウドコンピューテ�
 
 ### 学会誌・商業誌等解説
 
-1. 坪内佑樹, **[ITエンジニアから研究者へ。社会人博士として大学院にも再挑戦し、自分の「代表的プロダクト」を追求するわけ](https://engineer-lab.findy-code.io/sre-to-researcher)**, Findy Engineer Lab, 2020年5月.
-1. 坪内佑樹, **[SRE実践の手引 ─ 信頼性をどう制御するか？ から始める、現実的な指標と目標の設計と計測](https://employment.en-japan.com/engineerhub/entry/2019/12/05/103000)**, [エンジニアHub](https://employment.en-japan.com/engineerhub/), 2019年12月4日
-1. 松本亮介, 坪内佑樹, 宮下剛輔, 青山真也, **[研究員たちが考える、さくらインターネット研究所「これから」の10年](https://ascii.jp/elem/000/001/963/1963013/)**, ASCII.jp, 2019年10月29日
-1. 坪内佑樹, **[高度に発達したシステムの異常は神の怒りと見分けがつかない　~システム管理者を恐れから解放する監視システムを](https://www.milive-plus.net/gakumon171102/)**, 河合塾みらいぶプラス, 2017年11月
-1. 坪内佑樹, **[ミドルウェアならではの開発者の悩み――スケーラビリティやソフトウェア寿命の問題にどう立ち向かうか](https://codezine.jp/article/detail/10487)**, CodeZine, 2017年10月
-1. 坪内佑樹, **[レンサバの常識を覆す「なめらかなシステム」に挑む──運用技術を学術研究して実際のサービスへ適用](http://hatenanews.com/articles/201701/24117)**, はてなニュース, 2017年01月
-1. 坪内佑樹, **[10年続くサービスを、インフラ技術で支える](http://hatenacorp.jp/recruit/operation_engineer)**, はてなWebオペレーションエンジニア座談会, 2016年12月
-1. 坪内佑樹, **[Yahoo! JAPANの新しいメッセージングシステムと、それをOSSで開発するエンジニアの素顔](http://hatenanews.com/articles/201612/24092)**, はてなニュース, 2016年12月
-1. 坪内佑樹, **[秒間100万リクエストを支えるオープンソースのコードを書くヤフーのインフラチームに、はてなエンジニアが迫る](http://hatenanews.com/articles/201604/23819)**, はてなニュース, 2016年04月
+1. [さくらインターネットで活躍中の id:y_uukiを訪問 | はてな卒業生訪問企画 [#9]](https://developer.hatenastaff.com/entry/2024/05/10/120000), Hatena Developer Blog, 2024年05月
+1. **[ITエンジニアから研究者へ。社会人博士として大学院にも再挑戦し、自分の「代表的プロダクト」を追求するわけ](https://engineer-lab.findy-code.io/sre-to-researcher)**, Findy Engineer Lab, 2020年5月.
+1. **[SRE実践の手引 ─ 信頼性をどう制御するか？ から始める、現実的な指標と目標の設計と計測](https://employment.en-japan.com/engineerhub/entry/2019/12/05/103000)**, [エンジニアHub](https://employment.en-japan.com/engineerhub/), 2019年12月4日
+1. **[研究員たちが考える、さくらインターネット研究所「これから」の10年](https://ascii.jp/elem/000/001/963/1963013/)**, ASCII.jp, 2019年10月29日
+1. **[高度に発達したシステムの異常は神の怒りと見分けがつかない　~システム管理者を恐れから解放する監視システムを](https://www.milive-plus.net/gakumon171102/)**, 河合塾みらいぶプラス, 2017年11月
+1. **[ミドルウェアならではの開発者の悩み――スケーラビリティやソフトウェア寿命の問題にどう立ち向かうか](https://codezine.jp/article/detail/10487)**, CodeZine, 2017年10月
+1. **[レンサバの常識を覆す「なめらかなシステム」に挑む──運用技術を学術研究して実際のサービスへ適用](http://hatenanews.com/articles/201701/24117)**, はてなニュース, 2017年01月
+1. **[10年続くサービスを、インフラ技術で支える](http://hatenacorp.jp/recruit/operation_engineer)**, はてなWebオペレーションエンジニア座談会, 2016年12月
+1. **[Yahoo! JAPANの新しいメッセージングシステムと、それをOSSで開発するエンジニアの素顔](http://hatenanews.com/articles/201612/24092)**, はてなニュース, 2016年12月
+1. **[秒間100万リクエストを支えるオープンソースのコードを書くヤフーのインフラチームに、はてなエンジニアが迫る](http://hatenanews.com/articles/201604/23819)**, はてなニュース, 2016年04月
 
 ### Podcast
 
-1. deeeet/rrreeeyyy,yuuki, **[18: AIOps with yuuki](https://e34.fm/18/)**, [e34.fm](https://e34.fm/), 2022年5月
-1. deeeet/rrreeeyyy,yuuki, **[2: eBPF with yuuki](https://e34.fm/2/)**, [e34.fm](https://e34.fm/), 2021年4月
+1. **[18: AIOps with yuuki](https://e34.fm/18/)**, [e34.fm](https://e34.fm/), 2022年5月
+1. **[2: eBPF with yuuki](https://e34.fm/2/)**, [e34.fm](https://e34.fm/), 2021年4月
 
 ### 寄稿
 
-1. 坪内佑樹, **[はてなWebオペレーションチームのテックリード](http://developer.hatenastaff.com/entry/2017/10/12/184721)**, 2017年10月12日
-1. 坪内佑樹, **[はてなのサーバ・ネットワーク基盤技術を探究するインターンの紹介](http://developer.hatenastaff.com/entry/2017/06/23/141135)**, 2017年06月23日
-1. 坪内佑樹, **[2016年はてなWebオペレーションエンジニアのアウトプット](http://developer.hatenastaff.com/entry/2016/12/28/151403)**, 2016年12月28日
-1. 坪内佑樹, **[2016年ウェブオペレーションエンジニアの新卒研修](http://developer.hatenastaff.com/entry/2016-newbie-training-of-web-operation)**, 2016年07月25日
-1. 坪内佑樹. **[リモートワークにおけるSlack Call活用と終業15分前の雑談](http://developer.hatenastaff.com/entry/2016/04/28/125529)**, 2016年04月28日
-1. 坪内佑樹, **[インフラエンジニアがGo言語でオペレーションツールを書くことについて](http://developer.hatenastaff.com/entry/golang-for-ops)**, 2016年03月24日
-1. 坪内佑樹. **[はてなにおける日々の仕事の中にあらわれるMackerelの活用](https://mackerel.io/ja/blog/entry/advent-calendar2015/day19)**, 2015年12月19日
+1. **[はてなWebオペレーションチームのテックリード](http://developer.hatenastaff.com/entry/2017/10/12/184721)**, 2017年10月12日
+1. **[はてなのサーバ・ネットワーク基盤技術を探究するインターンの紹介](http://developer.hatenastaff.com/entry/2017/06/23/141135)**, 2017年06月23日
+1. **[2016年はてなWebオペレーションエンジニアのアウトプット](http://developer.hatenastaff.com/entry/2016/12/28/151403)**, 2016年12月28日
+1. **[2016年ウェブオペレーションエンジニアの新卒研修](http://developer.hatenastaff.com/entry/2016-newbie-training-of-web-operation)**, 2016年07月25日
+1. **[リモートワークにおけるSlack Call活用と終業15分前の雑談](http://developer.hatenastaff.com/entry/2016/04/28/125529)**, 2016年04月28日
+1. **[インフラエンジニアがGo言語でオペレーションツールを書くことについて](http://developer.hatenastaff.com/entry/golang-for-ops)**, 2016年03月24日
+1. **[はてなにおける日々の仕事の中にあらわれるMackerelの活用](https://mackerel.io/ja/blog/entry/advent-calendar2015/day19)**, 2015年12月19日
 
 ### OSS
 
