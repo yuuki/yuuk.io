@@ -51,6 +51,7 @@ SRE (Site Reliability Engineering)の研究者。クラウドコンピューテ�
 
 ### 受賞
 
+1. [SRE NEXT 2024 ベストスピーカー賞](https://x.com/srenext/status/1822841235251597438) <u>坪内佑樹</u>, [工学としてのSRE再訪](https://sre-next.dev/2024/schedule/#jp068), 2024年08月.
 1. [情報処理学会インターネットと運用技術シンポジウム2020（IOTS2020）優秀論文賞](https://www.iot.ipsj.or.jp/awards/symposium/) <u>坪内佑樹</u>, 鶴田博文, 古川雅大, **[TSifter: マイクロサービスにおける性能異常の迅速な診断に向いた時系列データの次元削減手法](http://id.nii.ac.jp/1001/00192569/)**, 2020年12月.
 1. [情報処理学会インターネットと運用技術シンポジウム2020（IOTS2020）優秀プレゼンテーション賞](https://www.iot.ipsj.or.jp/awards/symposium/) <u>坪内佑樹</u>, **[TSifter: マイクロサービスにおける性能異常の迅速な診断に向いた時系列データの次元削減手法](http://id.nii.ac.jp/1001/00192569/)**, 2020年12月.
 1. [2020年度 情報処理学会 山下記念研究賞](https://www.ipsj.or.jp/award/yamasita2020-detail.html#iot)，<u>坪内佑樹</u>, Transtracer: 分散システムにおけるTCP/UDP通信の終端点の監視によるプロセス間依存関係の自動追跡, 2020年.
