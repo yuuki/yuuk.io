@@ -120,6 +120,8 @@ SRE (Site Reliability Engineering)の研究者。クラウドコンピューテ�
 
 ### 国内口頭発表
 
+1. 坪内佑樹, **[Cloudless Computingの論文紹介](https://speakerdeck.com/yuukit/cloudless-computingnolun-wen-shao-jie)**, さくらインターネット社内IaC勉強会, 2024年6月.
+1. 坪内佑樹, **[クラウドインシデントにおける「Detection is Better Than Cure」論文の紹介](https://speakerdeck.com/yuukit/fse23)**, [Waroom Meetup #1](https://topotal.connpass.com/event/317285/), 2024年6月.
 1. 坪内佑樹,古川雅大,松本亮介 **[ネットワークサービスの依存発見に向いたTCP/UDP通信の低負荷なトレース手法](https://speakerdeck.com/yuukit/low-overhead-tcp-udp-tracing-in-kernel)**, [第8回WebSystemArchitecture研究会](https://wsa.connpass.com/event/207143/), 2021年06月05日.
 1. 坪内佑樹,鶴田博文,古川雅大 **[マイクロサービスにおける性能異常の迅速な診断に向いた時系列データの次元削減手法](https://speakerdeck.com/yuukit/dimention-reduction-of-time-series-data-in-microservices)**, [第7回WebSystemArchitecture研究会](https://wsa.connpass.com/event/187128), 2020年11月14日.
 1. 坪内佑樹, **[分散アプリケーションの異常の因果関係を即時に推論するための手法の構想](https://speakerdeck.com/yuukit/on-time-causal-tracing-for-system-failures)**, [第6回WebSystemArchitecture研究会](https://websystemarchitecture.hatenablog.jp/entry/2019/12/11/165624), 2020年4月26日.
