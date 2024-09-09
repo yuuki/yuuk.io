@@ -167,7 +167,8 @@ SRE (Site Reliability Engineering)の研究者。クラウドコンピューテ�
 
 ### パネルディスカッション
 
-1. [大企業経営におけるSREの重要性 \| AEON TECH HUB #3](https://aeon.connpass.com/event/310105/), 2024年04月23日 [[動画]]()
+1. [SREの技術トレンド2024](https://sre-next.dev/2024/schedule/#pl002), [SRE NEXT 2024](https://sre-next.dev/2024/), 2024年8月4日 [[動画]]()
+1. [大企業経営におけるSREの重要性 \| AEON TECH HUB #3](https://aeon.connpass.com/event/310105/), 2024年04月23日 [[レポート]](https://engineer-recuruiting.aeon.info/aeon-tech-hub/event-report_ATH-3_2)
 1. **SRE(#nwc_sre)**, [次世代Webカンファレンス 2019](https://nextwebconf.connpass.com/event/103056/), 2019年01月13日 [[動画]](https://www.youtube.com/watch?v=HR1pcyQ_i3I)
 1. トークセッション, [はてな・ペパボ技術大会 #4 〜DevOps〜 @京都](https://hatena.connpass.com/event/89520/), 2018年6月23日
 1. **[人はなぜミドルウェアを作ってしまうのか?](http://2017.cross-party.com/program/x4)**, [CROSS 2017](http://2017.cross-party.com), 2017年09月07日
