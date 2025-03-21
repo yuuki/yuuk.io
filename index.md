@@ -24,7 +24,6 @@ SRE (Site Reliability Engineering)の研究者。京都大学博士（情報学�
 - メモブログ: [https://memo.yuuk.io/](https://memo.yuuk.io/archive)
 - スライド: <https://speakerdeck.com/yuukit>
 - ノート: [SRE Researcher Notes](https://notes.yuuk.io/)
-- Bluesky: [yuuk1.bsky.social](https://bsky.app/profile/yuuk1.bsky.social)
 
 ## 職歴
 

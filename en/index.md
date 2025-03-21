@@ -22,8 +22,6 @@ He is a Site Reliability Engineering(SRE) Researcher working at SAKURA internet 
 ## Affiliations
 
 - [SAKURA internet Research Center: Researcher](https://research.sakura.ad.jp/about/)
-- [Department of Inteligence Science and Technology, Graducate School of Informatics, Kyoto University: Doctor of Informatics (Candidate)](http://www.ist.i.kyoto-u.ac.jp/english/index.html) (to appear)
-- [IPSJ SIG Internet and Operation Technology: Steering committee](https://www.iot.ipsj.or.jp/)
 
 ## Academic Societies
 
@@ -43,6 +41,10 @@ He is a Site Reliability Engineering(SRE) Researcher working at SAKURA internet 
 - Distributed and coordinated proxy for query result caching
 
 ## Publications
+
+### Dissertation
+
+1. <u>Yuuki Tsubouchi</u>, **[Scaling Telemetry Workloads in Cloud Applications: Techniques for Instrumentation, Storage, and Mining]()**, [Department of Inteligence Science and Technology, Graducate School of Informatics, Kyoto University: Doctor of Informatics](http://www.ist.i.kyoto-u.ac.jp/english/index.html), Ph.D. Dissertation, March 2025.
 
 ### International Journal (Refereed)
 
