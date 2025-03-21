@@ -15,7 +15,6 @@ SRE (Site Reliability Engineering)の研究者。京都大学博士（情報学�
 ## 連絡先
 
 - さくらインターネット：y-tsubouchi (at) sakura.ad.jp
-- 京都大学大学院情報学研究科：y-tsubouchi (at) net.ist.i.kyoto-u.ac.jp
 - 個人：yuki.tsubo (at) gmail.com
 
 ## ブログ・スライド
