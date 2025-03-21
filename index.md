@@ -213,6 +213,8 @@ SRE (Site Reliability Engineering)の研究者。京都大学博士（情報学�
 
 ### OSS
 
+- [MetricSifter](https://github.com/yuuki/metricsifter)
+  - The AIOps library for automatic reduction of failure-unrelated metrics in Python
 - [Meltria](https://github.com/ai4sre/meltria)
   - A Dynamic Datasets Generating System for Anomaly Detection and Root Cause Analysis in Microservices.
 - [Shawk](https://github.com/yuuki/shawk)
@@ -239,6 +241,10 @@ SRE (Site Reliability Engineering)の研究者。京都大学博士（情報学�
   - An Ansible role for mackerel-agent.
 - [Coteng](https://metacpan.org/pod/Coteng)
   - Lightweight Teng O/R Mapper.
+
+### Curation
+
+- [The collection of SRE-related international academic conferences](https://gist.github.com/yuuki/60b768fcb6bdf3f3552ee59f5a9e4972)
 
 
 <hr>
