@@ -59,6 +59,11 @@ SRE (Site Reliability Engineering)の研究者。京都大学博士（情報学�
 1. [情報処理学会インターネットと運用技術シンポジウム2019（IOTS2019）優秀論文賞](https://www.iot.ipsj.or.jp/awards/symposium/) <u>坪内佑樹</u>, 古川雅大, 松本亮介, **[Transtracer: 分散システムにおけるTCP/UDP通信の終端点の監視によるプロセス間依存関係の自動追跡](http://id.nii.ac.jp/1001/00200765/)**, 2019年12月.
 1. [情報処理学会インターネットと運用技術シンポジウム2019（IOTS2019）冠賞: シー・オー・コンヴ賞](https://www.iot.ipsj.or.jp/awards/symposium/) <u>坪内佑樹</u>, 古川雅大, 松本亮介, **[Transtracer: 分散システムにおけるTCP/UDP通信の終端点の監視によるプロセス間依存関係の自動追跡](http://id.nii.ac.jp/1001/00200765/)**, 2019年12月.
 
+### 学位論文
+
+1. <u>Yuuki Tsubouchi</u>, **[Scaling Telemetry Workloads in Cloud Applications: Techniques for Instrumentation, Storage, and Mining]()**, 京都大学情報学研究科知能情報学専攻 博士学位論文, 2025年3月24日.
+1. <u>坪内佑樹</u>, 重複排除ストレージにおけるSHA-1計算のSSEによるスループット向上手法, 大阪大学基礎工学部卒業論文, 2012年3月.
+
 ### 論文誌論文
 
 1. <u>Yuuki Tsubouchi</u>, Hirofumi Tsuruta, **[MetricSifter: Feature Reduction of Multivariate Time Series Data for Efficient Fault Localization in Cloud Applications](https://doi.org/10.1109/ACCESS.2024.3374334)**, [IEEE Access](https://ieeeaccess.ieee.org/) (ACCESS), Vol.12, pp.37398-37417, Mar 2024. [[code](https://github.com/ai4sre/metricsifter)]
@@ -88,9 +93,6 @@ SRE (Site Reliability Engineering)の研究者。京都大学博士（情報学�
 1. <u>坪内佑樹</u>, 松本亮介, **[超個体型データセンターにおける分散協調クエリキャッシュ構想](http://id.nii.ac.jp/1001/00195697/)**, 情報処理学会研究報告インターネットと運用技術（IOT）, No.2019-IOT-45, Vol.14, pp.1-7, 2019年5月. [[論文]](https://yuuk.io/papers/concept-of-quorumcache_iot45.pdf) [[発表資料](https://speakerdeck.com/yuukit/quorumcache-architecture)]
 1. 松本亮介, <u>坪内佑樹</u>, 宮下剛輔, **[分散型データセンターOSを目指したリアクティブ性を持つコンテナ実行基盤技術](http://id.nii.ac.jp/1001/00194721/)**, 情報処理学会研究報告インターネットと運用技術（IOT）, No.2019-IOT-45, Vol.12, pp.1-8, 2019年3月.
 
-### 学位論文
-
-1. <u>坪内佑樹</u>, 重複排除ストレージにおけるSHA-1計算のSSEによるスループット向上手法, 大阪大学基礎工学部卒業論文, 2012年2月.
 
 ### 書籍・商業誌
 
@@ -104,7 +106,6 @@ SRE (Site Reliability Engineering)の研究者。京都大学博士（情報学�
 
 ### 国内講演・講義
 
-1. 坪内佑樹, **[クラウドのテレメトリーシステム研究動向2025年](https://speakerdeck.com/yuukit/telemetry-systems-research-trends-in-2025), [さくらインターネット研究所テックトーク2025春](https://sakura-tokyo.connpass.com/event/343441/), 2025年3月13日.
 1. 坪内佑樹, **[MetricSifter：クラウドアプリケーションにおける故障箇所特定の効率化のための多変量時系列データの特徴量削減](https://speakerdeck.com/yuukit/fit-2024)**, [FIT2024 第23回情報科学技術フォーラム  トップコンファレンスセッション](https://www.ipsj.or.jp/event/fit/fit2024/abstract/data/html/event/event_TCS7-3.html), 2024年9月6日.
 1. 坪内佑樹, **[工学としてのSRE再訪](https://speakerdeck.com/yuukit/revisiting-sre-as-engineering)**, [SRE NEXT 2024 IN TOKYO](https://sre-next.dev/2024), 2024年8月3日 [[動画]](https://youtu.be/_-hjsC3yOww) (採択率: 22/110, 20%)
 1. 坪内佑樹, **[エンジニアのためのSRE論文への招待](https://speakerdeck.com/yuukit/introduction-to-sre-papers-for-engineers)**, [SRE NEXT 2023 IN TOKYO](https://sre-next.dev/2023), 2023年9月29日 [[動画]](https://youtu.be/N3io5Lkqvzw?si=5Ks9mslMpExoKbc5)（採択率：22/102, 21.6%）.
@@ -122,6 +123,7 @@ SRE (Site Reliability Engineering)の研究者。京都大学博士（情報学�
 
 ### 国内口頭発表
 
+1. 坪内佑樹, **[クラウドのテレメトリーシステム研究動向2025年](https://speakerdeck.com/yuukit/telemetry-systems-research-trends-in-2025)**, [さくらインターネット研究所テックトーク2025春](https://sakura-tokyo.connpass.com/event/343441/), 2025年3月13日.
 1. 坪内佑樹, **[Cloudless Computingの論文紹介](https://speakerdeck.com/yuukit/cloudless-computingnolun-wen-shao-jie)**, さくらインターネット社内IaC勉強会, 2024年6月.
 1. 坪内佑樹, **[クラウドインシデントにおける「Detection is Better Than Cure」論文の紹介](https://speakerdeck.com/yuukit/fse23)**, [Waroom Meetup #1](https://topotal.connpass.com/event/317285/), 2024年6月.
 1. 坪内佑樹,古川雅大,松本亮介 **[ネットワークサービスの依存発見に向いたTCP/UDP通信の低負荷なトレース手法](https://speakerdeck.com/yuukit/low-overhead-tcp-udp-tracing-in-kernel)**, [第8回WebSystemArchitecture研究会](https://wsa.connpass.com/event/207143/), 2021年06月05日.
