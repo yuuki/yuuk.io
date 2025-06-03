@@ -121,6 +121,7 @@ SRE (Site Reliability Engineering)の研究者。京都大学博士（情報学�
 
 ### 国内口頭発表
 
+1. 坪内佑樹, **[eBPFを用いたAIネットワーク監視システム論文の実装](https://speakerdeck.com/yuukit/ebpf-japan-meetup-number-4)**, [eBPF Japan Meetup #4](https://ebpf.connpass.com/event/350944/), 2025年05月30日.
 1. 坪内佑樹, **[クラウドのテレメトリーシステム研究動向2025年](https://speakerdeck.com/yuukit/telemetry-systems-research-trends-in-2025)**, [さくらインターネット研究所テックトーク2025春](https://sakura-tokyo.connpass.com/event/343441/), 2025年3月13日.
 1. 坪内佑樹, **[Cloudless Computingの論文紹介](https://speakerdeck.com/yuukit/cloudless-computingnolun-wen-shao-jie)**, さくらインターネット社内IaC勉強会, 2024年6月.
 1. 坪内佑樹, **[クラウドインシデントにおける「Detection is Better Than Cure」論文の紹介](https://speakerdeck.com/yuukit/fse23)**, [Waroom Meetup #1](https://topotal.connpass.com/event/317285/), 2024年6月.
