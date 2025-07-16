@@ -104,6 +104,7 @@ SRE (Site Reliability Engineering)の研究者。京都大学博士（情報学�
 
 ### 国内講演・講義
 
+1. 坪内佑樹, **[とあるSREの博士「過程」](https://speakerdeck.com/yuukit/a-certain-sres-ph-dot-d-journey)**, [SRE NEXT 2025 IN TOKYO](https://sre-next.dev/2025), 2025年7月11日. [[動画]]()
 1. 坪内佑樹, **[MetricSifter：クラウドアプリケーションにおける故障箇所特定の効率化のための多変量時系列データの特徴量削減](https://speakerdeck.com/yuukit/fit-2024)**, [FIT2024 第23回情報科学技術フォーラム  トップコンファレンスセッション](https://www.ipsj.or.jp/event/fit/fit2024/abstract/data/html/event/event_TCS7-3.html), 2024年9月6日.
 1. 坪内佑樹, **[工学としてのSRE再訪](https://speakerdeck.com/yuukit/revisiting-sre-as-engineering)**, [SRE NEXT 2024 IN TOKYO](https://sre-next.dev/2024), 2024年8月3日 [[動画]](https://youtu.be/_-hjsC3yOww) (採択率: 22/110, 20%)
 1. 坪内佑樹, **[エンジニアのためのSRE論文への招待](https://speakerdeck.com/yuukit/introduction-to-sre-papers-for-engineers)**, [SRE NEXT 2023 IN TOKYO](https://sre-next.dev/2023), 2023年9月29日 [[動画]](https://youtu.be/N3io5Lkqvzw?si=5Ks9mslMpExoKbc5)（採択率：22/102, 21.6%）.
@@ -186,7 +187,7 @@ SRE (Site Reliability Engineering)の研究者。京都大学博士（情報学�
 
 ### 学会誌・商業誌等解説
 
-1. [さくらインターネットで活躍中の id:y_uukiを訪問 \| はてな卒業生訪問企画 [#9]](https://developer.hatenastaff.com/entry/2024/05/10/120000), Hatena Developer Blog, 2024年05月
+1. **[さくらインターネットで活躍中の id:y_uukiを訪問 \| はてな卒業生訪問企画 [#9]](https://developer.hatenastaff.com/entry/2024/05/10/120000)**, Hatena Developer Blog, 2024年05月
 1. **[ITエンジニアから研究者へ。社会人博士として大学院にも再挑戦し、自分の「代表的プロダクト」を追求するわけ](https://engineer-lab.findy-code.io/sre-to-researcher)**, Findy Engineer Lab, 2020年5月.
 1. **[SRE実践の手引 ─ 信頼性をどう制御するか？ から始める、現実的な指標と目標の設計と計測](https://employment.en-japan.com/engineerhub/entry/2019/12/05/103000)**, [エンジニアHub](https://employment.en-japan.com/engineerhub/), 2019年12月4日
 1. **[研究員たちが考える、さくらインターネット研究所「これから」の10年](https://ascii.jp/elem/000/001/963/1963013/)**, ASCII.jp, 2019年10月29日
