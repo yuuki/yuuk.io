@@ -59,7 +59,7 @@ SRE (Site Reliability Engineering)の研究者。京都大学博士（情報学�
 
 ### 学位論文
 
-1. <u>Yuuki Tsubouchi</u>, **[Scaling Telemetry Workloads in Cloud Applications: Techniques for Instrumentation, Storage, and Mining]()**, 京都大学情報学研究科知能情報学専攻 博士学位論文, 2025年3月24日.
+1. <u>Yuuki Tsubouchi</u>, **[Scaling Telemetry Workloads in Cloud Applications: Techniques for Instrumentation, Storage, and Mining]()**, 京都大学情報学研究科知能情報学専攻 博士学位論文, 2025年3月24日 [[slide]](https://speakerdeck.com/yuukit/phd-defence).
 1. <u>坪内佑樹</u>, 重複排除ストレージにおけるSHA-1計算のSSEによるスループット向上手法, 大阪大学基礎工学部卒業論文, 2012年3月.
 
 ### 論文誌論文
