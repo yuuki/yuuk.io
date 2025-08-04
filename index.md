@@ -104,7 +104,7 @@ SRE (Site Reliability Engineering)の研究者。京都大学博士（情報学�
 
 ### 国内講演・講義
 
-1. 坪内佑樹, **[とあるSREの博士「過程」](https://speakerdeck.com/yuukit/a-certain-sres-ph-dot-d-journey)**, [SRE NEXT 2025 IN TOKYO](https://sre-next.dev/2025), 2025年7月11日. [[動画]]()
+1. 坪内佑樹, **[とあるSREの博士「過程」](https://speakerdeck.com/yuukit/a-certain-sres-ph-dot-d-journey)**, [SRE NEXT 2025 IN TOKYO](https://sre-next.dev/2025), 2025年7月11日. [[動画]](https://www.youtube.com/watch?v=__9NeFbbiXU)
 1. 坪内佑樹, **[MetricSifter：クラウドアプリケーションにおける故障箇所特定の効率化のための多変量時系列データの特徴量削減](https://speakerdeck.com/yuukit/fit-2024)**, [FIT2024 第23回情報科学技術フォーラム  トップコンファレンスセッション](https://www.ipsj.or.jp/event/fit/fit2024/abstract/data/html/event/event_TCS7-3.html), 2024年9月6日.
 1. 坪内佑樹, **[工学としてのSRE再訪](https://speakerdeck.com/yuukit/revisiting-sre-as-engineering)**, [SRE NEXT 2024 IN TOKYO](https://sre-next.dev/2024), 2024年8月3日 [[動画]](https://youtu.be/_-hjsC3yOww) (採択率: 22/110, 20%)
 1. 坪内佑樹, **[エンジニアのためのSRE論文への招待](https://speakerdeck.com/yuukit/introduction-to-sre-papers-for-engineers)**, [SRE NEXT 2023 IN TOKYO](https://sre-next.dev/2023), 2023年9月29日 [[動画]](https://youtu.be/N3io5Lkqvzw?si=5Ks9mslMpExoKbc5)（採択率：22/102, 21.6%）.
