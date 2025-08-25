@@ -44,7 +44,7 @@ He is a Site Reliability Engineering(SRE) Researcher working at SAKURA internet 
 
 ### Dissertation
 
-1. <u>Yuuki Tsubouchi</u>, **[Scaling Telemetry Workloads in Cloud Applications: Techniques for Instrumentation, Storage, and Mining]()**, [Department of Inteligence Science and Technology, Graducate School of Informatics, Kyoto University: Doctor of Informatics](http://www.ist.i.kyoto-u.ac.jp/english/index.html), Ph.D. Dissertation, March 2025.
+1. <u>Yuuki Tsubouchi</u>, **[Scaling Telemetry Workloads in Cloud Applications: Techniques for Instrumentation, Storage, and Mining](https://doi.org/10.14989/doctor.k26133)**, [Department of Inteligence Science and Technology, Graducate School of Informatics, Kyoto University: Doctor of Informatics](http://www.ist.i.kyoto-u.ac.jp/english/index.html), Ph.D. Dissertation, March 2025. [[paper]](https://repository.kulib.kyoto-u.ac.jp/items/be6e3c74-f682-4156-b816-6ddfb8c70f59)
 
 ### International Journal (Refereed)
 
