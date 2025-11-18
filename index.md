@@ -105,7 +105,7 @@ SRE (Site Reliability Engineering)の研究者。京都大学博士（情報学�
 ### 国内講演・講義
 
 1. 坪内佑樹, (招待講演) **[SREはサイバネティクスの夢をみるか？―クラウドにおけるテレメトリー技術の博士論文とその後]()**, [第18回 インターネットと運用技術シンポジウム (IOTS2025) ](https://www.iot.ipsj.or.jp/symposium/iots2025-program/), 2025年12月12日. (to appear)
-1. 坪内佑樹, (ゲストスピーカー) **[SREのためのテレメトリー技術の探究]()**, [YAPC::Fukuoka 2025](https://fortee.jp/yapc-fukuoka-2025), 2025年11月14日. (to appear)
+1. 坪内佑樹, (ゲストセッション) **[SREのためのテレメトリー技術の探究](https://speakerdeck.com/yuukit/telemetry-for-sre)**, [YAPC::Fukuoka 2025](https://fortee.jp/yapc-fukuoka-2025), 2025年11月14日.
 1. 坪内佑樹, **[AIスパコン「さくらONE」のオブザーバビリティ](https://speakerdeck.com/yuukit/observability-for-ai-supercomputer-sakuraone)**, [Observability Conference Tokyo 2025](https://o11ycon.jp/), 2025年10月27日. [[動画]](https://www.youtube.com/watch?v=XrIHUwKKwvs)
 1. 坪内佑樹, (基調講演), **[AIスパコン「さくらONE」のLLM学習ベンチマークによる性能評価](https://speakerdeck.com/yuukit/sakuraone-llm-training-benchmarking)**, [Cloud Operator Days Tokyo 2025](https://cloudopsdays.com) Closing Event, 2025年9月5日.
 1. 坪内佑樹, **[とあるSREの博士「過程」](https://speakerdeck.com/yuukit/a-certain-sres-ph-dot-d-journey)**, [SRE NEXT 2025 IN TOKYO](https://sre-next.dev/2025), 2025年7月11日. [[動画]](https://www.youtube.com/watch?v=__9NeFbbiXU)
