@@ -104,7 +104,8 @@ SRE (Site Reliability Engineering)の研究者。京都大学博士（情報学�
 
 ### 国内講演・講義
 
-1. 坪内佑樹, (招待講演) **[SREはサイバネティクスの夢をみるか？―クラウドにおけるテレメトリー技術の博士論文とその後]()**, [第18回 インターネットと運用技術シンポジウム (IOTS2025) ](https://www.iot.ipsj.or.jp/symposium/iots2025-program/), 2025年12月12日. (to appear)
+1. 坪内佑樹, **[AIスーパーコンピュータにおけるLLM学習処理性能の計測と可観測性]()**, [2025年度 情報処理学会中国支部主催講演会](https://www.ipsj-chugoku.jp/kouenkai/2025-20251222.html), 2025年12月22日 (to appear).
+1. 坪内佑樹, (招待講演) **[SREはサイバネティクスの夢をみるか？―クラウドにおけるテレメトリー技術の博士論文とその後](https://speakerdeck.com/yuukit/do-sres-dream-of-cybernetics)**, [第18回 インターネットと運用技術シンポジウム (IOTS2025) ](https://www.iot.ipsj.or.jp/symposium/iots2025-program/), 2025年12月12日.
 1. 坪内佑樹, (ゲストセッション) **[SREのためのテレメトリー技術の探究](https://speakerdeck.com/yuukit/telemetry-for-sre)**, [YAPC::Fukuoka 2025](https://fortee.jp/yapc-fukuoka-2025), 2025年11月14日.
 1. 坪内佑樹, **[AIスパコン「さくらONE」のオブザーバビリティ](https://speakerdeck.com/yuukit/observability-for-ai-supercomputer-sakuraone)**, [Observability Conference Tokyo 2025](https://o11ycon.jp/), 2025年10月27日. [[動画]](https://www.youtube.com/watch?v=XrIHUwKKwvs)
 1. 坪内佑樹, (基調講演), **[AIスパコン「さくらONE」のLLM学習ベンチマークによる性能評価](https://speakerdeck.com/yuukit/sakuraone-llm-training-benchmarking)**, [Cloud Operator Days Tokyo 2025](https://cloudopsdays.com) Closing Event, 2025年9月5日.
@@ -192,6 +193,7 @@ SRE (Site Reliability Engineering)の研究者。京都大学博士（情報学�
 
 ### 学会誌・商業誌等解説
 
+1. **[SREのためのテレメトリー技術の探究 — モニタリングSaaS開発からAIOps・AIインフラまで 〜YAPC::Fukuoka 2025レポート〜](https://knowledge.sakura.ad.jp/48582/)**, [さくらのナレッジ](https://knowledge.sakura.ad.jp/), 2025年12月.
 1. **[さくらインターネットで活躍中の id:y_uukiを訪問 \| はてな卒業生訪問企画 [#9]](https://developer.hatenastaff.com/entry/2024/05/10/120000)**, Hatena Developer Blog, 2024年05月
 1. **[ITエンジニアから研究者へ。社会人博士として大学院にも再挑戦し、自分の「代表的プロダクト」を追求するわけ](https://engineer-lab.findy-code.io/sre-to-researcher)**, Findy Engineer Lab, 2020年5月.
 1. **[SRE実践の手引 ─ 信頼性をどう制御するか？ から始める、現実的な指標と目標の設計と計測](https://employment.en-japan.com/engineerhub/entry/2019/12/05/103000)**, [エンジニアHub](https://employment.en-japan.com/engineerhub/), 2019年12月4日
