@@ -104,7 +104,7 @@ SRE (Site Reliability Engineering)の研究者。京都大学博士（情報学�
 
 ### 国内講演・講義
 
-1. 坪内佑樹, **[AIスーパーコンピュータにおけるLLM学習処理性能の計測と可観測性]()**, [2025年度 情報処理学会中国支部主催講演会](https://www.ipsj-chugoku.jp/kouenkai/2025-20251222.html), 2025年12月22日 (to appear).
+1. 坪内佑樹, **[AIスーパーコンピュータにおけるLLM学習処理性能の計測と可観測性](https://speakerdeck.com/yuukit/ai-supercomputer-llm-benchmarking-and-observability)**, [2025年度 情報処理学会中国支部主催講演会](https://www.ipsj-chugoku.jp/kouenkai/2025-20251222.html), 2025年12月22日.
 1. 坪内佑樹, (招待講演) **[SREはサイバネティクスの夢をみるか？―クラウドにおけるテレメトリー技術の博士論文とその後](https://speakerdeck.com/yuukit/do-sres-dream-of-cybernetics)**, [第18回 インターネットと運用技術シンポジウム (IOTS2025) ](https://www.iot.ipsj.or.jp/symposium/iots2025-program/), 2025年12月12日.
 1. 坪内佑樹, (ゲストセッション) **[SREのためのテレメトリー技術の探究](https://speakerdeck.com/yuukit/telemetry-for-sre)**, [YAPC::Fukuoka 2025](https://fortee.jp/yapc-fukuoka-2025), 2025年11月14日.
 1. 坪内佑樹, **[AIスパコン「さくらONE」のオブザーバビリティ](https://speakerdeck.com/yuukit/observability-for-ai-supercomputer-sakuraone)**, [Observability Conference Tokyo 2025](https://o11ycon.jp/), 2025年10月27日. [[動画]](https://www.youtube.com/watch?v=XrIHUwKKwvs)
